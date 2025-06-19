@@ -1,0 +1,66 @@
+Version 12.1 Release Notes - Latest Releases
+⌘
+K
+Version 12.1 Release Notes
+1
+min
+We are determined towards our clients, and our print software is coming with the latest updates and features. The latest update includes technical improvements and UI enhancements along with some major and minor bug fixes.
+In version 12.1, we have made changes in the below-listed sections. Click on the respective sections to learn about the new features and enhancements -
+﻿
+Admin Section
+﻿
+﻿
+~ Visual Price Calculator for Admin
+~ Report for Unsold Products
+~ Extra Fields for Google Shopping Feeds
+﻿
+Designer Studio
+﻿
+﻿
+~ QR Code Styling Support
+~ Auto Translation of Template Text
+~ Raster to Vector Images Conversion
+﻿
+Front Store
+﻿
+﻿
+~ Reward Points Utilization at Checkout
+~ BOGO or BXGY Deals
+~ Team Collaboration for B2C Accounts
+﻿
+Order Section
+﻿
+﻿
+~ Revamped Offline Order Module
+~ Reorder for Another Customer with Saved Design
+﻿
+Quote Section
+﻿
+﻿
+~ Tailor-Made Quote with Ease
+~ Improved Request Quote Experience
+~ Faster Quote Reuse with Duplication
+﻿
+Product Section
+﻿
+ 
+~ Introducing Document Print
+~ Introducing Die-Cut Stickers Personalization
+﻿
+﻿
+Third-Party Integrations
+﻿
+﻿
+~ Order and Notification via WhatsApp
+~ Apple Pay and Google Pay for Ready-to-Buy Products
+Did this page help you?
+Yes
+No
+NEXT
+Admin Section
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee
