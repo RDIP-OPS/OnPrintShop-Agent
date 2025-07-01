@@ -1,0 +1,84 @@
+Store Fields - Use Cases - User Manual
+⌘
+K
+Supporting Docs
+Store Fields - Use Cases
+10 min
+Overview
+As discussed in 
+Store Fields
+﻿
+, we offer two types of Fields –
+User-wise Personalization fields – 
+These types of fields are used to set Customer-Wise data. This data either can be filled in by Store Admin, Site Admin, or the Store Customer as per the setting.
+Template Personalization (dropdown) 
+– These types of Store fields are used to set predefined data (common for all Store Customers). Admin sets up this data and then it is available as a drop-down on block templates.
+Use Case Scenarios
+Check the below image where I have created 4 different fields – 
+Designation and Profile Image 
+as User-Wise Personalization Fields.
+Address1 and Address2 
+as Template Personalization Fields.
+﻿
+Note:
+ We will use these fields for further reference.
+How User-Wise Personalized Fields work?
+Whenever you create a user-wise personalized field, it appears in the ‘My Account’ section of every store customer.
+Examples of such fields can be – Date of Birth, Date of Joining, Blood Group, Designation, Customer’s Image, etc.
+In the 
+‘My Account >> Store Field’
+, your Store customers will find all the 
+User-Wise Personalization Fields. 
+They can fill in the details of these fields and get pre-filled templates.
+﻿
+Admin Panel
+On the Admin side, you will have to match the Template Fields Block Name with the Block Name of extra fields created. For example – the block name of Profile Image while creating the Store Field was defined as a 
+profileimage.
+﻿
+Now in templates, go to 
+Templates >> Product Templates >> Action Menu of Template >> Edit Field Order.
+﻿
+Enter the block name of the Image block as 
+profileimage.
+Perform the above steps with all the remaining blocks.
+Designer Studio
+﻿
+How Template-Wise Personalized Fields work?
+Template-Wise personalized fields appear as a dropdown of options in the designer studio. A store customer can select any of the suitable options from the available options. These options are provided by the Admin, no store customer can alter them.
+An example of this field is – Address. The store can have many addresses due to different office locations. Thus, to save your customers from entering their addresses, again and again, every time, you can simply provide a dropdown of all office addresses.
+To do so simply follow the below steps in the Admin Panel – 
+Create fields with the Field Type – Template Personalization, for example – Address1 and Address2.
+﻿
+Click on 
+Template Personalization 
+from the top-right corner.
+In the next screen, click the ‘
++Add
+’ button to create your first Template Personalization option.
+In the next screen, enter a Field Title. This title will appear in the Designer Studio.
+﻿
+When a customer chooses this title, the system will automatically fill the ‘Template Personalized’ fields associated with the title.
+Now, these two options will appear as a dropdown in the designer studio.
+Here we have created two office addresses, one is Indian Office and the other is USA Office.
+﻿
+Designer Studio – 
+Here, you can see that the two Template Personalization options – USA Office and India Office appear as options.
+﻿
+As soon as a customer chooses one profile, the system will automatically fill in the ‘Address1’ and ‘Address2’ fields.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Solve Email Not Delivered Error
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Use Case Scenarios
+How User-Wise Personalized Fields work?
+How Template-Wise Personalized Fields work?
+Docs powered by
+ 
+Archbee

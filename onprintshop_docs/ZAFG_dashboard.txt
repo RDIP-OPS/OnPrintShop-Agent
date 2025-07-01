@@ -1,0 +1,39 @@
+Dashboard - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Quote Management
+Quotes
+Dashboard
+1 min
+The Quotation Dashboard lists quotes irrespective of their status. You can easily filter out quotes, according to their status using the search bar.
+﻿
+You will see an order number under the quote status. This will appear after the customer has approved the given quote and placed an order for the same.
+You will also be able to see the black tick marks against the products’ quantity, for which the customer has accepted the quote.
+There are various 
+Quote Status
+﻿
+ associated with Quotes. You can quickly add a new quote from the Admin Panel itself on behalf of the customers, using the 
+Add New Quote.
+﻿
+﻿
+You can also easily check the 
+Printer Quotes
+﻿
+ i.e. the quotes assigned to the printers from the 
+Printer Quotes 
+icon.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Quote Settings
+NEXT
+Add New Quote
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee

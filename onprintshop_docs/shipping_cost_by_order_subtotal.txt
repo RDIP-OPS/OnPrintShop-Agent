@@ -1,0 +1,54 @@
+Shipping Cost By Order Subtotal - User Manual
+⌘
+K
+Store Setup
+...
+Shipping Method
+Shipping Methods
+Shipping Cost By Order Subtotal
+4 min
+Overview
+When you want to offer a shipping method based on the cart subtotal, this shipping method allows the admin to configure the shipping cost based on the order subtotal.
+If the Cart subtotal reaches some particular value then you can offer your customers a different shipping rates.
+E.g:
+ If the customer is buying $500 worth of products then you want to charge $10 as shipping cost and when the 1000$ worth of product then, you want to offer them shipping for free.
+Configuration
+For configuring the shipping method, go to the 
+Admin >> Store Configuration >> Shipping Method >> Shipping Cose by Order Subtotal >> Actions >> Edit
+.
+﻿
+System Settings
+On the editing screen, you can choose to modify the shipping method name, select the availability, select the shipping type as “
+Shipping Cost by Subtotal
+” and do some other changes:
+﻿
+For the configuration, you can refer the 
+Common Settings
+﻿
+﻿
+Shipping Settings
+After system settings, you need to configure the price for the shipping method:
+﻿
+First, you need to select the user type for whom you will be setting the shipping price. 
+Next, enter the price ranges (for subtotal) and specify the shipping amount for that range. When the customer will add products to its cart and selects the “Shipping cost by Subtotal” shipping, then the shipping cost will be displayed based on the subtotal price of the order.
+
+For example, if the cart subtotal is “$10.30” and the customer opts for “Shipping Cost by Subtotal” then, the shipping cost will be displayed as $10 based on the settings.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Local Pickup
+NEXT
+Third-Party Shipping
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Configuration
+System Settings
+Shipping Settings
+Docs powered by
+ 
+Archbee

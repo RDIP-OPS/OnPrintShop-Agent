@@ -1,0 +1,237 @@
+Product Templates - User Manual
+⌘
+K
+Template & Studio
+...
+Templates
+Creating Templates
+Product Templates
+28 min
+Overview & Purpose
+In the print industry, templates or product design is one of the most important roles. While placing an order it becomes very important for the customers to either create a design for their product, choose from the existing templates (which you i.e. Admin will create in later stages), or upload their own design file.
+Template Display
+It totally depends on you whether you have allowed the customer to upload the print-ready file, allowed them to create a custom design, or given them access to browse through the pre-defined template created. You can enable this setting while configuring the product using the ‘Product Type’ option.
+﻿
+The Templates Section of the Admin Panel is broadly divided into two – Product Templates and PDF Block Templates.
+Product Templates
+ – These are the designs created by the Admin using the 
++Add
+ button.
+PDF Block Templates
+ – They appear in the browse design section of the web store. You can create PDF block templates using 
+PDFlib TET Plugin Usage
+﻿
+﻿
+Product Template Dashboard
+All the template added by you using the 
++Add 
+button will be displayed under this section. You can add a template for all product types enabled into your system i.e. standard products, calendar, photobook, etc.
+These products can have different template types – such as PDF Block Templates, Print Ready PDF, Customizable, and non-Customizable templates.
+At a glance, you can see all the templates added by you in various categories and for various products.
+﻿
+Using the search bar, you can easily search any template by applying a number of filters such as User Type, Product, Template Category, Template Type, Color Filter, Language and more.
+For PDF Block Templates you can easily reach out to the Help Section using the HELP button provided in the top right corner.
+You can anytime delete the template(s), if no longer in use. Simply select the templates and click on Delete Button.
+You’ll get an eye-like icon to instantly view the templates, a download button to download the design.
+On the dashboard, you can also view the templates’ names, the product they are designed for, the category they are assigned, the type of template, date created, etc.
+Add a Product Template
+To add a Product template, go to the 
+Admin >> Templates >> Product Templates >> Add Button (top-right corner)
+Select User Type
+Every template created will have its different usage and business needs. For example, a design template for Dominos will not be helpful for default store customers or any other store. Understanding this we have given an option where you can choose your user type and create a template for them.
+﻿
+Select Product Type
+Our clients have a different type of product enabled in their system. For this, we have given an option wherein you can choose the product type.
+﻿
+Select Product
+Depending on the Product Type, you will get a list of products. At a time, you can select only one product size and create a design for the same.
+Select Template Category
+Depending on the customer’s requirements, it is possible that they look for a category filter where they can find the desired design templates. For this, we have added a number of categories that will be helpful to your customers according to their industry. Here you can assign the same template to multiple categories depending on the design.
+Know more about the 
+Template Categories
+﻿
+﻿
+Select Color for Template Filter
+It is possible that your website has thousands of product templates. Thus, we have provided a color filter for the customers. This will help them find the right template. There are various pre-defined color categories created. You can also add a new color filter using the ‘+’ icon.
+Once you click to add a color you will get a pop-up. Click on the 
+Add 
+Button to add a new color. Give the color a title and enter the HEX value or choose a color from the Color Palette.
+﻿
+Design Language
+The selection of languages from this dropdown will display the templates in these languages of the website. If your website is multilingual, then this dropdown will display all the languages and you can select as per your business needs.
+Title
+This is the name of the template which will help you identify it later.
+Duplicate Product
+This section will display all the products with the same size as of the product selected in the ‘Select Product’ section. For example, if you have selected a Letterhead of the A4 size and you have other products of A4 size such as diary, notebook, then this section will list down those products.
+Template Type
+ 
+Depending on the requirements we have options to create a template in a different category.
+﻿
+Customizable
+: This option will let customers customize the template design from the Designer Studio. They can change the text, change the images, and more if a template created is customizable.
+Non
+-
+Customizable
+: These templates are the opposite of the Customizable Templates. If you have a certain design that is invariant and you don’t want your customers to change it, then you can allocate those templates into a Non-Customizable category. Customers will get a direct option to checkout after selecting such templates.
+﻿
+PDF Block:
+ You can use this option to create PDF Block Templates using the PDFlib plugin Adobe Acrobat. This will be most beneficial to your store customers where the designs of their products are already defined, all they need to do is enter a few information and proceed to checkout.
+An example of such a product can be a Business Card assigned to a Store Registered into your system. When a customer checks a design, they’ll get an option to ‘Customize’ it.
+﻿
+Given above is a brochure assigned to a Store, here a customer is free to change the event date, and number but not any other text or design or fonts.
+However, they can only edit those blocks that are kept editable during PDF Block Template creation. Also, if the image block is kept editable then they will get an option to upload a new image.
+Thus, with PDF block templates a customer can easily enter their details in the template without worrying about the integrity of their designs.
+Please refer to the PDF Block Template Help section at the top right of the 'Product Templates' page to learn more about creating PDF Block Templates.
+Selecting this option for your template will open three other toggle buttons
+Centralized Personalization:
+ This will synchronize the left panel of the block templates with the blocks created to capture customer’s information.
+Lock Text Property:
+ This block will help you maintain the integrity of the design, thus restricting them from changing any font type or size.
+Template Personalization:
+ This option will auto-fill all the personalized profile blocks for the store customers, reducing their pain of entering the information again in the Designer Studio
+Note:
+ The personalization profile will be available only for store users and not for default store users.
+Uploaded Print-Ready PDF:
+ These are Print-ready templates that you can directly upload for customers to order. This will be useful if you have a number of designs created in a PDF format.
+Template Layout:
+ According to your business needs, you can create different layouts for a Product Page. For example, a 4-page brochure can offer a different set of designs for each page, giving the customer the freedom to choose a more customized layout for their product page.
+While creating a Template Layout, you get a ‘Page Name’ dropdown, this will help you bind a product page with the design.
+﻿
+On the designer studio, customers will get the list of different layouts in the Template section. From here they can choose the desired layout for the page and continue designing other pages.
+Template Cost
+Depending upon the template designed you can charge a cost for the templates from the customers. It may happen that you have used some premium images or fonts in the template and for that you want to offer the selected template as premium too. However, you can enter a cost for the template which will be displayed in the admin panel as well as at the storefront. 
+Create From InDesign
+The OnPrintShop Solution offers InDesign template (.IDML) import functionality allowing the Admin to import their existing Adobe InDesign templates directly into the platform. 
+This saves him significant time by eliminating the need to recreate templates that are already created in InDesign. Admin just needs to import the created InDesign Template and required assets for template creation into our solution.
+You can even 
+Create IDML File from AI file
+﻿
+ before importing in the system. Here is how you can save your InDesign File for creating template in OnPrintShop:
+﻿
+This feature is available for Customizable and Non-Customizable products.
+Create Template from InDesign Template
+To create a new template, go to 
+Admin >> Templates >> Product Templates >> Click on the Create From InDesign Button (positioned at the top-right corner)
+﻿
+Add basic details for creating templates like product type, product, etc.
+Then, click on the 
+save and continue 
+button.
+You will be redirected to a new tab where you are required to upload an InDesign file and its assets. With the Upload Indesign File button, you need to upload the Indesign template in IDML format.
+﻿
+Once you upload the IDML file, the system will automatically get the details of used fonts and images in that idml template in two different tabs 1 for font and 2 for images. You are also able to see several pages, the Document size of the idml file.
+If fonts/Images are already available, it automatically fetches the data and displays it here. If not available, you get two options to upload it. 
+﻿
+Here, you get two options to upload indesign assets:
+Upload InDesign Assets:
+Here you need to upload a zip file of all used fonts and images.
+If you have data available for font and images just add those in a single folder, create a zip file, and upload it here, You won’t required to upload individually.
+It also saves you time to go to the studio, Upload the font, and publish it, all these steps are automatically performed here.
+Upload Fonts and Images Individually: 
+In the used font section you can see a list of all used fonts.
+If you want to upload new /replace existing font just click on the upload font button.
+In the Used Images section, you can view a list of all used images in the template.
+Here, you get two options either upload from your local machine or choose from the gallery if already added.
+Notes:
+ Upload Fonts And image names must be the same as used in the InDesign Template. The following image file formats are supported:
+Raster - jpg, jpeg, png, tif, tiff
+Vector - svg, pdf
+We do not support PSD and AI format as of now. 
+After successfully uploading the Font File and Images associated with the InDesign template, click on Save & Continue. You will be redirected to Designer Studio where you can check your Design.
+﻿
+Here, you can verify your design and then click on the 
+Continue 
+button. 
+Above is the process for creating a new template from inDesign. 
+What if you want to update the already created template with the InDesign template?
+For this, 
+go to Admin >> Product templates list >> Action button:
+﻿
+Click on that 
+Edit from InDesign
+ then follow same steps as we do for create from indesign.
+Currently, we are not supporting:
+Advanced text formating like one text has different color, size, etc.
+Rotation of grouped object
+Gradient colors
+We are only supporting normal borders for shape, another border type we are not supporting like rounded
+Images without link
+Crop for PDF
+Action Menu of Product Templates
+After creating a template there are certain changes that you might need to do in later stages. Thus, we have provided an Action Menu for each template, using this you can perform quick actions on the Templates.
+Edit Info
+You will get a link to edit the information associated with the template. But, if you changed the product associated with the template then click on the ‘Resize Template’ option.
+A
+dditional Preview Images
+It is possible that you do not want the first page of the design to be shown as the preview image. To meet such requirements, we have given an option to add additional preview images which will allow you to maintain a consistent look of the templates in the template listing page.
+﻿
+Edit Design
+This will redirect you to the designer studio wherein you can edit the template design.
+Template Properties
+According to your business requirements, and printer configuration you can easily restrict the template properties such as – Font, Colors, Images, Product Options, Form Fields and Other Setting. Restricting means that in the designer studio your customer will not get an option to change any font, color, fields, etc. while product designing.
+﻿
+Default 
+– No properties will be assigned to the template.
+Properties Master
+ – We have an option where you can create a master property with a set of fonts, colors, images, etc. and apply the property to different templates. Here the master property will be assigned to this template.
+Custom 
+– You can create a separate property set for this template. This option will let you choose fonts, colors, images fields, etc. This property will be template-specific.
+None 
+– This will restrict your customers from changing anything from the template.
+As you select the ‘Custom’ option the system lists all the available options for the property.
+Fonts
+It is possible that for certain designs you want to restrict fonts or your printer supports only a few fonts. In such cases, you can select the font(s) and create a FONT PROPERTY for the template.
+﻿
+Color
+Every printer has its own color code and color specifications. Understanding this we also have a custom color option where you can add colors to create a custom color property. Enter color in HEX or CMYK value. You can anytime remove any color from the list using the ‘Delete’ icon.
+﻿
+Images
+Upload a set of image(s) to customize the template property. We also have an option to add keywords to make it easy for your customers in finding the relevant image(s).
+﻿
+Product
+ 
+Options
+Like you created Additional Options Rules for a product, using this section you can bind the Product’s additional options with the template. This will restrict customers from changing the additional options from the Additonal Options page.
+﻿
+Form Fields
+These fields will help you gather extra information from the customer if they choose this template. This will be helpful if the template requires some extra information. Selecting a custom option will list all the extra fields created in the system. You can choose any field on the basis of your requirements.
+﻿
+Settings
+We have provided a list of template related settings under this tab. You can restrict some customizations such as Orientations, Text Customization, display of other Templates. We have also added a block of ‘Template Information’ – this additional field will contain useful instructions for printers to carry out printing more efficiently during third party hot folder integration or export.
+﻿
+Note:
+ You can enter instructions into this block in either text format or JSON format.
+Edit Field Order
+You can edit the sequence in which the Fields will appear in the designer studio. As you select the Order Preference the sort order of the fields changes. Depending upon the sort order they are displayed in the Designer Studio.
+﻿
+Create New Version
+It is possible that you want to create an exact same design as previous templates but with a slight change in the design. For this, we have given a ‘Create New Version’ option which will reduce your burden of re-entering the template details.
+Delete
+There is a two-step delete process to permanently delete any template.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Master Templates
+NEXT
+PDF Block Templates
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Template Display
+Product Template Dashboard
+Add a Product Template
+Create From InDesign
+Action Menu of Product Templates
+Edit Info
+Additional Preview Images
+Edit Design
+Template Properties
+Edit Field Order
+Create New Version
+Delete
+Docs powered by
+ 
+Archbee

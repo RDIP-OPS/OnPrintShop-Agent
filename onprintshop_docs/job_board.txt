@@ -1,0 +1,81 @@
+Job Board - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Orders
+Viewing Orders
+Job Board
+10 min
+Overview & Purpose
+Managing and keeping track of bulk orders can be tiring sometimes. To reduce this burden, we have added a Job Board section in the order module.
+What is the use of the Job Board?
+You can check the due date of various orders.
+You can check the order grouped according to the order status or the order product status.
+You will be able to view all the orders classified according to their due date.
+The grouping can be switched from order status and order product status by clicking on the Job board preference button in the right top corner of the screen.
+You can control the number of future days to be seen and the grouping pattern of the order.
+This section is an enhanced version of the Job board widget on the dashboard.
+View Job Board
+To view your job board, go to
+ Orders >> List Orders >> Job Board button (top right corner)
+﻿
+Note:
+ All unpaid orders will 
+NOT 
+be shown on the Job Board.
+Job Board - Grid View
+The job details will be displayed as per the order product statuses.
+For changing the status of any order product, the admin can use the new drag-and-drop feature:
+﻿
+The admin will also have the facility to update the order product details using the pen icon:
+﻿
+Settings
+To manage what and how the jobs will be displayed in the Grid View, click on the 
+Wheel
+ Icon:
+﻿
+Here, you can manage the Order Product Status, Number of Future Days, Number of Past Days, Number of Jobs per Row. In addition, you can choose to have Edit icon, Drag & Drop feature for modifying the order product. 
+Also, you have facility to add more details to display by selecting Product Options in three extra columns. 
+Job Board - Summary
+This view is the existing one with some modifications. 
+﻿
+We have modified the Setting option for this view as below:
+﻿
+Job Board - List View
+This is the third view in the Job Board.
+﻿
+By default in this view, the jobs will appear as per Due Date. You can change the grouping from the Group By filter:
+﻿
+The admin will also have the facility to update the order product details using the pen icon:
+﻿
+To manage what and how the jobs will be displayed in the List View, click on the 
+Wheel
+ Icon:
+﻿
+Watch list
+You will also be able to see the watch list orders on the job board these are high-priority orders which need special attention.
+You can add an order to the watch list section by clicking on the 'eye' icon just below the order ID on the order listing page.
+You can also add orders to watch from the order update pop-up by clicking on the watch list checkbox.
+Also, you can add multiple orders to the watch list by selecting the order and selecting Watch list option from the Mass action dropdown.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Order Status
+NEXT
+Unpaid Orders
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+View Job Board
+Job Board - Grid View
+Job Board - Summary
+Job Board - List View
+Watch list
+Docs powered by
+ 
+Archbee

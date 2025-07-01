@@ -1,0 +1,170 @@
+Quick Actions - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Quote Management
+Quotes
+Quick Actions
+16 min
+Actions
+You can perform quick actions on the quotes using their Action Menu. The actions are – Edit, Duplicate Quote, Convert to Order, and Delete.
+﻿
+﻿
+Edit Option
+﻿
+This is the section where you accept or cancel the quote, edit product details, view customer details, change quote status and view quote history.
+﻿
+Customer Details
+﻿
+This section displays the customer’s details and basic quote details. 
+﻿
+You can view and edit the quote title, and also add a note for Admins. The quote creation date and quote updates date will help you keep a track of quote history.
+﻿
+Product Details
+﻿
+While editing a quote you can anytime add a new product into the quote. 
+﻿
+Using the 
+‘Add New Quote Product’
+ you can easily add a new product, using a similar kind of Add Product form as seen in the 
+Add Quote Section
+. It is possible that on customer’s request you are willing to delete a product from the quote, or duplicate it or edit the existing products from the quote. This can happen if you have a different business model or if you are unable to fulfill the product requirements.
+For these actions, we have given quick action buttons such as – 
+Duplicate, Edit and Delete.
+﻿
+Quote Action
+﻿
+This is the section where you i.e. Admin get a chance to either accept the quote or reject it. You can perform 3 actions –
+﻿
+Quote Action
+Give a price estimation to the customer using the ‘Enter Quote Price’ option.
+Post a message to customers asking to change product specifications or any other changes.
+Cancel/reject the quote.
+1. Enter Quote Price
+Select this option if you will be able to fulfill the customer’s demanded quantity.
+﻿
+You can enter a different price for different quantities and product(s) requested by the customer. 
+You, can also use the Online Price Calculator and perform your calculation.
+﻿
+Allow Partial Quote
+This will allow the customer to place an order of partial items from the quote. This feature works only if the quotation has two or more products. For example, if a customer requests a quotation of 3 products but wishes to order only two at first, then this feature will give him the flexibility to do so. This will encourage a more flexible business model.
+Enter the price and other details, and click on the 
+Save
+. You can even upload a file for the customer’s approval along with the quote. The quote status will be updated in the customer’s 
+My Account
+. Moreover, the customer will receive a notification if this option is enabled.
+You can view or edit the customer notification email text from the 
+Admin >> Content Management >> E-Mail Template >> Search with “Quote” >> Action dropdown >> Edit
+As soon as you Save the estimated price, the status of the quote changes to 
+Quotation
+ as shown below:
+﻿
+You can also see the price being indicated under the 
+Product Details
+ column.
+Front-end scenario:
+Your customers can navigate to the quotes page via – 
+My Account >> My Quotes. 
+﻿
+In the quotes section, your customers can perform tasks such as ‘Review/Update Quotation’, Requote Products, Requote a Single Product, or View Details of the Quote.
+Using the ‘Review/Update Quotation’, your customers can review and Approve or Reject the quote:
+﻿
+For products with more than one quantity, your customers will get an option to select any one quantity and continue.
+When the customer approves the quote, the Quote status changes to – 
+Quotation Approved
+.
+When the customer rejects the quote, the Quote status changes to – 
+Quotation Rejected
+.
+If the ‘Allow Partial Quote’ option is enabled, then while placing an order of the approved quote your customers will get a checkbox. 
+﻿
+Using this they can select the products they wish to order and save the others for the remaining quote life cycle.
+2. Post Message to Customer
+This option will help you retrieve more information from the customer. You have the option to upload a file for the customer’s approval.
+﻿
+Add a message in the text box and click on the 
+Save
+. This will change the Quote Status to ‘Customer Review Pending’.
+﻿
+Front-end scenario:
+Your customers can navigate to the quotes page via – 
+My Account >> My Quote
+﻿
+Customers can click on the 
+Review/Update Quotation
+ and view your message.
+Your customers will check your message and take the action as desired.
+﻿
+As soon as the customer sends its response the quote status changes to ‘Admin Review Pending’.
+3. Quote Cancelled
+If because of some reasons you are not able to fulfill the requested quote then, simply write a message for your customer and click on the 
+Save
+.
+﻿
+This will change the quote’s status to Cancelled both on the Admin Panel as well as in the Customer’s Account.
+Allow product quantity combination
+When this
+ 
+setting is enabled, a set of quote combinations is created with different product quantities. These combinations will be visible in the printed quote file, allowing the customer to review and choose the most suitable product quantity combination for their needs before accepting the quote. 
+﻿
+﻿
+Quote History
+﻿
+This section will help you keep track of the activities performed on the quotes. 
+﻿
+All the changes and requests made by the Customer and Admin will be listed here.
+﻿
+Convert to Order
+﻿
+You can directly convert Quote-to-Order(Offline) with/without it being Approved by your end-customers.
+Example: You receive a Quotation Request via email, and its finalized over email itself. You might want to maintain this quotation in OnPrintShop.
+This feature will benefit the Super Admin, Sub-Admin, and the Branch Admin.
+This option will only be available for the quotes with status as 
+‘Quotation’, ‘Quotation Approved’, ‘Quotation Partially completed’, 
+and 
+‘Quotation Completed’.
+Clicking on the 
+Convert to order 
+button will display a pop-up with all the quote products. The products whose order has not been placed at least once will be ticked by default.
+﻿
+The 
+Continue 
+button will redirect you to the ‘Payment and Shipping’ page of the Offline Order. Here, you can enter the shipping and payment details and confirm the order.
+On the offline order screen, you can also navigate to the second step, where you can change product options, price weight, and production days.
+If the quote is yet to be approved and you convert the quote into order, then the order quantity selected will be considered as Approved (if there are multiple quantities for a quote product).
+﻿
+Duplicate Quote
+﻿
+You can easily create a duplicate of the original quote using the ‘Duplicate Quote’ option. Check the message that appears while creating a duplicate of the quote.
+﻿
+﻿
+Delete
+﻿
+Delete any quotation with a 2-step confirmation. Quotes with the status of ‘Quotation Approved’ cannot be deleted.
+Note:
+ It is recommended that you take only one action at a time when some response is pending from the customer so as to avoid any chances of overlapping actions. For example, if you have entered your quote amount on the customer's quote, you should not use 'Post Message to Customer' unless your quotation is approved or rejected by the customer. If you use 'Post Message to Customer' in this scenario, it makes your previous quotation void and you will have to enter the quotation again for the customer to approve or reject it.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Add New Quote
+NEXT
+Assign Quotes to Printer
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Actions
+Edit Option
+Customer Details
+Product Details
+Quote Action
+Quote History
+Convert to Order
+Duplicate Quote
+Delete
+Docs powered by
+ 
+Archbee

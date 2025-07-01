@@ -1,0 +1,38 @@
+Pattern - User Manual
+⌘
+K
+Template & Studio
+...
+Designer Studio
+Managing Images
+Pattern
+2 min
+Overview & Purpose
+This tab allows the admin to add new pattern images to be used as a background in the Designer Studio.
+Add a New Pattern Image
+You can see the listing of all the pattern Images uploaded in the system for the designer studio from the 
+Admin >> Designer Studio >> Images >> Pattern tab
+.
+To add a pattern image, click on the ‘+
+Add
+’ button at the top right corner. Select the pattern category for the image and upload multiple Images under that category at once.
+﻿
+In the designer studio, customers will get the option to set 
+repeat patterns
+ in the background. They’ll also get the facility to adjust the pattern, padding, and opacity of the background.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Background
+NEXT
+Orders
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Add a New Pattern Image
+Docs powered by
+ 
+Archbee

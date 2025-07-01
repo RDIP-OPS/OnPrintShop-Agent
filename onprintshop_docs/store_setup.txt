@@ -1,0 +1,21 @@
+Store Configurations - User Manual
+⌘
+K
+Store Setup
+Store Configurations
+0 min
+The Store Configurations module allows the admin to manage store settings and manage payment methods, shipping methods, form fields, site accesses, and external services.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Admin Panel at Glance
+NEXT
+Settings
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee
+Store Setup - User Manual

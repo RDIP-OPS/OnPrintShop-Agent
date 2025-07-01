@@ -1,0 +1,121 @@
+Printers - User Manual
+⌘
+K
+Business Partners
+Printers
+15 min
+Overview & Purpose
+A print partnership is a collaboration with a reputable vendor/printer who can carry out your printing requirements in a way that is profitable, sustainable, and enjoyable for everyone involved.
+When you have partnership with a Printer, you can save your time and money by making the projects more enjoyable for you and your customers.
+Printer Dashboard
+The layout of the Printer Dashboard looks similar to that of the Admin Panel. 
+﻿
+It contains the available sections for the printer. A printer can check their orders, view their quotes, and other parts of the store made accessible for the printers. The printer’s Admin Panel has a dynamic navigation menu on the left.
+Note:
+ The above picture shows the Admin log in as printer. The log in as dropdown will not be visible when a printer will log in into its Admin Panel.
+Configuration
+There are few settings related to Printer module that you can manage anytime along with adding new printers in the system who can manage your printing orders depending on the needs. 
+Printer Module Settings
+By default, the Printer module is enabled. To disable it, navigate to the 
+Admin > Store Configuration > Settings > Search with “Printer” > Enable Printer Module (Select “No”)
+﻿
+There are other Printer Module related settings –
+Hide Customer’s detail for Printer/Vendor Admin Panel:
+ Admin gets the option to hide personal, billing and shipping information of their customers.
+Enable Printer/Vendor Price – Admin:
+ Admin can enable the price input fields for a printer in the admin product price set up interface.
+Define how to assign orders to the printer:
+ Admin can decide whether to assign the entire order to the printer or assign it product-wise.
+Add Printer
+To add a new printer, navigate to the 
+Admin > Business Partners > Printer and click on the Add (Top Right Link) button.
+﻿
+Fill in the details to add a new printer, also enter the username and password for them. A printer can use these credentials to log into their Admin Panel. The printer will receive an email with their login credentials, which they can anytime change as desired.
+You can also assign tags to the printer which can be used to filter the printers during assigning the printer in the printer quote management process. Admin can assign more than one tag to the printer, and you’ll be able to add as many as tags required. Just click on the ‘
+Plus
+’ icon to add a new tag.
+Action Menu of Printer
+You can perform various actions on the printer such as view, edit their details, pay them commission, and check the assigned products and orders (as per the setting):
+﻿
+View Printer
+This screen gives a summary of printer details such as total job assigned to it, total active jobs, total products allocated to the printer, and the quotations assigned. 
+﻿
+Admin can also check the paid and unpaid commission of the printer along with the canceled commission. You also get the link to log in to the printer’s Admin Panel.
+Edit
+A quick link to edit the printer’s basic details, such as the email, user ID, and address.
+Printer Commission
+This screen displays details regarding the commission to be paid to the printer on different orders along with their status based on the configuration.
+﻿
+The default status will show up as 'Unpaid', but you can then change their status to 'Paid' or 'Canceled' by selecting a particular order using available checkboxes and changing the status from the 'Action' menu on the top left side.
+Assign Products 
+Note:
+ This submenu option will not be displayed if the Site Setting ‘How to assign orders to Printer?’ is kept Order Wise.
+This interface allows you to assign products to the printer from your existing product list.
+There are two ways to assign products to the printer – 
+Auto 
+– this option will assign all the selected product orders automatically to the printer i.e. the product’s order will automatically populate in the printer’s Admin Panel. The order price and shipping details are not displayed on the printer.
+Manual 
+– This option will allow the Admin to individually assign the product orders to the printers. Every time an order is received by the, you need to view the order and then assign it to the printer. Check 
+Order Section
+﻿
+When you click on the 
+‘Assign Products’ 
+from the Action dropdown, you'll be redirected to the 
+Product Assignment
+ page of the printer. Here, you can check a summary of assigned products with size, quantity, and options-based rules.
+﻿
+Click on the 
+‘Assign Products’
+ button from the top-right corner to assign products to the printer and create rules. There are two ways to assign products –
+Bulk Assign (assign multiple products at once then create rules later)
+Individual (assign the products individually along with rules at the same time)
+﻿
+Bulk Assign
+Using the Bulk Assign option you can assign multiple products to the printer, without any rule creation. Select multiple products from the 
+Select Products list
+ and assign those products to the printer.
+Once Admin assigns product, the product gets assigned to the printer (without any rule) and you'll be redirected to the Product Assignment page. The rule can now be created using the ‘
+Edit
+’ button.
+﻿
+Individual Product Assignment
+Under individual product assignment, assign products and create rules. At a time there is an option to can select one product, then select a rule-based on Product Size, Quantity, and Additional options.
+﻿
+For dynamic size products, Admin will get to select ‘All-Area’ or ‘Specific’.
+How the product will be assigned?
+The products will be assigned based on rules created. If the rule applies to multiple Printers then the system shall assign the product to the Printer that is found first in the database.
+The priority of Rules assignment is defined as follows –
+Product + Size + Quantity + Options
+Product + Size + Quantity
+Product + Size
+Product
+When a product is assigned to multiple printers, then the product will be assigned to printers that satisfy maximum conditions. The printer satisfying maximum condition can be said to have ‘High Probability rate of Product Assignment’.
+Note: 
+For Product assignment firstly ‘Priority of Rules’ will be checked then ‘High probability rate’ will be checked. If still multiple printers are found then the Printer that is found first will be assigned the product.
+Assigned Orders
+This will redirect you to the List Order page with the list of all orders assigned to the printer. You can anytime choose to assign the orders to a different printer.  
+Did this page help you?
+Yes
+No
+PREVIOUS
+Introduction
+NEXT
+Sales Agent
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Printer Dashboard
+Configuration
+Printer Module Settings
+Add Printer
+Action Menu of Printer
+View Printer
+Edit
+Printer Commission
+Assign Products 
+Assigned Orders
+Docs powered by
+ 
+Archbee

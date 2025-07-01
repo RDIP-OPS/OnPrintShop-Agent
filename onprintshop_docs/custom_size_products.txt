@@ -1,0 +1,166 @@
+Custom Size Products - User Manual
+⌘
+K
+Products
+Creating Products
+Custom Size Products
+21 min
+What are custom-size products?
+Allow your customers to order a product with custom height and width, i.e. customers will get to decide the size of the product they want to get printed.
+Examples of such products are – banners, posters, yard signs, etc.
+A custom size product will allow the customer to adjust the height of the product, or order a custom dimension of any product according to their needs.
+Features for custom size products in the OnPrintShop system –
+Custom Price Estimation (Price)
+Online design option for custom-size products
+Upload large files
+Shipping Module – Package Configuration
+How do you configure custom-size products?
+To configure custom-size products, follow the steps explained below –
+Product Details Configuration
+Go to
+ 
+Admin >> Products:
+Click on "
+Add
+" to add a custom-sized product.
+Enter the product details such as – product name, internal title, keywords, URL, and define categories.
+For the CUSTOM SIZE PRODUCTS, the
+ Price Defining Method should be – Size Based on Price (Dynamic Size)
+﻿
+Set measurement unit. This is the unit in which this product will be defined/measured in this system. This unit is customizable at the front end (explained in Product Setting).
+﻿
+Configure other details such as product type, user type, stock management, product descriptions, etc. These settings remain the same as standard product configuration.
+Designer Options
+As this is a custom size product, there will be no need to define product sizes.
+All you have to do here is to set the product pages.
+Enter the page name, give a sort order, and save.
+Similarly, add other pages and save the changes made.
+Next, set the correct safe margin and cut margin for your custom size products.
+﻿
+Product Prices
+Enter the product prices based on range. This is an area-based pricing method.
+The price of a product is decided based on the following formula and steps:
+Case 1 – If Area Lookup is Only Height x Width
+Area = (Width) * (Height)
+The system will run a lookup of the area from the defined sizes in this (Product Price) section.
+Final Price = Area * Quantity (entered from the front end)
+Case 2 – If Area Lookup is Only Height x Width x Quantity
+Area = (Width) * (Height)
+Lookup formula = (Width) * (Height) * (Quantity)
+The system will run a lookup of the area from the defined sizes in this (Product Price) section.
+Total Price = (Lookup formula) * (Price per unit square set for particular area range) * (Ordered Quantity)
+﻿
+Enter the prices by defining various size ranges.
+Quantity Based Price
+Click on the Quantity-Based Price to add quantity-based pricing for the sizes added in the previous screen.
+If you have a configured quantity-wise price, then this price will be considered for calculation, and if the price is not configured then the system will take the area-wise configured price.
+Use the 
+size dropdown
+ to add pricing for different quantity ranges for each size added previously.
+﻿
+Additional Options
+Adding options to custom size products is the same as Standard products.
+Go to the Additional Options tab, click on .
+Enter title and description for the option.
+Select presentation and exports groups (optional)
+Set Input Type for the additional option. If the input type is selected as Radio Button, Dropdown, or Checkbox then you’ll get a 
+Price Calculator Type
+ dropdown.
+The additional option price will be calculated based on the selected price calculation type.
+The price calculator type options are –
+Multiply with Area (Height * Width). Can be applied to the Waterproof banner’s additional option.
+Multiply with Perimeter (2*(Width + Height))
+Multiply with Width. Can be applied to products like Scrolls.
+Multiply with Height. Can be applied to products like Pole Banners.
+Fixed Price
+﻿
+Price Multiply with Quantity
+If the input type is selected as Radio Button, Dropdown, or Checkbox then you’ll get the option to multiply the Additional Options Price by Quantity.
+﻿
+Set Additional Options Pricing
+Attribute Wise
+Click on the "Attribute Price" to set attribute prices.
+Here, you’ll get to set the attribute prices based on the Size Ranges created in Product Prices.
+For every attribute defined, you can set prices based on the size ranges. The price calculation will be based on the option selected from the 
+Price Calculator Type dropdown
+.
+﻿
+Quantity Based Attribute Price
+Just like the product prices, you can set the Quantity Based Attribute prices for additional options attributes of custom size products.
+Click on the "Quantity based Attribute Price" button to set the prices for the additional option attribute quantity based.
+Here, all the ranges created while defining the product prices will be displayed (by default). You can edit those ranges, create new and then define prices (if required).
+﻿
+Note – 
+If you have configured quantity-wise price here then, this price will be considered for calculation and if the price is not configured here then the system will take the price configured area-wise.
+Product Settings
+There are several custom size product-related settings that can be configured for better functioning of the custom size products.
+Area Lookup
+This defines how the product price lookup should be performed.
+﻿
+Consider a scenario where the price configuration of custom size product is as follows –
+﻿
+Ordered Area – 4*3 = 12
+Only Area (Height X Width) – If the lookup is set as the only area, then the price will be as follows –
+Area = Height * Width = 4*3 = 12
+The system will run a lookup to find the range of 12.
+Total Price = 12* Quantity = 12*5 = 60
+The area with quantity (Height X Width X Quantity)
+Area * Quantity = Height * Width * 5= 4*3 * 5 = 60
+The system will run a lookup to find the range of 60.
+Total Price = 60* Quantity = 60*5 = 300
+Depending upon your pricing model you can set the lookup.
+Restrict Size
+This will restrict customers from ordering a custom size product with a certain height and width configuration.
+﻿
+If you enable the ‘Allow Custom width and height’ setting, then you can enter the maximum and minimum width/height. This will restrict the customer to enter height and width within the minimum and maximum range.
+Leave the range fields blank if you don't want the customer to choose within a defined size range.
+On entering a size greater than the defined range, customers will see an error in the following manner.
+﻿
+Unit Selection at front
+While product configuration, you can define the measurement unit of a custom size product. But, if you want to make this unit selection flexible and to be available to the customers (at the front end), then enable this setting and select the measurement units.
+﻿
+These units will be available at the front end in a dropdown and customers can select any desirable unit.
+Once the unit is selected, all the conversions will be performed by the system and displayed accordingly.
+﻿
+Custom Size Image Upload
+This setting allows you to upload an image for the Custom size option to be displayed on the front store when the Visual Price Calculator setting is enabled.
+﻿
+Predefined Custom Size
+This section will allow you to add a few 
+pre-defined sizes
+ for these custom-size products.
+These sizes will be listed in a dropdown at the front store. However, customers can choose to enter the custom size and enter their desired sizes.
+﻿
+Combine quantity lookup for price in cart
+When there are multiple entries of a single product of the same size in the cart, the system will do a summation of all the quantities and recalculate the prices when you have enabled this setting. 
+Custom Size Setup Cost
+With this setting, you can now add setup cost for the custom-size products.
+Apply Custom Size Setup Cost
+After specifying the setup cost amount, you can setup how it will be applied based on selection: 
+Always:
+ Setup cost will always apply on custom-size products.
+Exclude Reorder: 
+Setup cost will not be applicable in case of reordering. 
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Promotional Products
+NEXT
+Product Settings
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+What are custom-size products?
+How do you configure custom-size products?
+Product Details Configuration
+Designer Options
+Product Prices
+Additional Options
+Set Additional Options Pricing
+Product Settings
+Docs powered by
+ 
+Archbee

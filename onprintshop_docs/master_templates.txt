@@ -1,0 +1,54 @@
+Master Templates - User Manual
+⌘
+K
+Template & Studio
+...
+Templates
+Creating Templates
+Master Templates
+4 min
+Overview & Purpose
+At OnPrintShop, we provide pre-built 7000+ product templates which are called Product Master Templates.
+The templates are designed by top-rated designers, who have followed the latest design trends. Your customers can check these templates in the ‘Browse Design’ option.
+You (Admin) will not have any rights to delete the templates, all you can do is make them Inactive.
+Dashboard
+At a glance, you can see all the Product Master Templates with their basic details. The details include their name, the product they are associated with, the template category, and the design language.
+You can toggle the status as Active or Inactive and also sort their order sequence which will be displayed on the product’s template page on your storefront.
+You can search for specific product master templates using various filters provided at the top.
+Action Menu
+You can manage the Product Master Templates using various attributes of the Action Menu. Using these options, you can easily edit template details, manage properties, or even create a new version if you want some minor changes in the design.
+﻿
+Edit Info
+As these templates are pre-built, we allow only a minor modification of template details. This option only allows you to edit Template Name, change the Template Category, and add Design Language.
+Template Properties
+You can assign template property to each template as per your printer specification and business requirements. Please refer to the 
+Template Properties section
+ for more info.
+Edit Field Order
+You can edit the sequence in which the Fields will appear in the designer studio. As you select the Order Preference the sort order of the fields changes. Depending upon the sort order they are displayed in the Designer Studio.
+﻿
+For example, in the above example, we have selected the Order Preference of Field Blocks as ‘Top to Bottom’, thus the fields got arranged from the top of the design to the bottom.
+Preview
+A quick link to preview the design of Master Templates in the Designer Studio.
+Create New Version
+This option will help you create a copy of any Product Master Template. Later you can easily edit the design and Template information as per your needs and business requirements. The newly created template will be shown in the 
+Product Templates
+﻿
+ section.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Creating Templates
+NEXT
+Product Templates
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Dashboard
+Action Menu
+Docs powered by
+ 
+Archbee

@@ -1,0 +1,42 @@
+Production Time Spent - User Manual
+⌘
+K
+Admin & Reports
+Viewing Reports
+Production Time Spent
+5 min
+Overview & Purpose
+In this report, the admin can gain deeper insights into their operations by monitoring the time taken at each order status and identifying bottlenecks in the workflow, helping them to streamline processes and boost efficiency in real-time.
+Note:
+ This feature will continue evolving, with new enhancements added based on user needs, ensuring your operations remain a step ahead!
+Production Time Spent Report
+Order Wise
+This report provides a detailed summary of the time spent on every order status. The report information is based on the selection of the month, user, order statuses, and time duration, as daily, weekly, monthly, and additional columns are added.
+﻿
+The report includes the time duration, order status, job count, time span, total time spent on the respective order status, and average time spent per job.
+Clicking on the Total Time Spent link redirects to a new popup screen and displays the bifurcation of the total time:
+﻿
+Order Product Wise
+This report provides a detailed summary of the time spent on every order product status. The report information is based on the selection of the month, user, order statuses, and time duration as daily, weekly, monthly, and additional columns are added.
+﻿
+The report includes the time duration, order product status, job count, time span, total time spent on the respective order status, and average time spent per job.
+Clicking on the Total Time Spent link redirects to a new popup screen and displays the bifurcation of the total time.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Partners
+NEXT
+Log
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Production Time Spent Report
+Order Wise
+Order Product Wise
+Docs powered by
+ 
+Archbee

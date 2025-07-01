@@ -1,0 +1,41 @@
+Add New Quote - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Quote Management
+Quotes
+Add New Quote
+4 min
+Overview & Purpose
+We have provided the facility to the admin of adding an offline quote from the admin panel. Using this feature, the admin can place quotes for the customer.
+Add a New Quote
+Just like your customer places a request for quotations from your website, you can also place a similar quote from the 
+Admin Panel >> Quotes Management >> View Quotes >> ‘+Add New Quote’ (top-left corner)
+Add Customer Details
+In the ‘Add New Quote’ screen, select the customer on behalf of whom you wish to add the quote.
+﻿
+Give an appropriate title for the quote. This title will help you in identifying the quotes and give a basic quote summary.
+As soon as you select the customer’s email from the dropdown, the system will fetch their First Name, Last Name and Phone Number
+Add Product(s)
+For quotes, we have given flexibility to the customers that they can add a custom product in their quote request. They can also select a product from an existing product list.
+﻿
+This will raise a quote request into the Admin Panel and lead you to the ‘Quote Update’ section, where you can edit the Quoted Product(s) Details, take any action on the Quote and view Quote History for better tracking of quotes.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Dashboard
+NEXT
+Quick Actions
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Add a New Quote
+Add Customer Details
+Add Product(s)
+Docs powered by
+ 
+Archbee

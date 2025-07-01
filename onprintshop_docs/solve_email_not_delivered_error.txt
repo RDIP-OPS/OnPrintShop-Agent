@@ -1,0 +1,37 @@
+Solve Email Not Delivered Error - User Manual
+⌘
+K
+Supporting Docs
+Solve Email Not Delivered Error
+2 min
+As an OPS Site Admin, the emails may remain undelivered or bounces back with an error message on the Admin side. Depending on your account settings there are various reasons that the system fails to send the notification emails to the Admin. For example, the customer receives an Order Confirmation email however the mail delivery subsystem failed to send the same order confirmation email to the Admin.
+For such cases, we have a few recommended solutions for the Admin –
+Keep separate email addresses for FROM and TO sections from Email/SMS Notification
+For the Admin to receive every email, it is very much important to have 
+different emails 
+mentioned in the 
+From
+ and 
+To
+ section of the Email/SMS Notification.
+To check the same, navigate to 
+Admin >> Content Management >> Email/SMS Notification >> Action Menu of any email template >> Set Email Notification
+As shown in the below image, the from and to email addresses are set differently.
+﻿
+Note: 
+The mail ids mentioned in the above screen are just for your reference. Always enter email ids created for your business.
+Make sure the notify checkbox is enabled
+Along with adding the different mail ids, make sure the Notify toggle is enabled. This notifies the setting is responsible for sending the email to the id mentioned in the To section.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Setup Store's Payon Account
+NEXT
+Store Fields - Use Cases
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee

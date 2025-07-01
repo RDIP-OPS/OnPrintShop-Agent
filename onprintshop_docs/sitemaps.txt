@@ -1,0 +1,60 @@
+Sitemaps - User Manual
+⌘
+K
+Marketing
+SEO
+Sitemaps
+6 min
+Overview & Purpose
+The sitemap is a structured listing of your website intended for web crawlers and spiders of Search Engines. Using sitemaps you can publish links to your website and define the dynamic pages. The sitemaps contain website URLs, thus making it easy for the crawlers to find your pages. Along with the URLs, the sitemap also contains information about when the link was last modified, the changing frequency of the URL, and its priority.
+Generating XML Sitemap
+Admin can anytime generate a Sitemap for their website from the 
+Admin >> SEO >> Sitemap >> XML Sitemap:
+﻿
+From the Edit tab, you can edit the generated XML Site map using the ‘View and Edit’ link. If you already have an XML created for your website, upload it using the ‘Upload File’ tab.
+﻿
+XML Settings
+The XML files contain URLs along with their details such as – last modified, changing frequency, and priority. Using the XML Settings you can set a page’s priority, changing frequency, and last modified date.
+﻿
+There are 4 types of pages available namely – Home, Product, Content, and Other Pages.
+Priority
+ – This determines the priority of a particular URL compared to the other URLs on the site. This suggests webmasters crawl which pages are considered more important. The valid range is 0.0 to 1.0, where 1.0 is the most important. Priority does not affect the search listing, as it only suggests to the crawler how important the page is on the site.
+Change Frequency
+ - This defines how frequently a page may change. ‘Always’ denotes that the URL is changed every time it is accessed. “Never” is used to denote the archived URLs on the website.
+Once you change any setting of these pages, it is advisable to again generate the XML File. This will update the changes made in the settings section.
+One should also regularly submit an updated sitemap when new pages are published. This may allow search engines to find and index those pages more quickly than they would by finding the pages on their own.
+Shopping Feeds
+Google Feeds
+This feature offered by Google allows customers to search for, view, and compare products. 
+﻿
+For example, when the customer searches for Standard Business Card they will be able to see product listings in Google Shopping Page.
+These products can appear in the Google search results or under the shopping tab.
+Know more about the 
+Google Shopping Feed
+.
+Using the Google Shopping Feed tab, you can easily create the XML File for the shopping feed listing and upload it into the 
+store/solutions/merchant-center/Merchant Center
+﻿
+Facebook Feeds
+Facebook shopping feed is a fantastic opportunity for sellers to promote their catalog of products to Facebook users. For the feed, you need to create a Facebook Catalogue that holds information about inventory, images, prices, descriptions, and more.
+You can generate a special Facebook Shopping Feed XML and update the Facebook data feed file to a catalog or update an existing one.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Page title, Keyword setting
+NEXT
+Metatag Settings
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Generating XML Sitemap
+XML Settings
+Shopping Feeds
+Google Feeds
+Facebook Feeds
+Docs powered by
+ 
+Archbee

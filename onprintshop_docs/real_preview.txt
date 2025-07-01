@@ -1,0 +1,41 @@
+Real Preview - User Manual
+⌘
+K
+Supporting Docs
+Real Preview
+3 min
+Overview & Purpose
+Our interactive Real Preview enables your customers to zoom in/out and rotate the individually personalized business cards, brochures, and model products. With the Real Preview, your customers can check thoroughly the customized product before it goes into production.
+OnPrintShop Real preview allows great interaction with the products. Your customers can try them with a single click: they can rotate the cards, open or close folded flyers/brochures, and check inside out the model products such as mugs, T-shirts, Pillow, etc.
+To offer a great design and preview experience to your customers, we are providing two types of previews:
+2D Model Preview 
+– for single-page flat products like business cards, letterheads, etc. Also available for multi-page flat products like brochures, pocket folders, etc.
+3D Model Preview 
+– for model products like mugs, t-shirts, pillows, etc.
+Note: 
+We also support custom models for other products such as stubby holders, bottles, etc. with additional cost and depending on its model creation complexity.
+Features
+Some of the important features include –
+A platform to preview the flat products in 2D preview or 360° angle preview and preview the model products in 3D preview
+Enable or disable the Real Preview from the Admin Panel
+Allow customers to change the appearance of objects or text added
+Play or pause the preview
+Rotate the products at a 360° angle
+Zoom in or Zoom out the preview for a better understanding of the final output
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Quick Product Design
+NEXT
+Configuration
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Features
+Docs powered by
+ 
+Archbee

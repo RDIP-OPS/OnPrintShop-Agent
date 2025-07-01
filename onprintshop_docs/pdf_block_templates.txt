@@ -1,0 +1,111 @@
+PDF Block Templates - User Manual
+⌘
+K
+Template & Studio
+...
+Templates
+Creating Templates
+PDF Block Templates
+10 min
+Overview & Purpose
+Template always saves our time and they’re worth the investment. The concept of PDF Block templates came into the picture for Store Clients.  These templates guarantee consistency.
+Stores always have their predefined designs of various products such as – Business Cards, Letterheads, Envelops, Folders, Diaries, etc. Most of these products require only a minor change of various fields, such as – Name, Address (if the Store has multiple locations), Designation (in the case of business cards), etc.
+Create a PDF Block Template
+To create a PDF Block template follow the instructions explained in this 
+video
+.
+Also, with the use of the PDFLib Plugin, you get the exact position of existing text fields of PDF Block Templates. 
+You can learn to create PDF Block Templates using the 
+PDFLib TET plugin
+.
+Once you have created and imported the Template then it’s time for you to add it to the Admin Panel.
+Add PDF Block Templates
+Adding a PDF Block template is totally the same as explained in the Product Templates section.
+Just select 
+PDF BLOCK
+ as a 
+Template Type
+. After filling all the details on the 
+Add Template
+ page click on 
+Save & Continue
+ button, and follow the steps as shown below –
+﻿
+Under the ‘Edit Design’ tab upload your PDF Block File using the button provided. We have provided a help section regarding the naming conventions of the BLOCKS. Please and follow the same.
+﻿
+Once you have uploaded the file, you can see the system auto-generates the PDF Block File details such as – number of pages in the file, document type, the fonts used, and the images and file blocks.
+﻿
+Now you have to upload the image and other files using the ‘Upload File’ button. If the Fonts used in the PDF Block template does not exist in your system, then you will have to upload a font file also.
+﻿
+After successfully uploading the Font File, Images File and other files associated with the PDF Block Template. Click on 
+Save
+.
+Then you’ll see a number of other tabs such as Manage Blocks, Dependency Rules, Group Blocks, Template Properties, and Additional Preview Images.
+Explanation of each tab follows down below –
+Manage Blocks
+ – Using this panel you can manage properties of all blocks, change their titles, manage sort order, and update preview.
+﻿
+Text in Studio
+ – This text appears in the designer studio. This will help customers in choosing the correct input for each block.
+Title
+ – This appears at the top of each block. This will indicate the expected input in the block from the customer. Examples of various Titles are – Name, Address, Phone Number, Email, etc.
+﻿
+Editable
+ – For Stores, it is possible that you want fixed texts in certain blocks such as Address (this will always hold office address), or Company Website. For these kinds of blocks, you can keep the ‘Editable’ toggle button off and decide whether to Show/Hide the contents of the block.
+Style Lock
+ – To maintain the integrity of the design you can keep the Style Lock toggle on. This will prohibit the customers from changing the font style or event format of the text.
+Manage Properties
+ – You can assign separate properties to each block. We have provided different properties such as Alignment Rules, Text Formatting, Leader, Input Options Validation, etc. Refer to 
+this
+ document to understand more the usage and implementation of each property.
+﻿
+Dependency Rules
+ – You can have certain PDF Blocks that depend on one another. For example – as shown in the picture below, if there is no Email ID then the email icon block has to be hidden. You can create such rules and handle all the PDF Blocks more efficiently.
+﻿
+Set rules for blocks on various PDF block templates. The rules are created on certain conditions available in the "Conditions Operator" dropdown menu.
+﻿
+The action "DO" refers to triggering an action. This will work based on block configured in the ‘Action’ block. For more info, check this page.
+Group Blocks
+ – To enhance the look and feel of the blocks in the Designer Studio you can always group bocks with similar characteristics. For example – First name and Last name blocks can be grouped using a title, ‘Name’. Click 
+here
+ to know more.
+Template Property
+ – The features available in the template property of the PDF Block template remains the same as explained in the Product Templates section. Please refer to this link.
+Additional Preview Images
+ – It is possible that you do not want the first page of the design to be shown as the preview image. To meet such requirements, we have given an option to add additional preview images which will allow you to maintain a consistent look of the templates in the template listing page.
+Manage PDF Block Templates
+Once you have created the uploaded the Block PDF Templates and wish to perform minor changes. For this, we have given an Action Menu for each of the templates.
+﻿
+Edit Info
+ – You will get a link to edit the information associated with the template.
+Additional Preview Images
+ – Click to add new preview images for the template. Or you can also update the new one.
+Edit Design 
+– This option will allow you to update the block file, font files, and image files.
+Manage Blocks
+ – Edit the Text and Image blocks, set order preferences as required and perform other actions.
+Template Properties
+ – You can anytime change template properties. According to your printer’s specification and business requirements, you can also create a different set of Fonts, Colors, Images, Product Options, Form Fields, etc.
+Create New Version
+ – why to design the whole template and go through the pain again if your new template only has a few minor changes as compared to the old one? Just create a new version using this option and make the desired changes.
+Delete
+ – A two-step delete option to permanently delete the template.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Product Templates
+NEXT
+Duplicate Templates
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Create a PDF Block Template
+Add PDF Block Templates
+Manage PDF Block Templates
+Docs powered by
+ 
+Archbee

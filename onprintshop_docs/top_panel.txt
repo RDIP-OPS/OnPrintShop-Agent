@@ -1,0 +1,30 @@
+Top Panel - User Manual
+⌘
+K
+Template & Studio
+...
+Studio Settings
+Common Studio Settings
+Top Panel
+1 min
+Overview & Purpose
+This tab contains all the settings related to the top panel elements of the Designer Studio. You can choose to display them or hide them. You also get the option to manage their sort order.
+The top panel is divided into three sections – 
+Left, center and right.
+By default, all these elements are placed in the center, as the left side contains the product and its information and the right side contains other elements such as the back button, save button, preview button and continue to cart button.
+Admin also gets the option to change the position of Help, Introduction, and Notes button and shift them to Left Panel.
+Did this page help you?
+Yes
+No
+PREVIOUS
+General
+NEXT
+Left Panel
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Docs powered by
+ 
+Archbee

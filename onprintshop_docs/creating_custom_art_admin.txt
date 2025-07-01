@@ -1,0 +1,51 @@
+Creating Custom Art - Admin - User Manual
+⌘
+K
+Supporting Docs
+Custom Art & Logo Maker
+Creating Custom Art - Admin
+3 min
+Admin can also create artwork to be displayed at the front end, and upload clipart to create layouts.
+Create a new art layout
+To create a new art layout, go to 
+Admin >> Templates >> Product Templates >> Art Layouts >> Add:
+﻿
+Enter the layout details such as Title, Product Type, select Specific Products (if any), and enable the art layout status.
+Clicking on 
+Save and Continue
+ will redirect you to the Art Layout studio page.
+﻿
+Here, you (Admin) can create artwork using text elements, clip arts, and previously created layouts. Click on 
+save 
+and the artwork will be saved in the Art Layout section.
+Upload icons for art layouts
+You can upload icons to be used in the art layouts from the 
+Admin >> Designer Studio >> Images >> Design Art (tab) 
+and then click on the 
+Add
+ button.
+﻿
+Here, you can upload multiple SVG files for icons at once.
+You can also select any one category from the 
+‘Select Category’ 
+dropdown and assign it to all the uploaded SVGs.
+Once done, click on the ‘
+Start Upload
+’ button.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Getting Started - Front
+NEXT
+Custom Formula Variables
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Create a new art layout
+Upload icons for art layouts
+Docs powered by
+ 
+Archbee

@@ -1,0 +1,48 @@
+Metatag Settings - User Manual
+⌘
+K
+Marketing
+SEO
+Metatag Settings
+3 min
+Overview & Purpose
+Meta Tag is used to provide structured Metadata about a web page. They are a part of the web page’s <head> tag i.e. in the source code. In other words, they are snippets that describe a page. They are only visible to search engines. There are various valid attributes that one can include in the Meta tag are - content, http-equiv, name, scheme, and charset.
+Add Metatag
+Every attribute has its usage and benefits. Using the Metatag Setting section you manage Meta tags of various pages. Commonly used metatag settings are added and pre-configured.
+The admin can add new metatag settings from the 
+Admin Panel >> SEO >> Metatag Settings:
+﻿
+Custom Meta tag
+ – You can use custom Meta tags to provide Google with additional information about your pages. Google can use this information to create rich snippets or enable the sorting of search results.
+You’ll find a list of pages available on your website in the ‘All Pages’ dropdown. Select any page as desired and enter the Meta Name and Content Description. The Meta tag will be displayed in the source code in the following manner –
+<meta name="author" content="John Doe">
+You can also refer to 
+https://www.w3schools.com/tags/tag_meta.asp
+ to know more about the Meta tags and their attributes usage.
+Note:
+ It is advisable from OnPrintShop to contact an SEO expert and take advice on the same.
+Action Menu
+For the added Metatags, you can take further actions from the 
+Admin >> SEO >> Metatags Settings >> Action column:
+﻿
+Edit
+: Quick link to modify settings of existing metatags.
+Delete
+: 2-step confirmation to delete the selected metatag and all its relevant settings.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Sitemaps
+NEXT
+Robots
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Add Metatag
+Action Menu
+Docs powered by
+ 
+Archbee

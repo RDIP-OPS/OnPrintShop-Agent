@@ -1,0 +1,61 @@
+Pricing Methods - User Manual
+⌘
+K
+Products
+Pricing Setup
+Pricing Methods
+5 min
+As the title says method to define the pricing strategy/method of a product is called the ‘Product Pricing Method’.
+﻿
+Fixed Quantity and Price
+Used when a product has varying fixed stock(quantity) order.
+For each fixed stock, a fixed Price is attached to it.
+Example: A Business Card can be ordered in a quantity of 250, 500, 1000, etc.
+﻿
+Range-based with Multiplication
+It’s a quantity-based pricing method, the price per unit is set for a fixed range.
+When the customer places an order, the ordered quantity is multiplied by the unit price set for that particular range to derive the total payment price.
+Formula:
+Price = (Ordered Qty) * (Price per Unit set for particular Qty range)
+Used when for a product, the unit price is set for varying the fixed range.
+Example: Posters
+﻿
+Range-based without Multiplication
+It’s also a quantity based pricing method here, a single fix price is set for a range. 
+When the customer places an order, the price set for that quantity range becomes the payment price.
+Generally used when the store/admin incurs the same cost for printing X Qty product or X + Y Qty product, this being in the same set range.
+This method is rarely used in the market.
+﻿
+Size based Price (Dynamic Size)
+Its area-based pricing method. Here, the price per unit square is set for varying area range.
+Price of a product is decided based on the following formula:
+
+Step 1: Area = (Width) * (Height)
+
+Step 2: Total Price = (Area) * (Price per unit square set for particular area range) * (Ordered Quantity)
+
+
+Customer inputs height and width, based on which area is calculated. The customer will also input order quantity. The calculated area is then multiplied with the ‘price per unit square’ set for a particular area range and ordered quantity.
+However, admin can set a predefined size and also restrict the custom size to be entered by the customer. Admin can also set quantity-based price for particular area range.
+Example: Banner
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Pricing Setup
+NEXT
+Product Pricing
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Fixed Quantity and Price
+Range-based with Multiplication
+Range-based without Multiplication
+Size based Price (Dynamic Size)
+Docs powered by
+ 
+Archbee
+Pricing Setup - User Manual

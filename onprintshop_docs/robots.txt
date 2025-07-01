@@ -1,0 +1,36 @@
+Robots - User Manual
+⌘
+K
+Marketing
+SEO
+Robots
+1 min
+Overview & Purpose
+A Robot.txt is a text file that informs the search engine crawler which pages or files the crawler can request or can’t request. Its primary usage is to manage crawler traffic to your site and keep off a page depending on the file type.
+This avoids overloading your site with requests; it is not a mechanism to keep a web page out of Google or any other search. To keep a web page out of google search you can use 
+noindex directives
+﻿
+Refer to 
+Introduction to robots.txt
+ and 
+create a robots.txt file
+ of Google to understand more about Robot File usage and its syntax.
+Your system comes with a pre-configured robot.txt file along with some recommended robots.
+However, you can change them as per your requirements using the syntax examples given below –
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Metatag Settings
+NEXT
+Manage URL Redirection
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Docs powered by
+ 
+Archbee

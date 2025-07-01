@@ -1,0 +1,73 @@
+Archive Orders - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Orders
+Viewing Orders
+Archive Orders
+8 min
+Overview & Purpose
+Archive orders are the orders that have been completed or fulfilled and closed by you. It is considered one of the best practices to archive the orders as it gives an accurate number of the remaining orders to be fulfilled. Moving orders to the Archive section will reduce the clutter from the '
+List Orders
+' section and give you a concise view.
+Also, you can set a time that will auto-archive the orders. You can find the setting in the Store Configuration Section.
+Screen at Glance
+To view your Store's archive orders, navigate to the 
+Admin >> Orders >> Archive Orders menu
+.
+﻿
+On this screen, you will find the list of the orders which have been archived manually or automatically based on the setting.
+Filter the list
+The search bar of Archived Orders works the same as in the List Orders section. You can search orders by order date, status, delivery type, payment status, user type, order amount and other traits. For more please refer to 
+this
+ section.
+Bulk Actions
+You can select multiple orders at once and perform bulk actions such as Restore, Delete, and Download Invoices. With bulk actions you can perform multiple actions at once, reducing your time and effort.
+To perform a mass action on orders, select the orders, then select actions from the Action Dropdown and click on 
+Submit
+.
+Actions
+By clicking on the Action dropdown, you can perform certain limited actions on the Archived Orders.
+﻿
+View/Update Order
+This action will give you a chance to view the Order Details, Customer details such as Billing and Shipping address, Payment Details, Order Product details, and Order History. Although, there are no provisions to edit the order, or update it under any circumstances.
+Restore
+There can be a scenario when a customer wants any change in the order after you have completed the order and archived it. For such cases, we have given a Restore option. This will restore the order and send it to the List Orders section.
+Download Invoice
+For business purpose or taxation it is possible that you would require the invoice. Keeping this in mind we have also kept a download invoice link for each archived order. You can easily download the invoice using this option.
+Reorder
+There can be scenario when a customer wants to reorder the same or partial products from the selected product. For such cases, the admin can click on the Reorder, select the products, complete the shipping and payment methods and confirm the order.
+Download File
+A zip file will be downloaded which will include the design files and a Job Ticket. The job ticket includes product details along with a section wherein you can add Graphics notes, Press Note, and Shipping Note. 
+Delete
+A two-step delete function is offered in the system. There can be a scenario when your Archive Orders section gets filled with lakhs of 10-year-old orders. In such a case, you can easily clear the clutter using the delete option.
+Auto-Archive Orders
+We understand how orders can fill your List Orders space very easily. To get rid of the clutter automatically we have given an auto-archive feature in the system.
+To enjoy the feature, go to 
+Admin >> Store Configuration >> Settings >> Search “archive” >> Order Auto Archive
+ and Select “Yes”.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Unpaid Orders
+NEXT
+Managing Orders
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Screen at Glance
+Actions
+View/Update Order
+Restore
+Download Invoice
+Reorder
+Download File
+Delete
+Auto-Archive Orders
+Docs powered by
+ 
+Archbee

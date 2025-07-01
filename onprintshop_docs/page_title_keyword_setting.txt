@@ -1,0 +1,56 @@
+Page title, Keyword setting - User Manual
+⌘
+K
+Marketing
+SEO
+Page title, Keyword setting
+4 min
+Overview & Purpose
+SEO is the process of increasing quality and quantifying the website traffic landing on your website. Using this module you can easily set and manage page titles, keywords, and descriptions.
+Every search engine has a set of rules defined for Page titles and descriptions. To know about more such rules and guidelines visit Moz's Official Website.
+Here you can set title, description, and keywords for 5 different kinds of pages –
+﻿
+Products - 
+This will list out all the products available on your website. Here, you can easily set the keywords and descriptions according to your SEO Strategy
+Product Category - 
+This will list out the landing pages of each category created. This will help you determine the title and description for each category page and rank them as well in the Search Engines.
+Contents - 
+This will include a list of content pages Terms & Conditions page, Privacy Policy Page, etc.
+Other - 
+All the remaining pages of your website will be listed here. This mostly includes all the User Account related pages.
+﻿
+To understand the usage and importance of each field, refer to the 
+Metatag
+﻿
+ section of 
+Product Actions
+﻿
+.
+Import Metatags
+To reduce your hustle of adding titles and keywords for every page we have provided an Import feature. Using this feature import metatag in bulk instead of uploading them individually.
+﻿
+To import the Metatags, go to 
+Admin >> SEO >> Page Title, Keyword Setting >> Import (Right Side) 
+and follow the steps:
+Step – 1 Download the file
+There are two options available i.e. to download a file with all products or download files for separate categories. Depending upon your SEO strategy and number of products you should download separate files and then fill the data.
+Step – 2 Fill Up Data
+Take the guidelines given in step 2 to prepare your title and descriptions. Make sure you consult an SEO expert, who will help analyze the competitive and ranking keywords.
+Step – 3 Upload the File
+Once you are done with the data updating in the excel click on the Next button in the top right corner to import the file in the system. Click on the Upload File button to select the file that you have updated. The system will validate the data and show you the correct and skipped records. To import data in the system click on the Import button and the Meta Tag data will be imported into the system.
+Did this page help you?
+Yes
+No
+PREVIOUS
+General Settings
+NEXT
+Sitemaps
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Import Metatags
+Docs powered by
+ 
+Archbee

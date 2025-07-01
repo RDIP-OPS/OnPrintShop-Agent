@@ -1,0 +1,34 @@
+Sheet Size Management - User Manual
+⌘
+K
+Orders, Quotes & Customers
+Imposition - Beta Version
+Sheet Size Management
+2 min
+Overview & Purpose
+Imposition is one of the fundamental steps in the printing process. It consists of the arrangement of pages to be printed on the printer’s sheet. This helps in obtaining faster printing, simplifying binding, and reducing paper waste. If imposition did correct then it minimizes printing time by maximizing the number of pages per impression and reduces the cost of press time and materials.
+﻿
+Using this section, you can create and manage imposition sheets. The sizes you create here will be visible in the Imposition Schema Manager section.
+Add a new Sheet
+You can add a new sheet from the 
+Admin >> Imposition Beta >> Sheet Size Management >> Add:
+﻿
+Enter the suitable title, and sheet size i.e. width and height. Next, choose the sheet unit type and save the changes made.
+Once added you only get to edit the sheet name and dimensions. Although, you don’t get to delete the sheet you can easily set the sheet’s status off.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Imposition - Beta Version
+NEXT
+Imposition Schema Manager
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Add a new Sheet
+Docs powered by
+ 
+Archbee
+Imposition - Beta Version - User Manual

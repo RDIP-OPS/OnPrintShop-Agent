@@ -1,0 +1,120 @@
+Estimated Delivery Days Calculation - User Manual
+⌘
+K
+Supporting Docs
+Estimated Delivery Days Calculation
+13 min
+Overview
+The estimated delivery days are when a customer should receive their order. At OnPrintShop, the estimated delivery days are based on the combination of the production (printing) time, the shipping days (the transit time), and the order date (the set cut-off time).
+Estimated Delivery Days = Production Days + Delivery Days + Weekend Days + Order cut-off time
+The following article explains how the OnPrintShop system calculates the Estimated Delivery days –
+Setup Shipping Days
+For shipping days set up, go to 
+Admin >> Store Configuration >> Shipping Method
+﻿
+For each Shipping Method, under the Action menu, you’ll find an option named 
+‘Markup/Delivery Days’
+. Select the option to set the approximate delivery days.
+Enter the particular delivery days for each Shipping Type available in the shipping service provider.
+﻿
+Production days (product preparation days)
+You can set product production days for the individual product (in the product edit section in each product and Production days’ section)
+Note:
+ If your product takes 12 hours to make you have to enter 1 day.
+These product preparation days are added to the shipping days given by your shipping company to give estimated delivery days.
+Production days for an Individual Product
+To add Production Days for individual products, go to 
+Admin >> Products >> Select any Product >> ‘Action’ Menu >> ‘Edit’ Option >> Configuration Section
+﻿
+Similarly, you can define the production of all products (standard, custom, photobook, calendar, promotional, canvas, etc.)
+Note:
+ The production days entered here will apply to the whole product irrespective of the product options.
+Production Days for the individual product with Additional Option Combination
+You can set different production days for each of the Additional Options of the product from 
+Admin >> Products >> Product Weight/Days >> ‘Production Days’ Tab
+﻿
+If you are setting preparation days on each additional option then the system won’t show the estimated delivery days on the product info page, it will only show the delivery days once the user comes to the cart page.
+If you have a large number of products and their additional options (variants) and you want to update the product production time using CSV import then you can do that using the import feature available.
+Learn more about the 
+Production Days
+﻿
+. 
+Note:
+ The production days mentioned for additional options will be summed up with the production days specified in the product configuration. (See Example 2)
+Production Days and Shipping Days Settings
+Weekdays on which you have a holiday
+ - If your production house or your shipping company doesn’t work on weekends or certain days, you can set weekends from this setting. 
+﻿
+These days will not be counted in calculating the estimated delivery days. You can select other days as well, say your company is not working on Monday then you can enter this as well.
+Select Default Production Days for all
+ 
+Products
+ – It is the default production days that will be summed up with Production Days of Individual Product
+ 
+with Additional Option Combination or Production Days for Individual Product
+ 
+(whichever is defined) to determine the Delivery Days.
+ 
+﻿
+If production days are not defined for the product(s) then the days entered here are by default taken into consideration. 
+Note:
+ You can even set common default production days for all your products rather than entering production days for individual products.
+Select Default Delivery Days for the Site – 
+Itto is the default shipping days that will be summed up with the Shipping Days defined for each in the Shipping Type. 
+﻿
+If delivery days are not defined for each delivery method then the days entered here are by default taken into consideration.
+Order Cut-off Time
+Say, you start production every day and your last production time is 10 AM after this, you don’t start the production of new orders, you shift them to the next day’s production slot.
+﻿
+Using this setting you can set the cut-off time say it is 10 AM for your website, so when a customer comes to your website before 10 AM they will see the estimated delivery days as counted from today. And when a customer comes to the site after 10 AM they will see the estimated days count from tomorrow.
+
+
+Example – 1
+We have added two products to the cart – each of the products has different production dates specified in the Product Configuration Option. 
+The order date is 18th December 2019.
+Standard Business Card – Production Days is 3
+﻿
+Letterhead – Production Days is 1
+﻿
+The delivery day(s) is set as 1 and the weekend days are defined as ‘Saturday and Sunday’.
+
+Thus, the system will consider the maximum production days among all the products added to the cart, thus the estimated delivery days are given below –
+Estimated Delivery Days = (production days of a standard business card) + Default Delivery Days (set in-store configuration) + Weekend Days (Saturday and Sunday) + Order Cut-off Time (as the order is placed after 10 AM)
+Estimated Delivery Days = 3 + 1 + 2 + 1 = 7 which means the delivery will be on 25th December 2019.
+﻿
+Example – 2
+We have added two products to the cart – each of the products has different production dates specified in the Product Configuration Option. 
+The order date is 18th December 2019.
+Standard Business Card – Production Days is 3
+We have set the production days for 2x3.5 Size, Square Corner, 310 GSM paper, and matte finishing as – 4.
+﻿
+Letterhead – Production Days is 1
+No production days are set for additional options.
+
+The delivery day(s) set are 1 and the weekend days are defines as ‘Saturday and Sunday’. (As in example 1)
+Thus, the system will consider maximum production days among all the products added in the cart, thus the estimated delivery days are given as below –
+Estimated Delivery Days = (production days of the standard business card plus production days with additional options) + Default Delivery Days (set in-store configuration) + Weekend Days (Saturday and Sunday) + Order Cut-off Times (as the order is placed after 10 AM)
+Estimated Delivery Days = 3 + 4 + 1 + 4 + 1 = 13 which means the delivery will be on 31st December 2019.
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Custom Formula Variables
+NEXT
+Generate Content and Images using openAI
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Setup Shipping Days
+Production days (product preparation days)
+Production days for an Individual Product
+Production Days for the individual product with Additional Option Combination
+Production Days and Shipping Days Settings
+Order Cut-off Time
+Docs powered by
+ 
+Archbee

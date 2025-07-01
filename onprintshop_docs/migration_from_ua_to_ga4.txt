@@ -1,0 +1,66 @@
+Migration from UA to GA4 - User Manual
+⌘
+K
+Supporting Docs
+Migration from UA to GA4
+6 min
+Overview & Purpose
+Standard Universal Analytics (UA) properties will cease processing all new hits as of July 1, 2023. This will be in line with Google's strategy to retire UA and replace it with Google Analytics 4, a new-generation measurement solution (GA4).
+Google is giving all UA users a way to migrate their standard UA properties, such as the configuration of the property, web stream, users, events, objectives, and audiences, to GA4 in advance of this. In the absence of your explicit refusal and intervention, this will happen automatically. (or opt-out).
+Read along to learn how you can migrate your UA data to GA4.
+How to Migrate to GA4?
+Here’s how you can migrate from Universal Analytics (GA3) to Google Analytics 4.
+Note: 
+The steps we have mentioned in this document are for the basic data. 
+﻿
+If you need any help in the migration of GA3 to GA4, our technical team will help with the same after checking the complexity and feasibility (with some additional charges). 
+Get the Measurement ID from the Google Analytics account
+Sign in to 
+your Analytics account
+.
+Click on the Admin from the left-hand side panel:
+﻿
+From the Admin screen, click on the 
+Create Account
+ button.
+﻿
+In the account setup steps, enter the same account name as the Google Tag Manager Account name, select the "Google products & services" checkbox, and click the 
+Next
+ button.
+In the next step, enter the property name and then click on the 
+Next
+ button.
+Specify your Business details in the 3rd step. 
+Click on the 
+Create
+ button. Complete the terms and services agreement step. 
+Navigate back to the Admin page and select the created account and GA4 property from the drop-down:
+﻿
+Select the Data Streams from the options below, select Web from the Data Streams page, and then click on the URL.
+﻿
+Copy and save the Measurement ID from the Web Stream Details page for further steps.
+﻿
+Enhanced eCommerce Setup for GA4
+You can learn how to create variables and tags for Google Analytics 4 from 
+our integration guide
+.
+Debug View
+You can learn to check the GTM plugin enabled and preview the tags fired for Google Analytics 4 from the 
+Debug View
+ section of our integration guide.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Mass Template Personalization
+NEXT
+Order Cancellation and Refund
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+How to Migrate to GA4?
+Docs powered by
+ 
+Archbee

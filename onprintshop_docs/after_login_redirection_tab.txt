@@ -1,0 +1,34 @@
+After Login Redirection Tab - User Manual
+⌘
+K
+Store Setup
+...
+Settings
+Site Settings
+After Login Redirection Tab
+3 min
+Overview & Purpose
+On the front store, whenever the customers login, logout or register to the store, they need to land on some relevant pages for further steps. 
+For this, we have the After Login Redirection tab that allows the admin to select the pages for redirection.
+These settings can vary depending upon the different types of customers.
+Settings
+The pages are available to choose from – Home Page, My Account Page and Current page. We also have an option named ‘Other’ where you can enter any URL.
+﻿
+You can decide where the customers will be redirected after they login to your website, log out of your website or when they register on your store. 
+For example, you can decide whether a default store customer should be redirected to the home page or product listing page or some other page after they have logged in successfully, or a store customer should be redirected to the store home page once they are logged in successfully.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Store Configuration Tab
+NEXT
+Store Personalization Tab
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Settings
+Docs powered by
+ 
+Archbee

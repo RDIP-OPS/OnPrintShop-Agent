@@ -1,0 +1,64 @@
+Print Store Branch - User Manual
+⌘
+K
+Business Partners
+Print Store Branch
+8 min
+Overview & Purpose
+Print Store Branch generally refers to one of the many locations from where the store owner may be allowed to take direct orders with an intention to expand their printing business, whether through online or offline mode. The main office handles the administration of your company, while the branch locations operate the business.
+Configuration
+This section enlists all the branches created of your online store.
+﻿
+With this section Admin can manage the division of roles between the branches, eliminate redundant tasks, and improve efficiency with centralized strategy.
+On the Print Store Branch dashboard, you get to manage details of every print store branch. Other than these you can also find a quick link to login as a branch to view their admin panel. You can toggle Print Store Branch status as Green (Active) or Red (Inactive).
+Enable/Disable Print Store Branch Module
+By default, the Print Store Branch module is enabled. You can disable it from the 
+Admin > Store Configuration > Site Settings > Search with “Print Store” > Enable Print Store Branch Management Module (Select “No”)
+﻿
+Add Print Store Branch
+To add a print store branch, navigate to the
+ Admin >> Partners >> Print Store Branch >> +Add Button
+﻿
+Fill in the details and click submit to add a new print store branch. The username and password entered here will be used by the Print Store branch to log in to the Admin Panel. The branch can also receive notifications about the activities related to their branch. However, the branch can anytime change their login credentials.
+You also get the facility to associate a printer with a branch. This will help a branch to move their orders to printers and coordinate directly with them without the interface of other branches or entities such as super admin.
+When placing offline orders on customer’s behalf or while using ‘Login as Customer’ option to place an order on behalf of the customer, you or the branch admin can directly enter the transaction id manually if POS (Point of Sale) payment method is enabled.
+Action Menu
+You can perform various actions on the branches such as view, edit their details, view customers, orders and quotes (as per the setting):
+﻿
+View
+This displays selected print store branch’s details with a quick link to login into their Admin Panel, see their orders and quotes, perform an action on the same and more. 
+﻿
+There is also an action button named – Pickup By, which directs to the list orders page. This lists all the orders scheduled to pick-up by the particular branch. 
+The quotes action button redirects to the quote listing page, which enlists all the quotas assigned to the branch.
+Edit
+Quick link to edit details in print store branch's profile.
+View Customer, Orders and Quotes
+A quick link to view all the branch’s customers, orders and quotes. 
+Super Admin gets the provision to assign quotes and orders to the branch. Using these links Admin can view all the orders, quotes and customers assigned to them.
+Login as Branch
+A quick link for the Super Admin to login into the selected branch’s Admin Panel and perform actions on their behalf. 
+﻿
+Admin can access orders placed by customers under their branch and view branch order summary report and more.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Sales Agent
+NEXT
+Knowing Store
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Enable/Disable Print Store Branch Module
+Add Print Store Branch
+Action Menu
+View
+Edit
+View Customer, Orders and Quotes
+Login as Branch
+Docs powered by
+ 
+Archbee

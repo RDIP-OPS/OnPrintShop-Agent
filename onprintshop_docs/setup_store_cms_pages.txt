@@ -1,0 +1,58 @@
+Setup Store CMS Pages - User Manual
+⌘
+K
+Supporting Docs
+Setup Store CMS Pages
+5 min
+All the Store Admin can set their CMS pages and header/footer links for their OnPrintShop Store Store.
+While setting up store, you’ll find Content Settings. These settings include CMS, Link, Side Bar, Banner, and My Account settings.
+﻿
+All - 
+The settings applied on the website will be applicable for Store too.
+Only Store - 
+Store Admin needs to create their CMS Pages, set links, manage sidebar and add banners from Store Admin Panel, to display them on the Store Store.
+Add CMS Pages
+To add a CMS page for a Store, login into Store Admin Panel and navigate to the 
+Content Management >> Contents:
+﻿
+Here, you’ll find a list of all CMS Pages and Blocks available for the Default Store Website.
+You can opt to Edit a CMS page and set a link. The new link will appear on the Store Store.
+To Edit, click on the pencil-like icon of any CMS page.
+Make the necessary changes and click on 
+Save & Back
+.
+To set the link, click on link icon against the CMS pages.
+Define the link position, and change other settings.
+﻿
+Click on 
+Save
+.
+This will add the CMS page to the ‘Your Page’ list.
+You can just edit the CMS block and save the changes made. This will add the CMS block at the designated location.
+From the Store filter, you can view the list of pages created for the individual stores.
+Add Header and Footer Links
+To add a header/footer link page for a Store, login into Store Admin Panel.
+Duplicate the default links and set links for the store store.
+Click on the 
+Add 
+button to add a new header/footer link for the store store.
+﻿
+Refer to Header and Footer section to understand how to add header/footer links.
+From the Store filter, you can view the list of links created for the individual stores.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Reorder - Admin & Front
+NEXT
+Setup Store's Payon Account
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Add CMS Pages
+Add Header and Footer Links
+Docs powered by
+ 
+Archbee

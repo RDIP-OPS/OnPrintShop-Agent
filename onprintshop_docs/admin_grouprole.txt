@@ -1,0 +1,81 @@
+Admin Group/Role - User Manual
+⌘
+K
+Admin & Reports
+Manage Admins
+Admin Group/Role
+4 min
+Overview & Purpose
+Using this section you can create various Admin Groups and assign them different sections that they can access. The 
+access groups
+ created can be for 
+Store Admin, Store Admins, or a specific Store Admin.
+ Also, you can assign access to different sections to these groups based on their access rights.
+Dashboard
+The dashboard lists all the Admin Groups created with their roles and their accessible sections.
+﻿
+You can change the status of the groups to active or inactive. Only the Admin users with active group status will be able to log into their admin panel.
+The sections highlighted in green are those sections that will be accessible by the person (Admin) belonging to this group, and the sections marked in grey will not be accessible by them.
+All the Store Type groups are marked with Purple Tags.
+Admin Type groups are marked with blue tags
+Add a Group
+You can add an Admin Group using this section. The Admin Group created here will have access to all the sections assigned to them. To add a Group, go to 
+Admin >> Admin >> Admin Group / Role >> Add Button
+ 
+Select Group Type
+ – This will list down all the Stores listed in your system. You can also create a group for main Admin then use the option ‘Admin Group’. Also, if you wish to create an Admin Group for all stores, i.e. an Admin which manages all store, then choose the group type as – All Stores.
+Write a suitable Group name, which defines at admin’s right and access.
+﻿
+Select the sections to allow the Admin to access them and make desired modifications. 
+﻿
+Each type of permission gives your Admins access to a different part of your OnPrintShop admin:
+Orders
+ – View, update, add, delete orders and order notifications.
+Quote
+ – View, update, add, delete or download quote.
+Customer
+ – View, add, delete, update the customer database, and the ability to add multiple customers, and get access to the newsletter subscriber section.
+Store
+ – Get access to the store module; edit, delete and update the store accounts, manage their departments, inventory, and store fields.
+Products
+ – View, add, delete, and manage product details, Meta tag details, variant details, template details, and category of products on your website.       
+Template
+ – View, add, update, and delete template and template category. Create master templates, and change template settings.  
+Content Management
+ – View, add and delete content on your website. Update FAQ and FAQ Categories, update testimonials, website banners, email and SMS templates.
+SEO
+ – View SEO list, add, update or delete page titles and descriptions. Manage Sitemaps, Meta tags, robot.txt file, and other SEO Settings.
+Store Personalization
+ – View and set the theme for a site, set layout for product pages, manage website languages, header, footer and sidebar contents, and other store personalization settings.
+Store Configuration
+ – Manage store configuration settings, manage shipping methods, payment methods and currencies available in the system. Also, configure TAX settings, manage the country and state lists and more.
+Imposition Beta
+ – View, duplicate, add update and delete schema. Import job and superimpose on the sheets.
+Designer Studio
+ – View, add, update, and delete images gallery and category, update studio settings and manage studio fonts.
+Reports
+ – View and analyze various reports such as sales, products, customers, partners, etc.
+Admin
+ – View, update or delete site admins, create Admin groups and assign them roles. Create and manage workflow admins.
+Dashboard
+ – View recent orders, customers, and quotes. Analyze sales statistics, order and store statistics, hot selling products and keep a track of the Job Board.
+Action Menu
+Edit or delete any Admin Group using the Action Menu.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Workflow Admin
+NEXT
+Common Settings
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Dashboard
+Add a Group
+Action Menu
+Docs powered by
+ 
+Archbee

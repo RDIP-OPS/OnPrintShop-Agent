@@ -1,0 +1,99 @@
+Order Dashboard - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Orders
+Viewing Orders
+Order Dashboard
+6 min
+The List Order screen is from where you can access all your orders. After a customer places an order, it appears in this section.
+Admin can also create an order manually. To get a list of your orders, go to 
+Orders >> List Orders.
+Order Views
+The first thing you will see is the Order Details with the Customer Details. There are checkboxes provided with each column which will help you select and perform actions on multiple orders at once.
+﻿
+By default, the orders are listed according to the Order Placed Date.
+You can check the following details of every order –
+Order ID
+ – this is the order number. The number is system-generated and it goes sequentially. Whenever an order is placed (online or offline) a number is associated with the order. This number can be used for further tracking of the order in the system.
+Order Details
+ – This includes the details of the customer who placed the order. You can check the customer’s name if they belong to a store, and their email id. Also, you will get a quick link to view the customer’s details, wherein you can check the order(s) and template(s) of the customer.
+Payment and Shipping
+ – Under this column you will get the details of the payment method used while placing the order. It also informs about the payment status and shipping method chosen by the customer.
+Date
+ – This section displays the date on which the order was placed along with an estimated delivery date.
+Order Status
+ – This depicts the status of the order. After an order is placed it goes in the Pending state and Admin has the right to change the order status as the order goes for further processing.
+Action Menu
+ – Using the Action menu, you can perform processing actions on the order.
+Update Order
+ - Click on the 
+Edit 
+icon to update the orders.
+While updating an order from the Admin Panel, the Admin will also get a chance to update the order payment details such as payment status, payment date, payment method, and transaction ID. Admin will get a clear and concise view of a different set of fields. We have grouped shipping and payment fields and aligned other fields accordingly.
+Advanced Search
+You can search from your orders by going into 
+Orders >> List Orders >> Search Bar.
+Here, you can select the various filter options available to run more advanced search queries that let you search by your desired criteria.
+﻿
+Various filter options available are –
+Order Date –
+ this will help you narrow down orders according to a date range. You can also create your custom date range.
+Order Status –
+ this will narrow down your orders according to various order statuses available.
+Delivery Based –
+ this will filter orders according to their delivery due date. The options under this are – Delivery Today, Delivery Tomorrow, Overdue, or Specific Date.
+Payment Status – 
+This will filter out the Paid and Unpaid orders.
+Order Product Status – 
+This will filter out the orders depending on the selected order product status.
+Print-ready file status –
+ this filter narrows down the orders on the basis of Proof File.
+Store Type – 
+this filter helps in filtering the orders on the basis of user types such as a default store or any store-specific or any department-specific.
+Printer Type –
+ filter down the orders associated with specific printers (if any).
+Sales Agent –
+ filters down the orders associated with sales agents (if any).
+Branch –
+ this will filter down the orders associated with branches.
+Pick-up Branch – 
+this will filter down the orders associated with pick-up branches.
+Payment Method – 
+this will filter down the orders based on the payment method used.
+Company Name –
+ filter the orders for the specified company.
+Order Amount –
+ filter the orders by order amount
+Trait –
+ we have created various order traits which you can select and create combinations using AND, OR, and NOT functions.
+Mass Action
+There are check boxes provided for each order. You can easily select multiple orders to perform bulk actions on orders.
+Tick the orders on which you want to perform bulk actions such as – Download Order Details, Download Invoice. Archive Orders, Download Shipping Label, keep it to watch list, Bulk order update, etc.
+To perform a mass action on orders, select the orders, then select actions from the Action Dropdown and click on Submit.
+﻿
+Export Orders
+You can export all the orders in an excel file. To get all the order details, click on the Excel icon at the top right corner. The excel files will export the orders with Customer details, payment mode, order details, and payment status.
+New Order Notification
+Every time your system receives an order, you will receive a notification. The bell icon on the Admin Panel informs you about new order places.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Viewing Orders
+NEXT
+Order Status
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Order Views
+Advanced Search
+Mass Action
+Export Orders
+New Order Notification
+Docs powered by
+ 
+Archbee
+Viewing Orders - User Manual

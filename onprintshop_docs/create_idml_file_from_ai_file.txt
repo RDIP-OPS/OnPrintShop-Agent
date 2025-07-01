@@ -1,0 +1,74 @@
+Create IDML File from AI file - User Manual
+⌘
+K
+Supporting Docs
+Create IDML File from AI file
+9 min
+Overview
+Converting an AI (Adobe Illustrator) file to an IDML (InDesign Markup Language) file offers numerous benefits, particularly for users who work across multiple Adobe Creative Cloud applications or need advanced layout and publishing capabilities. 
+In the OnPrintShop store, you can create product templates via different means. In the system, you can even upload IDML format design files. 
+When you have AI files available, you can simply convert these files to IDML format via the InDesign Tool before you import these to the OnPrintShop platform.
+ Create IDML file from AI file
+To create an IDML file from an AI (Adobe Illustrator) file using Adobe InDesign, follow these steps: 
+To begin with, open the InDesign Software and then go to 
+File ->
+ 
+New
+ 
+-> Document:
+﻿
+Choose the size for your artboard and click on the 
+Create 
+button:
+﻿
+Once you click on 
+Create
+, a new artboard of the specified size will be created.
+Now, from the menu, click on 
+File ->
+ 
+Place:
+﻿
+You will be asked to select a file that you want to convert. Choose your AI file and click on 
+Open
+:
+﻿
+Note:
+ While opening the AI file, you nee to ensure the the option named 
+Show Import Options 
+is ticked.
+Next, go to 
+Windows -> Links. 
+﻿
+A new links panel will open. Right-click on the .ai file from the Links tab as shown above, and click on 
+Embed Link:
+﻿
+Finally, navigate to the 
+File -> Package:
+﻿
+In the popup screen, click on 
+Package
+ and then save it to the desired location:
+﻿
+Note:
+ While you are packaging, please make sure to select the following checkboxes:
+Copy Fonts Copy 
+Linked Graphics 
+Include IDML
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+CMS Blocks Setup
+NEXT
+Custom Art & Logo Maker
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+ Create IDML file from AI file
+Docs powered by
+ 
+Archbee

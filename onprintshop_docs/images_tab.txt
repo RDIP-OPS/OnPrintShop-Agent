@@ -1,0 +1,50 @@
+Images Tab - User Manual
+⌘
+K
+Store Setup
+...
+Settings
+Site Settings
+Images Tab
+2 min
+Purpose
+These are the settings that help you manage the display of images on the website. 
+Settings
+There are 3 settings in this tab for managing the Image's display, maximum crop width and maximum crop height of the user images:
+﻿
+﻿
+No. of User Images to be displayed per page – Front
+﻿
+With this setting, you can manage the number of images to be displayed under the 
+My Account >> My Images
+ section of customers. 
+﻿
+This will enable a 
+Previous 
+and 
+Next 
+button when the number of user images to fail to fit in one screen.
+﻿
+Maximum Crop Image Width for User Images – Front
+﻿
+This setting allows you to set maximum crop image width for user images. The default width set is '420'.
+﻿
+Maximum Crop Image Height for User Images – Front
+﻿
+This setting allows you to set maximum crop image height for user images. The default height set is '400'.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Site Settings
+NEXT
+Store Configuration Tab
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Purpose
+Settings
+Docs powered by
+ 
+Archbee

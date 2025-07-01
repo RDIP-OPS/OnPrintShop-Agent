@@ -1,0 +1,168 @@
+Create New Store - User Manual
+⌘
+K
+B2B/Private Store - Pro Plan
+Creating Store
+Create New Store
+13 min
+Overview & Purpose
+Setting up a B2B/Private store in the OnPrintShop admin panel is not difficult. It still requires a number of steps, from setting up the store details to configuring departments, markup, addresses, payment methods, etc. to make the store function effectively.
+Creating New Store
+Click on the '+
+Add
+' to add any store from the Admin Panel. The 'Add Store' section is divided into 4 different sections - Store Details, Configuration Setting, Content Setting, and General Setting.
+Store Details
+This includes the basic store details such as names, domains, URLs, etc.
+﻿
+Store Name
+ - This is the Store Name to be displayed at the Store Admin Panel.
+Email
+ - This will be treated at the Store Admin's email id. All the updates regarding the Store activities will be first sent to this email address.
+Directory Name
+ - Enter the store website URL in small letters and without and spacing or special characters
+.
+Note:
+ Store Customers can access both the Sub Domain assigned to Store as well as the Main Store URL to visit the front store.
+Username
+ - This is an identification used by the Store to login into its Admin Panel to access the backend of its web store.
+Password
+ - This field is used in the conjuncture of Username, which grants Store Admin access to the Admin Panel.
+Phone Number
+ - Enter the contact number of the Store.
+Add as Front Customer
+ - When enabled, a front store customer will be created using the store details entered and this customer will be displayed in the Website Customers list. 
+Configuration Settings
+This section will help the Admin make arrangements for the correct functioning of the Web Store. This section includes the setting of 
+Payment, Shipping, Language, Currency, Country, and Email Connection 
+Options:
+﻿
+If the selection is set to 
+'Default'
+ then all the active options in the category will be available to the Store Customers.
+In the 
+'Custom'
+ option the system provides all the 
+active options
+ in the category. Thus, the Admin can 
+customize
+ the fields for Store Customers.
+﻿
+For example, in the 'Custom' Shipping Options, the system listed all the active shipping options available. Admin can make choices and select the Shipping options for the particular Store's customers.
+Further, Admin can make choices to provide only selected Shipping Types available for the customers. This feature will allow the Site Admin to set and manage shipping type for the Custom Shipping Options - Expedite (Weight-Based), Ground (Weight-Based), etc. for the orders of Store Customers.
+Content Setting
+The content setting section allows Admin to change settings of Store Website features such as CMS, Links, Sidebar Settings, Banners, etc.
+﻿
+We have also provided the 
+My Account's
+ Custom Option Dropdown, the Site Admin and the Store Admin can manage the 'My Account' section and give it a more 
+personalized
+ look. The dropdown lists all the default pages possible in the section:
+﻿
+Store Settings
+This section covers all the basic settings of the Store, like managing their Pay On Account, setting up their order approval process, providing them an invoice, controlling their email notifications, etc.
+﻿
+Markup Type
+Store-wise you will have the facility to configure any of the following markup types:
+Markup
+Choose this type to increase the markup on the price.
+Discount
+Choose this type to decrease markup on the price.
+Also, you’ll have the facility to assign 
+Master Markup
+﻿
+.
+Now, you have to configure the markup once and it will be applied to both the following:
+Product price and
+Product’s option price
+Earlier you could apply separate markup to both product price and product option price. Now, the same markup will be applied to both.
+In the Store, we have added a new tab – ‘Products Markup’, from where you can configure product-wise markup.
+Pay On Account
+As explained in the Website Customers section, Pay On Account is a great way to improve customer retention. For Store, there are three options for Pay On Account - Disable, Store Wise, Customer Wise.
+Disable
+ - There will be no pay on account available for the particular Store.
+Store Wise
+ - The pay on limit assigned will be applicable to the entire Store or Departments of the Store.
+Customer Wise
+ - The Pay on limit will be made available to each customer in the Store.
+If Pay On Account option is enabled, then the following options will appear:
+Pay On Limit
+ - Enter the credit limit to be allotted to the Store.
+Order Approval
+ - This option will send all the Orders to the assigned Approvers, for their approval. There are various approval rights set in the system. Check access roles. Only the approved orders will be shown in the Orders Section.
+Show Price to Customers 
+- This will show/hide the price from the Store Customers with/without any alternative text.
+Enabling the Order Approval process will display the following options:
+External Approval
+ - We have extended the Order Approval functionality to the 
+external user(s).
+ Now, while placing an order the 
+Store Customer
+ can enter the 
+email
+ address of the external user who is not part of the system and also get the order approved by them. The External Approver will receive an email along with a link to approve/reject the order.
+Allow User to cancel order
+ - This gives Store Customer(s) an opportunity to cancel the order(s), while the order is in 'Approval Process'. This feature will help customers to pass on only the required order(s).
+Department
+Enable the option if the Store has a division. This will enable the Department Module of the particular store. See more in the Department Section.
+Fix Billing Address
+Enable the toggle if you want to restrict Store Customers from changing the Billing Address of their orders. Add billing Addresses from 
+Store Addresses.
+Fix Shipping Address
+Enable the toggle if you want to restrict Store Customers from changing the Shipping Address of their orders. Add shipping Addresses from 
+Store Addresses.
+If the Shipping Address for a Store are kept fixed, then at the Payment / Shipping Details page there will be Customer Name added along with office name.
+This will help the store figure out which customer has placed the order, thus eliminating any room of confusion.
+Quick Checkout
+Quick checkout will display all the products assigned to Store on one web page with a quick link to the product info page.
+Store Fields
+These are the special fields created by Admin. They include Store Customer Information that can be used in the Designer Studio to update the product template information.
+No
+ - Store forms fields will be filled by the customers only.
+Optional
+ 
+- Store form fields data will be fill up by end-users. After login in 
+'My Account' menu, 
+Store Customers should 
+fill
+ up data in 
+Store Fields
+ section.
+Mandatory
+ 
+- Store Form Fields data will be fill up by Store Customers. After login Store Fields will populate immediately and made compulsory to be filled by customers
+Allow Tax Exemption
+This toggle will make the Store Tax Exempt i.e. tax free.
+Manage Invoice
+Both 
+- This option is useful when certain orders will be paid individually and certain by multiple orders amount at once periodically. Store Admin and Store Customers will be able to download the invoice.
+Order-Wise Only—This option is useful when Store Customers or Store admins pay for each order. Thus, they can download an invoice for each order.
+Bulk Order Only 
+- This is useful when the Store Admin pays for multiple orders at once periodically. Site Admin generates the invoice and Store Admin gets to download the invoice. Side Admin's logo is displayed on these invoices.
+Manage Email Notifications
+With this feature, the Site Admin and Store Admin have the right to disable unnecessary email notifications.
+The system provides a drop-down of all the email notifications possible.
+The Site Admin and the Store Admin can check the notification about specific activities and help the Store Admin receive only the required emails in their inbox.
+Allow Partial Payment
+Enabling the toggle of 'Partial Payment' will allow you to further select a payment term and help your store customers make payments through the partial payment method. 
+Enable 2FA
+Did this page help you?
+Yes
+No
+PREVIOUS
+Creating Store
+NEXT
+Store Actions
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Creating New Store
+Store Details
+Configuration Settings
+Content Setting
+Store Settings
+Docs powered by
+ 
+Archbee
+Creating Store - User Manual

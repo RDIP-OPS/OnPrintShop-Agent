@@ -1,0 +1,68 @@
+Duplicate Templates - User Manual
+⌘
+K
+Template & Studio
+...
+Templates
+Creating Templates
+Duplicate Templates
+8 min
+Overview & Purpose
+According to business needs, there can be scenarios when you have multiple products with the same size and you want to assign them the same templates.
+An example of such products will include – Skinny Business Cards, Metallic Business Cards, Standard Business Cards, etc. All these business cards can have the same sizes, so you can easily duplicate their templates instead of creating new ones from the scratch.
+Configuration
+Add Duplicate Templates
+This tab will help you bulk assign templates of one product to similar products (i.e. products with the same sizes)
+Based on your product choice in the ‘Select Product’ section, the system will display all the templates associated with the product. It will display the number of PDF Block Templates, Master Templates, and Product Templates. The ‘Duplicate Product’ section will display all the products with the same size as the selected product.
+﻿
+Select the products for which you want to duplicate the product’s templates. Also, tick the type of templates you want to duplicate then click on the 
+Submit
+.
+Remove Duplicate Templates
+Suppose you have Duplicated a number of templates using the above steps but now you wish to reverse the action or you have duplicated the wrong product template. Using this interface, you can easily remove the duplicated templates.
+Just select the product from the list available, if the system finds the duplicate templates of that product, then it will display the product list in the ‘Remove Duplicate Product’ section.
+﻿
+Select the duplicate products from the list and choose the type of videos you wish to remove i.e. PDF Block Templates, Master Templates, or Product Templates and click on the Save button.
+Duplicate Templates with Resize
+This section allows you to duplicate a template from one size to another.
+﻿
+Note:
+ The action of duplicating the templates cannot be undone. Thus, it is advised to consult the technical and support team of OPS.
+Important fields are –
+Select Template Type
+There are two types of templates given: Product Template and Master Template. You can update existing templates and create a new version for Product Templates. However, you cannot create new versions of Master Templates.
+﻿
+Note: 
+Read the warnings carefully before taking any action. Also, check the instructions given in the Admin Panel.
+Update Existing Template – This option will resize the Source Product’s Templates to the product size selected from the ‘Select New Product’ dropdown. On the storefront, Source Product’s Templates size will not be shown. They will now appear under the New Product’s templates.
+Create New Template – This option will create new resized templates in addition to the existing ones. On the storefront, the new resized templates will show along with the existing templates of the New Product.
+Select Source Product
+This is the product size from which you want to change the templates.
+Select New Product
+You want to apply the resized templates to this product size.
+Update Preview
+This section allows the admin to update the preview of the selected products.
+﻿
+Simply, select the product size of the product from the dropdown and then click on the 
+Save 
+button to generate the preview images as per any modifications made.
+Did this page help you?
+Yes
+No
+PREVIOUS
+PDF Block Templates
+NEXT
+Designer Studio
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Add Duplicate Templates
+Remove Duplicate Templates
+Duplicate Templates with Resize
+Update Preview
+Docs powered by
+ 
+Archbee

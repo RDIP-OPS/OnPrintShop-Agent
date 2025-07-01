@@ -1,0 +1,44 @@
+General Settings - User Manual
+⌘
+K
+Marketing
+SEO
+General Settings
+1 min
+You can set search engine-friendly URLs for your web pages, as well as enter Google analytic code and Google conversion tracking code to get an analysis of your website visitors. We have provided settings in the system to manage these from 
+Admin >> Store Configuration >> Site Settings >> SEO tab:
+﻿
+﻿
+Enable Search Engine Optimizer with User-Friendly URL
+﻿
+This setting will help you generate a search engine-friendly URL for the front store. 
+URLs such as 
+https://www.example.com/index.php?productID=83671
+ will be avoided rather the system will show URLs such as - 
+https://www.example.com/standard_business_cards
+﻿
+Enable Search Engine Optimizer with Rich Snippets/Schema.org
+﻿
+This allows you to enable Search Engine Optimization with Rich Snippets/Schema.org. To know more about Rich Snippets/Schema, please refer to Moz Guide.
+﻿
+Set Custom Metatag
+﻿
+Here, you can add little snippets of code called metatags describing your website. Though this will not appear on the website anywhere, it appears on the source code.
+﻿
+Product and category-group SEO URL Pattern
+﻿
+Here, you can manage the pattern of SEO URLs for front store product/category/group pages if SEO friendly URL setting is enabled. Click on the Help icon to know more.
+Did this page help you?
+Yes
+No
+PREVIOUS
+SEO
+NEXT
+Page title, Keyword setting
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee
+SEO - User Manual

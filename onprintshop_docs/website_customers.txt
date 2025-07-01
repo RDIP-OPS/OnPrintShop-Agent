@@ -1,0 +1,22 @@
+Website Customers - User Manual
+⌘
+K
+Orders, Quotes & Customers
+Customers
+Website Customers
+0 min
+The Website Customers section enlists all the customers who have registered from the front end or the admin has manually added them in the system. 
+Here, the admin can view the customer details, add or import customers in the system, manage their addresses and much more. 
+Did this page help you?
+Yes
+No
+PREVIOUS
+Customers
+NEXT
+Dashboard
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee

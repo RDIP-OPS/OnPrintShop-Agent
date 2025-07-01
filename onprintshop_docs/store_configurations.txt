@@ -1,0 +1,22 @@
+Settings - User Manual
+⌘
+K
+Store Setup
+Store Configurations
+Settings
+0 min
+This part enables the admin to manage the smallest settings of the store along with controlling languages, currencies, delivery locations, web storage and tax/VAT settings.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Store Configurations
+NEXT
+Site Settings
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee
+Store Configurations - User Manual

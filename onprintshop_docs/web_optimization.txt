@@ -1,0 +1,59 @@
+Web Optimization - User Manual
+⌘
+K
+Marketing
+Web Optimization
+5 min
+Overview & Purpose
+Large images slow down the loading of your web pages, resulting in a poor user experience. The image optimization process uses a plugin or script to minimize the size of an image's file, which improves page load speed.
+﻿
+Configuration
+Internal CSS – 
+This option enables the internal display of all major CSS instead of external linking. It will help to improve the Google page speed score.
+Specific Image Sections
+Resize Image Width/Height (In Pixel) –
+ Enable this option to resize or optimize the uploaded image in the respective sections. 
+Resize Product Image Width/Height (In Pixel) –
+ Enable this option to resize or optimize the uploaded product image. 
+Resize Gallery Image Width/Height (In Pixel) –
+ Enable this option to resize or optimize the uploaded Product Gallery image. 
+Image Quality –
+ Select the image quantity in pixels from the dropdown that will be maintained after resizing or optimizing.
+Separate Images for mobile version – 
+When a specific size (pixel) is selected, the system will create a mobile version image for Banner and Product Gallery Images of the selected size. If the 'None' option is selected, no mobile version image will be created.
+Once you've finished configuring all, click the "Optimize" button to optimize select images for the specific sections.
+Note:
+ Depending on the quantity of images to be optimized, this procedure may take some time.
+Image Optimization for Specific Products
+If you want to optimize the images of any particular product then, navigate to the 
+Admin >> Print Products >> Products
+ and click on the Image Optimization icon against the selected product.
+﻿
+Image Optimization for Specific Banners
+﻿
+Image Optimization for Product Options
+If you want to optimize the images of product additional options, go to 
+Admin >> Print Products >> Product Options
+ and select the Image Optimization icon for the respective option.
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Image Alt Text
+NEXT
+Coupon & Discounts
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Specific Image Sections
+Image Optimization for Specific Products
+Image Optimization for Specific Banners
+Image Optimization for Product Options
+Docs powered by
+ 
+Archbee

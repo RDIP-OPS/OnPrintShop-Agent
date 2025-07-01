@@ -1,0 +1,62 @@
+Products - User Manual
+⌘
+K
+Admin & Reports
+Viewing Reports
+Products
+8 min
+Overview & Purpose
+This section allows the admin to see the information about product sales, template sales, inventory and stock summary of the products over time. 
+Product Reports
+Product Sales
+The product sales report shows the breakdown of total sales of different products, its total ordered quantity, and product prices, but does not include the shipping price.
+﻿
+The orders link redirects to the order details report. The reports always show the original values from the time of the order. 
+You can select a date range, order status, customer type and products from the filter provided.
+This report contains product details such as product name and its size, number of orders, product quantity, product price, average price and average quantity for each product.
+Template Sales
+This report has details of sales of the different design templates. The report will help you analyze the sales summary of different product templates and product master templates
+﻿
+This will include all types of templates – customizable, non-customizable, PDF Blocks, Print ready PDF files, also displays template 
+sold count
+ in template listing page.
+Inventory Request
+This report provides information about the inventory requests made by various stores. Report information varies based on the selection of date range, request type and the store account chosen.
+﻿
+The report contains a request date, order id, customer details, product name, inventory cost, request status, and reference link to see payment detail.
+Clicking on order id will redirect to the order detail page and payment request reference link will redirect you to the payment request page.
+Inventory Report
+This report provides information about that product detail whose inventory is remaining, completed or expired.
+﻿
+Report information varies based on the selection of date range, store selected or inventory type.
+The report contains order id, customer detail, product name, remaining quantity, printing quantity and remaining days.
+Clicking on the Order ID will redirect to the order detail page in the inventory tab.
+Stock Summary
+This report provides the summary of the stock credited, debited and remaining based on the filters selection.
+﻿
+Report information varies based on the selection of date range, store selected or inventory type.
+The report contains the product name, product category, product size, product options, total credited stock, total debited stock, total remaining stock and product SKU.
+Clicking on the Product Name will redirect to the product stock details page.
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Sales
+NEXT
+Customers
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Product Reports
+Product Sales
+Template Sales
+Inventory Request
+Inventory Report
+Stock Summary
+Docs powered by
+ 
+Archbee

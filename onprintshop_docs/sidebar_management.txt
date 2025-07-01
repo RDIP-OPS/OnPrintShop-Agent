@@ -1,0 +1,49 @@
+Sidebar Management - User Manual
+⌘
+K
+Store Setup
+Store Personalization
+Sidebar Management
+5 min
+Overview
+A sidebar exists on almost every page of the website and significantly impacts the overall customer experience. It plays a crucial role in website navigation, influencing what users click on and how long they stay on the site.
+Purpose
+Since sidebars help visitors access information quickly, this section allows you to enhance their browsing experience. A well-structured sidebar can guide user interaction effectively and improve visitor-to-customer conversion rates.
+Configuration
+This guide will help you configure and manage sidebars across your website to improve navigation, user experience, and conversion rates. 
+Sidebar Management
+Use the given interface to enable/disable 
+sections
+ on the right sidebar and left sidebar. From the icon next to each dropdown, you can choose which items to hide under the section.
+﻿
+With each section, we have also given a brief description stating which URLs are included in the same.
+Using Filter by Store dropdown on the top left, you will get the all section list with setting configured by that respective store.
+After you make the desired changes, don’t forget to SAVE them!
+Sidebar Widget
+Every widget on your sidebars allows your website visitors to interact well with your website’s services and features. Widgets aim to fulfill your conversion goals for each specific page.
+We have a pre-defined set of widgets listed on this interface wherein you can edit their settings such as their position (on the left bar or right bar), their display time, and their status.
+﻿
+Action Menu
+You can anytime edit the widget setting i.e. change its title, its position on the menus. You can also edit the display timing of the widgets according to your business needs and specifications. Every widget will have its usage, thinking that we have given you various options such that you can set each of your widgets.
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Links - Header & Footer
+NEXT
+Promotional Message
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Purpose
+Configuration
+Sidebar Management
+Sidebar Widget
+Action Menu
+Docs powered by
+ 
+Archbee

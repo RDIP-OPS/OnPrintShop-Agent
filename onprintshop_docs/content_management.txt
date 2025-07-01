@@ -1,0 +1,35 @@
+Content Management - User Manual
+⌘
+K
+Store Setup
+Content Management
+1 min
+﻿
+The content management system takes care of all the basic infrastructure work for you rather than having you develop your own system for constructing web pages, storing images, and other features, so that you can concentrate on more user-facing aspects of your website.
+﻿
+It enables you to keep your website updated, engaging, and aligned with your brand and marketing goals. 
+It includes tools to manage:
+Banners
+: Create and schedule promotional banners across pages.
+Testimonials
+: Showcase customer feedback with profile pictures and star ratings.
+Media Gallery
+: Add video/image tutorials to Studio or CMS pages for customer guidance.
+CMS Pages
+: Build and edit static pages like About Us, FAQs, and Policies using a simple editor.
+Email/SMS Templates
+: Personalize system notifications and marketing messages with branding and variables.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Manage Site Access
+NEXT
+Contents
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee

@@ -1,0 +1,109 @@
+Website Themes - User Manual
+⌘
+K
+Store Setup
+Store Personalization
+Website Themes
+11 min
+Overview
+A theme defines the overall look, feel, and style of your website. It includes key visual elements such as color schemes, layouts, and design components that work together to create a cohesive appearance.
+Purpose
+A well-designed website theme helps create a strong first impression and enhances the user experience. It directly reflects your brand identity and plays a vital role in building trust and engagement with your customers.
+Configuration
+ This guide will help you select, apply, and manage website themes to ensure a visually appealing and brand-consistent online presence. 
+﻿
+The dashboard lists all the storefront themes available, you can take a quick preview of the themes and select one as your storefront theme.
+Website Logos
+﻿
+This is the screen where you can add a logo for each store user type and the default store. From the User Type dropdown select the Store to add logos for various instances, such as 
+– logo for mobile, favicon, site logo, email logo, logo for studio and studio app logo.
+﻿
+You can repeat the above steps for every store added into your system and customize their appearance. The system will refer to the logos uploaded from this interface and display them in the front store. However, certain conditions need to be taken care of while uploading the logo. While uploading the files please make sure they are of the proper resolution, as the system will display the image as it is.
+Product Showcase Settings
+You can make your customers' shopping experience by showing recommended products based on trending or top-selling items from your store. This feature helps highlight popular choices, driving engagement and increasing conversions!
+﻿
+To manage the product showcase on the front, we have moved a few settings from Site Configuration to the Product Showcase Settings screen.
+Types of Recommendations:
+Top-Selling Products: These recommendations are based on sales data from the past 24 months. This helps highlight products that have consistently performed well over a longer period.
+Trending Products: These are identified based on sales data from the past 15 days, showcasing products that are currently gaining popularity. 
+Popular Products: Recommendations in this category are based on sales data from the past 6 months, providing a balance between long-term top-sellers and current trends.
+Customizable Recommendations
+We understand that there may be instances where you prefer to promote specific products according to your marketing strategy rather than relying solely on AI-generated suggestions.
+1. Automatic Data Transfer
+With the "Enable Real-time Data Sync" setting, the AI model can access your order data in the real-time, enabling it to generate accurate and timely product recommendations. To enable this feature, navigate to the settings menu and toggle the "Enable Real-time Data Sync" option:
+﻿
+For each recommendation section (Top-Selling, Trending, Popular), you can choose to disable the automatic transfer of order data to the AI model. This can be done by navigating to the respective section settings and toggling the option to disable data transfer:
+﻿
+2. Manual Product Selection
+When the automatic data transfer is disabled, you can manually select products to be promoted. A drop-down menu will be available in each section, allowing you to choose the products you wish to highlight:
+﻿
+After customizing the recommendations using either the Auto Sync or Manual Selection method, the admin can choose to display the recommended products on the Home page, Advanced Search, and Related Products block.
+To display the recommended products on the Home page, the 
+Display Setting
+ must first be set to 
+CMS
+. Then, within the 
+Home Page CMS
+ fixed page, the blocks for Top Selling, Trending and Popular products need to be added to the 
+Page Content
+ section:
+﻿
+Action Menu
+Every website theme will have a dropdown of Action Menu, with quick actions. For example, you can preview the theme, define theme settings, and write a custom CSS and JS for the theme.
+﻿
+﻿
+Field
+Description
+Use Case/Example
+Preview
+Opens the selected theme in a new tab so you can view how your storefront will appear with that theme, based on its default settings.
+Use this to visually evaluate a new theme before applying it to your live site.
+Theme Settings
+Allows you to access and modify 20+ customizable settings related to website appearance, including layout, colors, fonts, and more.
+Change the header layout or homepage structure without needing coding knowledge.
+Custom CSS
+Lets you write and apply custom CSS to override the default theme styles. You can apply it for all stores or specific stores using provided links.
+A designer updates font styles across all store pages using global custom CSS.
+Custom JSS
+Allows you to write custom JavaScript (JSS) for your website to add interactive features or modify behaviors.
+A developer adds a custom scroll animation or tracking script specific to a theme.
+Breadcrumbs
+Breadcrumbs navigation generally enhances the way users find their ways around. They improve the find ability and thus reduce the number of actions a website visitor has to perform.
+Breadcrumbs function similar to the process bars. They are horizontally arranged texts, separated with a “greater than” or any other kind of symbol.
+At OnPrintShop, breadcrumb options don’t setup automatically on your website. Contact a support person at support@onprintshop.com to activate breadcrumb options. We have also developed certain breadcrumb styles that you can use on your website.
+﻿
+Also, mention the breadcrumb style you want on your website.
+You can personalize your storefront web pages by applying different styles of breadcrumbs. You can choose different breadcrumbs for web pages like 
+Product Flow, Personalize Flow, Checkout Flow, My Account Flow, and Other Pages Flow.
+﻿
+Choose the type and position of the breadcrumb from –
+Admin >> Store Configurations >> Settings >> Search "Breadcrumb" >> Display style for Breadcrumbs – Front
+﻿
+Choose breadcrumb style from –
+Admin >> Store Configurations >> Settings >> Search "Breadcrumb" >> Breadcrumb Layout style (Click on Help icon to learn more)
+You can choose different styles for breadcrumbs, mentioned in the Help icon. You need to contact a technical OnPrintShop consultant for applying different breadcrumb styles.
+﻿
+Example of how breadcrumbs look at the website –
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Promotional Message
+NEXT
+Introduction
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Purpose
+Configuration
+Website Logos
+Product Showcase Settings
+Action Menu
+Breadcrumbs
+Docs powered by
+ 
+Archbee

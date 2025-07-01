@@ -1,0 +1,149 @@
+Promotional Products - User Manual
+⌘
+K
+Products
+Creating Products
+Promotional Products
+16 min
+What are the Promotional Products?
+Promotional products uploaded on OnPrintShop have many design benefits as compared to traditional products, such as -
+Restrict the personalization area with respect to the product area.
+Provides real-time preview (Wrap-around Preview).
+With simplified designer settings, get a smooth and more comprehensible design process.
+How to Configure?
+The basic configuration of a promotional product involves the same steps as the Standard Products along with setting up the fields available in the Promotional tab.
+After specifying the details in the 
+Add/Edit
+, 
+Description
+, 
+Designer
+, 
+Price
+, 
+Options
+, 
+Rules, 
+and 
+Gallery 
+tabs, let's head to the 
+Promotional 
+tab for the main configuration:
+﻿
+Preview Type
+To get started, choose the 
+Preview Type
+ from the dropdown menu, selecting either 
+Normal
+ or 
+Promotional:
+﻿
+Background Images
+The next step is to set up the background images for each product size. Alternatively, if the same image applies to all sizes, you can upload a common background image:
+﻿
+After the images are uploaded, use the 
+settings icon
+ to define the printable areas for each page:
+﻿
+For products like T-shirts, you can specify printable areas for different sections such as the 
+front, back, and sleeves (left and right),
+ or customize them based on your needs. 
+Remember to save the uploaded data before moving to the next step.
+Colors
+Next, switch to the 
+Colors
+ tab to add color options for your products. This can be done in two ways:
+Binding Colors to an Existing Additional Option
+: Enable the relevant setting and select an additional option from the dropdown. This will allow you to associate a list of colors with specific attributes of the respective product sizes:
+﻿
+Manually Assigning Colors
+: Assign colors directly to your products without linking them to additional options:
+﻿
+Once the colors are added, save the changes and move on to the 
+Additional Background Images
+ tab.
+Additional Background Images
+In the 
+Additional Background Images
+ section, you can upload image variants or patterns for your products. These variants will appear in the Designer Studio, allowing customers to choose their preferred style during customization. Ensure that all image sets maintain consistent dimensions to avoid any display issues:
+﻿
+Note:
+ The 
+Bind with Additional Option
+ setting can only be applied to 
+either Colors or Additional Background Images
+, not both. Since it has already been used for Colors, it cannot be enabled again for background images.
+Product Box
+Finally, navigate to the 
+Product Box
+ tab to configure the page margins for all product pages. If you want to define specific areas within the Printable area for the personalization and desiginig, you can add the margins as needed and save the final configuration:
+﻿
+Now, let’s take a look at how the product appears in the front store. Once customers select their desired product options, they are directed to the 
+Designer Studio
+ for customization:
+﻿
+The product loads with the uploaded background image applied to all pages. Customers can personalize the product further by selecting color options and adding design elements. The real-time preview feature allows them to see the changes instantly as they make customizations, enhancing the overall experience.
+Notes:
+ For any assistance, you can contact the Technical Team at any time.
+Product Examples
+A Customized MUG
+(Products with Wraparound preview – like mug and bottle, same size top to bottom)
+To set the design area, go to the 
+Admin > Products > Print Products > Mug Product > ‘Action’ Dropdown > ‘Designer Option’ Option:
+﻿
+Enter your desired width and height of the Design Area as shown in the example below.
+Let the Size option for MUG be standard.
+Note: 
+The design area of your MUG product can be different. The data shown in the image is just an example.
+﻿
+Product Pages: For the MUG product, there is only one side available – Front as shown in the example:
+﻿
+Configuration of Mug Product
+Go to 
+Admin > Products > Print Products > Mug Product > ‘Action’ Dropdown > ‘Promotional’ tab> ‘Configuration’ Button (Top-Right Corner)
+Set the ‘Preview Type’ as Promotional for MUG. This will show the design in wrap around in the Designer Studio as shown in the example below:
+﻿
+Different options to configure for MUG Product-
+Note: 
+Once you change or update the settings, the data of any configuration setup done before, will be lost. Look for the warning shown in Pop-up.
+All the settings shown are specifically for products like MUG. These options may vary according to your different needs.
+Background Images – 
+These are the background images for the canvas. Upload appropriate background images such that the user gets the actual look and feel of the product in the designer's studio:
+﻿
+After you have uploaded the background image, you need to define the printable area. To define the printable area, click on the 
+Settings 
+icon and define the dimensions:
+﻿
+Top - 
+This is the location where the canvas should start from the top of the background. This takes values in Pixels.
+Left - 
+ This is the location where the canvas should start from the left of the background. This takes values in Pixels. 
+Note: 
+The image uploaded should be with transparency. This makes it easy for colors and design to be superimposed and give a perfect preview of the design.
+Additional Background Images - 
+These images are used to superimpose the design such that your customer previews their design. It is advisable to upload multiple images such that the customer gets an idea of the design:
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Kit Products
+NEXT
+Custom Size Products
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+What are the Promotional Products?
+How to Configure?
+Preview Type
+Background Images
+Colors
+Additional Background Images
+Product Box
+Product Examples
+A Customized MUG
+Docs powered by
+ 
+Archbee

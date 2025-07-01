@@ -1,0 +1,80 @@
+Mass Template Personalization - User Manual
+⌘
+K
+Supporting Docs
+Mass Template Personalization
+10 min
+Overview
+Mass Template Personalization is a feature that allows users to customize templates in bulk. This feature enables users to personalize multiple templates at once, saving time and effort.
+With Mass Personalization, users can easily add personalized text, images, and other elements to templates, making them unique and tailored to individual needs. This feature is particularly useful for businesses that require customized templates for their customers, such as printing companies or marketing agencies.
+﻿
+Advantages
+Advantages of this functionality include:
+Increased Flexibility:
+ Customers now have the flexibility to input data either by uploading XML files or through manual entry, providing them with more options to suit their preferences.
+User-Friendly Interface:
+ To accommodate users who may not be familiar with XML files, the form-fill option offers a simplified interface, enhancing the ease of data entry for all users.
+Streamlined Data Input:
+ Whether utilizing the XML upload or form-fill option, the system streamlines the data input process, saving customers valuable time and effort.
+Rapid Setup and Customization:
+ The revamped "Mass Personalization" setting allows administrators to efficiently configure and customize available options, facilitating quick setup according to specific customer needs and preferences.
+Configuration in Admin Panel
+You can enable and offer mass template personalization for specific products to your customers. For this, navigate to the 
+Admin Panel >> Products >> Select Product >> Action dropdown >> Settings >> General tab:
+﻿
+For Mass Personalization, you can choose to allow the Upload CSV file, Manual Data, or Both. Also, you can choose to allow personalization for image elements along with text fields.  
+Upload CSV File: 
+When you select "Upload CSV file" from the dropdown, you get another option to upload the sample file that will be available for the customers to download from the front end. 
+﻿
+Manual Data: 
+When "Manual Data" is selected, it will allow your customers to manually enter their data using available fields. 
+﻿
+Both: 
+If you have selected "Both," then customers will have the option to choose between the methods. Also, you can choose the default method selected from both when the customer chooses to mass personalize the templates. 
+﻿
+Once you have made all the choices, Save the details.
+Feature at Front End
+On the Product Additional Information page, the customers will have a new option for Mass Template Personalization as shown below:
+﻿
+Upload CSV file
+When a customer wants to personalize their order by selecting Yes from the above screen and further clicking on the Mass Template Personalization button, the Mass Template Personalization screen will offer two options, “Upload XLS” and “Manual Data” (when the admin has selected "Both" option):
+﻿
+When the customer prefers to upload the data using the file, they can choose that option. By selecting "Upload CSV" from the radio button, they will be prompted to upload their file directly. It's a powerful tool that allows you to manage extensive product catalogs with ease. With the CSV file option, you can simply download, fill in details, upload, and summarize vast amounts of data effortlessly.
+In addition, customers will have the option to upload images in zip format and make bulk uploads with just a few clicks. 
+Now, click on the continue button, and once you go to the Mass Personalization Summary page, you can see records and preview samples, by clicking on the “Sample Preview” button, here as you can see. Then, our system will process the data, and incorporate it into their order.
+Manual Data
+It is designed specifically for products like stickers or labels, and this streamlined interface makes managing your data a breeze. 
+﻿
+Here, the customer can simply fill in the required template form fields. 
+Upload the Images using the upload button. 
+To add more data, customers can click on the 
+Add More+
+ button from the bottom right corner, increase/decrease the number or simply add numbers in the given field.
+The 
+Exclude from Personalization
+ button allows the customer to remove any field from personalization such as Company Name, Company Website URL or Company logo will be the same for all. So, they can skip adding details for those and it will take the default values set. 
+Once they've filled in the necessary details, simply click on the “View Preview” button to see the preview. A preview file will be generated:
+﻿
+After preview, customers can proceed to the next step by clicking on the “Continue” button where they can see the number of records and files on the Additional Infor page, and then click on “Save and Add to Cart” for the checkout process:
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Generate Content and Images using openAI
+NEXT
+Migration from UA to GA4
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Advantages
+Configuration in Admin Panel
+Feature at Front End
+Upload CSV file
+Manual Data
+Docs powered by
+ 
+Archbee

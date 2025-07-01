@@ -1,9 +1,3 @@
-
-
-
-
-
-
 OnPrintShop v12.1 Release– New Features for Payments, Stickers, Quotes, & More
 
 
@@ -91,6 +85,233 @@ OnPrintShop v12.1 Release– New Features for Payments, Stickers, Quotes, & More
 
 
 
+Now Live: OnPrintShop v12.1 – Smarter Workflows, Faster Checkout, More Sales - 
+Learn More
+ Customer Support 
+ Live Demo 
+3 May, 2025
+Version 12.1
+We’re excited to roll out v12.1 — a thoughtfully packed update designed to help print businesses move faster, sell smarter, and deliver better experiences.  
+
+This minor release introduces flexible die-cut sticker customization, new BOGO and reward point promotions, a streamlined document print module, and enhanced quote and offline order management. 
+ 
+To make every transaction smoother, we’ve added Apple Pay and Google Pay support for Ready-to-buy products. Plus, with performance enhancements and PHP v8.4 compatibility, your operations are now set to run even faster and smarter. 
+What’s New:
+1. Introducing Die-Cut Sticker Customization
+Our new 
+Die-Cut Personalization
+ feature lets users turn logos, faces, and caricatures into unique die-cut stickers in just a few clicks. Admins can easily enable this by product type, offering premium material options like Transparent, Gold, Silver, and Holographic finishes.
+End-customers simply upload their image, select from options like face cut, caricature, background removal, border customization, and material effects—and their personalized sticker is ready to go!
+2. More Power to Your Quotes
+Create Tailor-Made Quotes with Ease
+Admin users can now create highly specific quotes by simply selecting from pre-configured master options or associated tags. Along with this, the real-time price summary provides immediate visibility for these tailor-made quotes.
+Improved Request Quote Experience
+We’ve revamped the Request Quote Form, Offline Quote process, and View/Update Quote interface for a more intuitive experience. The old single-column design has been replaced with a cleaner, more organized two-column layout, offering both customers and admins a streamlined and user-friendly interface for managing quotes.
+Faster Quote Reuse with Duplication
+Easily reuse quotes with the new Duplicate Quote feature—quickly copy an existing quote and assign it to another customer of the same store, saving time and effort.
+3. Utilizing Reward Points during Checkout
+We’ve replaced the old coupon-based reward system with a more flexible way to redeem points—customers can now apply reward points directly at checkout, with clear discount breakdowns shown in the summary and invoice. Admins can control point usage and set maximum limits.
+4. Boost Sales with BOGO & Buy X Get Y Offers
+Boost sales and delight customers with our new BOGO and Buy X Get Y offers! From “Buy 2, Get 1 Free” to “Buy 3, Get 1 at 50% Off,” admins can now set up smart promotions for Promotional and Ready to buy products that apply automatically at checkout—perfect for driving repeat purchases and lifting conversion rates.
+5. Introducing Document Print
+We’re introducing a new product type – Document Print – designed for multi-page files like PDFs. It auto-detects page count, size, and orientation, making ordering easier. Customers can preview files, add section tabs, and choose from flexible pricing based on color, sides, paper, and finishing. Admins can fully control pricing, formats, and layouts, helping print businesses streamline everything from resumes to reports.
+Enhancements for an edge:
+1. Revamped Offline Order Module for Improved Usability
+With Stripe POS integration, the payment flow for offline orders becomes seamless. After placing an order, the system redirects to a payment screen, similar to the online payment process.
+Admins can now place offline orders for products that are marked as 
+inactive
+ on the online store. This enhancement supports business scenarios where certain products are no longer available for general customers but still need to be processed manually, such as for repeat or contractual orders, internal use, or special client requests.
+The Offline Order Module now features a cleaner, more efficient UI. Admins can quickly create customers with minimal details, enjoy a more organized product selection layout, and easily upload artwork. The payment, shipping, and order summary steps are now clearly separated for a smoother process.
+2. Reorder for Another Customer with a Saved Design
+Reordering is now more flexible with the enhanced Reorder action, allowing admins to easily place orders for a different customer by switching to "Another Customer." The new Copy Design toggle gives admins the option to retain or skip the original design when duplicating an order.
+3. Advanced QR Code Styling Support in Designer Studio
+Printers can now offer highly customizable QR codes within the Designer Studio, allowing customers to personalize designs with logos, colors, and styles for a more branded look.
+The new “Add QR Code” screen provides a live preview and supports advanced styling using the latest QR code styling library. This enhancement adds value to printing products like business cards, flyers, and packaging.
+4. Unlock Team Collaboration for B2C Accounts
+Admins can now allow B2C customers to view and reuse designs and orders created by other users of the same company. A new setting while creating a B2C user enables shared access,  easily browse the team's Saved Designs and past Orders, making collaboration and reuse simpler.
+5. Enhanced User Experience in Designer Studio:
+A new setting in 
+Studio Settings
+ allows admins to enable 
+auto-translation of template text
+ when using Browse Design. When enabled, text is automatically translated after the template loads in the designer studio, with a loader shown during the process.
+The new 
+Convert Raster to Vector
+ feature empowers users to enhance image quality and flexibility in their designs. With just a click, users can convert raster images (like JPEGs or PNGs) into clean, scalable vector graphics (SVG). This means no more pixelation when resizing artwork, sharper print output, and easier editing for personalized products. It’s a timesaving, professional-grade tool—perfect for logos, illustrations, or any graphic needing crisp clarity.
+We’ve introduced a new setting in Designer Studio called 
+"Resize Personalized Template"
+ to enhance the personalization experience. When enabled, the system will automatically resize all design elements based on the product’s dimensions while maintaining the original aspect ratio, making it easier for users to work with predefined templates across different product sizes.
+The 
+Small Caps
+ font style (SMALL CAPS) for the PDF Blocks gives the end customers more design flexibility and a professional touch in their print templates. This new font style enhances readability and visual appeal, making it ideal for headings, product names, branding elements, and disclaimers in their printed materials.
+6. Minor Enhancements
+Order Module Section:
+Admins with 
+Order Modify
+ rights can now update customer details directly from the 
+View/Update Order
+ page via a new 
+Edit
+ button. This enhancement allows changes to customer name (order-level only), phone number, email, and company name, with an option to sync updates to customer master records. All validations will respect existing site settings, and duplicate emails across customers will be restricted.
+We've improved the file download experience on the Modify Order page by renaming "Download Original File" to "
+Download Design Files
+" for all products. When identical files are used across pages, only one download link will appear instead of separate links. Additionally, for Photobook and Calendar products, the download option is now available on the View/Update Order page. Modified orders will also clearly separate current and previous design files for better clarity and management.
+Advancements in Product Pricing:
+Admins can now set 
+dynamic product option multipliers
+ either attribute-wise or product-wise, offering greater flexibility in pricing. The Product Option screen supports assigning master or custom multipliers, and the Master Markup screen now includes separate tabs for Markup and Multiplier. This helps print businesses better align pricing with production variables and maximize profitability.
+The weight setting for product options has been enhanced to allow admins to 
+calculate weight using custom formulas
+. This flexibility enables more accurate weight calculations for shipping and cost estimations, especially for custom or variable-sized product options.
+Say goodbye to manual prepress cost calculations. We know how tricky pricing can be with make-ready sheets, so we've introduced the "
+Make-Ready Wastage Master
+" feature. This tool lets admins define the number of make-ready sheets based on order volume, and the system automatically adds the wastage to the product price, eliminating manual calculations and ensuring accuracy.
+A new 
+Price List block
+ for dynamic size products shows size-wise pricing, savings, and unit costs, helping customers compare prices and improving the transparency on product detail pages.
+The system will display the available stock count below the quantity textbox, even when no values are entered for product or additional options. This is more useful to those products that have product options like a textbox with/without multiplication, like a T-shirt. This ensures that users can view stock availability upfront.
+Admin Panel:
+Admins can now access the Visual Price Calculator across all available pricing calculator screens in the admin panel. This functionality enables a more intuitive and interactive way to view and manage product pricing based on different configurations.
+A new filter option called 
+"Unsold Products"
+ has been added to the Product Sales Report. With this filter enabled, admins can easily identify 
+products that have not been sold
+—these will appear in the report with 
+zero quantity and pricing
+. This enhancement helps in analyzing underperforming products, managing inventory, and making informed decisions on product updates or promotions.
+Admins of Default or Public Stores can now easily manage extra product fields like MPN, brand, and GTIN for Google Shopping feeds. With options to auto-generate values or upload via CSV, this flexibility ensures faster, more accurate listing, improving data quality, search visibility, and campaign performance.
+Workflow admins will now receive relevant order updates via email when the 
+Email Notifications
+ setting is enabled. This ensures timely communication and improved tracking of order progress within the workflow.
+The Custom Form module now supports SMS alerts for both admins and customers, offering faster, more direct communication alongside email notifications.
+To meet demand and stay aligned with industry trends, the system now supports uploads of 
+AVIF
+, 
+HEIC
+, and 
+HEIF
+ image formats.
+Now it's easier to assign multiple sales agents to stores, filter commissions by store or status, and apply the same commission to all products in one click.
+Front Store:
+A fixed set of 
+"My Account"
+ links will now appear in the top header for easy navigation. The links include: 
+My Account, Orders, Quote Request, Saved Designs, Profile,
+ and 
+Logout
+, providing customers with quick access to key sections of their account.
+The shipping method selection at the front store has been improved for a more consistent user experience. With the updated configuration, the selected display style—whether 
+dropdown
+, 
+radio button at all places
+, or 
+radio button at checkout only
+—will now be uniformly applied across all relevant sections of the front store. This ensures a seamless and predictable interaction for customers when choosing their preferred shipping method.
+To simplify shipping choices for customers, we’ve introduced setting up a group of shipping types and displaying only the most cost-effective option. As part of this update, the 
+Address Settings
+ button has been renamed 
+Shipping Settings
+, allowing admins to manage grouped shipping types.
+To improve load speed and user experience, blog pages now support 
+pagination
+. This applies to the main blog page and CMS category landing pages.
+With the new dynamic coupon block added to the new content page, showing only valid and relevant offers based on store, user, and coupon conditions, making it easier for customers to find and use discounts.
+7. Third Party Integrations:
+Introducing Order and Notification via the WhatsApp platform
+We’re introducing WhatsApp integration to elevate customer experience with a seamless, conversational interface. This feature allows users to create orders, track existing ones, and receive real-time notifications for order updates and important communications—all through WhatsApp.
+To get started, clients must have a verified WhatsApp Business account. Our team will guide you through the verification process to ensure a smooth setup.
+Apple Pay and Google Pay Methods for Ready-To-Buy Products
+Front store customers can now pay with Apple Pay or Google Pay for Ready to Buy products. Admins can configure express checkout options from the PayPal Advance Method settings, choosing whether it appears on "Ready to Buy" product pages or on the first step of the shopping cart.
+Seamless Front-End Login with Single Sign-On (SSO)
+OnPrintShop now supports Single Sign-On (SSO) for front-end login, allowing users to authenticate through providers like OIDC, SAML 2.0, or OAuth. Admins can configure SSO store-wise, with dynamic fields, metadata uploads, and user restriction settings. A “Login via SSO” button appears on the login screen, enabling seamless access and automatic user registration if permitted.
+CSV Mailing List Upload Integration for 4over Mailing Products
+4over mailing products now support CSV mailing list uploads via the 4over Direct Mailing API. After selecting a mailing service location and postage class, and completing their design, they’ll be redirected to the Additional Info page where they can upload their mail list using the new 
+Upload Mail List
+ button.
+Upgrades to the Core Solution
+With v12.1, we’ve strengthened the foundation of OnPrintShop for even faster, more secure performance.
+Our platform is now fully compatible with PHP v8.4, ensuring smoother operations and up-to-date server security.
+We’ve also fine-tuned the Block PDF process by restructuring admin-side sessions, eliminating unnecessary head calls, and cutting down load times—making day-to-day workflows noticeably faster.
+Admins can now compress large GLTF files into optimized GLB formats with a single click from the Real Preview Model listing page. Once converted, the system automatically cleans up old files, delivering a lighter, faster-loading experience that saves storage and keeps designs running seamlessly.
+Full User Guide
+Solution Upgrade
+29 December, 2024
+ OnPrintShop Version 12.0
+1 September, 2024
+ OnPrintShop Version 11.2
+19 May, 2024
+ OnPrintShop Version 11.1
+Older Version
+Discover The Future of Print Innovation with Advanced W2P Capabilities.
+Opt in for a Demo
+
+
+#1 AI-Powered Web to Print Software
+ that opens up avenues to drive more print sales, automate processes, and streamline print business operations. 
+Live Demo
+Get in Touch
+biz@onprintshop.com
+ India 
++91-79-35200685
+ USA 
++1-718-715-1551
+Web to Print Solutions
+B2B Storefront
+B2C Storefront
+Custom Web to Print
+Trade Printer Solutions
+W2P for Print Franchise
+Large Format Printing
+Web to Print with 4Over
+Reporting & Analytics
+Print Workflow Automation
+Commercial Printing Solutions
+Web to Pack Solutions
+Print Estimating Software
+Personalized Print Solutions
+Photo Printing Software
+Canvas Printing Software
+Marketing Automation
+Photo Calendar Software
+Photobook Design Software
+W2P Designer Marketplace
+Direct Mail Marketing
+Design Proofing Software
+Labels & Sticker Printing
+Booklet Printing Software
+Explore
+Web to Print Storefront
+W2P Storefront Themes
+W2P Printing Products
+W2P Printing Sizes
+Print Fulfillment Software
+W2P SaaS Solutions
+Brochure Design Software
+Signage Design Software
+Wide Format Printing Software
+Print Ecommerce
+Web to Print Online Designer
+Order Management Software
+Variable Data Printing Software
+Custom Logo Design Software
+HTML5 Online Designer Studio
+Company
+About
+Contact Us
+Client Testimonials
+Success Stories
+Events
+Webinar
+ Awards 
+Powered by
+ Copyright © 2025 OnPrintShop. All rights reserved. 
+Compliance
+ | 
+Legal
+ | 
+Privacy Policy
+ | 
+Website Terms of Use
 
 
 
@@ -102,3 +323,73 @@ OnPrintShop v12.1 Release– New Features for Payments, Stickers, Quotes, & More
 
 
 
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+    This website uses cookies  
+
+
+
+
+
+      This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy.    
+
+
+
+        Read more      
+
+
+
+
+
+
+
+        Save & Close      
+
+
+
+        Accept all      
+
+
+
+        Decline all      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Show details      
+
+
+
+        Hide details

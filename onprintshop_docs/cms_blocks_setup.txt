@@ -1,0 +1,115 @@
+CMS Blocks Setup - User Manual
+⌘
+K
+Supporting Docs
+CMS Blocks Setup
+13 min
+Overview
+You may already know that Admin can add various blocks in the content of Dynamic Pages. Here, we will walk you through the steps to add a Price Calculator block on the CMS page for quick orders.
+This will help their customers analyze the prices of all the website products on a single page and place the order without navigating through the whole website to find their desired product.
+"Contact Us Form" Block on Landing Pages
+The vertical Contact Us block looks something like shown in the below image:
+﻿
+The horizontal Contact Us block looks something like shown in the below image:
+﻿
+Following the type of block added, the system will provide display the contact us form on the respective page vertically or horizontally. 
+For adding contact us form vertically, enter {% block_marketing_landing_vertical %} in the editor and for adding it horizontally, enter {% block_marketing_landing_horizontal %} block in the editor. 
+Blog Block on CMS Pages
+To allow the admin to display Blog section/pages on their website, a block has been added to the blog page in the Page Contents.
+To display any CMS page as blog page, you first need to enable the "Blog Pages" setting:
+﻿
+When the 
+{% block_cms_blog %}
+ 
+is added in any page, all the CMS pages with "Blog Pages" setting is enabled will be displayed on that content page:
+﻿
+If you want to display any specific page as Blog page, then you need to add the page key separated by comma in the block {
+% block_cms_blog|{key1,key2,...}
+In addition, you can manage sidebar and widget for the Blog pages with the new settings added:
+﻿
+﻿
+With these settings, the CMS Category will now be shown in the sidebar.
+User Login Block
+When you have any CMS page where you would want to offer your customers to login to their accounts for further steps or something, you can simply add the {% block_user_login %} block in the Page Contents of the respective page. 
+Once added, the Customer login page will be displayed at the front store:
+﻿
+Testimonials Block
+If you have created a separate landing page or marketing page and you want to showcase, the success stories or what your customers are saying about your services, you can add the {% block_testimonials %} block in the Page Contents of the respective page. 
+Once added, the Testimonials will be displayed at the front store:
+﻿
+Subscribers Block
+Whether it is your new promo page, contact us or even a blog page, you can ask your customers to subscribe to your Newsletter just by adding the Subscriber block from the Page Contents section and your customers can see the Subscribers block on the relevant pages:
+﻿
+Once they will enter their email id and press Subscribe, they will be added to your Subscribers list. 
+Price Calculator Block
+With {% block_product_calculator %} block, the admin can choose to show the price calculator on the CMS pages. Learn how you can setup 
+Price Calculator Block
+﻿
+. 
+Home Page CMS Block
+You can manage the content of the Home page middle section by showcasing Products, Categories, Groups, or even Kit products.
+To display these blocks on the Home page, you need to set the "CMS" value for the "Section to display in the middle area of Homepage" setting from the Product Showcase Settings.
+﻿
+We have added blocks for each section mentioned above. Below is the reference that how an Admin can include these blocks as per their business needs:
+Products:
+{% block_home_page_cms|product %} - For displaying all the products on the Home Page
+{% block_home_page_cms|product|cat_id|11 %} - For displaying Products of Specific Categories.
+{% block_home_page_cms|product|grp_id|12,13,16,33 %} - For displaying Products of specific Group.
+Product Category
+{% block_home_page_cms|category %} - For displaying all product categories on the home page
+{% block_home_page_cms|category|grp_id|12,13,16,33 %} - For displaying categories of specific Group.
+Product Category Group
+{% block_home_page_cms|group %} -  For displaying all the Product category groups on the home page.
+Kit Product
+{% block_home_page_cms|kit %} - For displaying all the kit products
+{% block_home_page_cms|kit|cat_id|11,10,14,24,25,27,30,5,8,7 %} - For displaying kit products of specific categories
+{% block_home_page_cms|kit|grp_id|13,27 %} - For displaying kit products of specific groups
+Popular Products
+{% block_home_page_cms|popular_product %} - For displaying all the popular products
+Trending Products
+{% block_home_page_cms|trending_product %} - For displaying all the trending products
+Top Selling Products
+{% block_home_page_cms|top_selling_product %} - For displaying all the top selling products
+Recently Viewed
+{% block_home_page_cms|recently_viewed %} - For displaying all the recently viewed products
+Product Display in Scroll Format
+{% block_home_page_cms|product|||scroll %} - The "scroll" parameter determines that products will be shown in a scrollable format. You can choose to display them as a scroll, slider, or in a simple layout.
+You can apply the "scroll" option to any home page CMS block to present products or categories in a scrollable, slider, or simple format.
+Note:
+ 
+The Products, Categories, Groups, or Kit products for which you have the "Display on Home Page" setting enabled will only be displayed on the Home page.
+The Top-selling, trending, and popular products must be configured in the "Product Showcase Settings" section.
+Product Category Block
+To allow your customers all the product categories you have on your website and choose to browse the products via category, you can incorporate product category block {% block_product_category_fullwidth %} for the respective CMS page in the Page Contents section. 
+Once you have added the block and made other display settings, it will be displayed as below on the store front:'
+﻿
+Product List Block
+If you have a requirement where you want to showcase the product list in the Footer section of your website, you can do so adding the {% block_product_list_footer %} block in the respective footer CMS page and all the products will be displayed in the footer section:
+﻿
+If you want to display a few promotional products, add {% block_product_list_footer_min %} block in the Page Contents section and only 10 products will be displayed based on their sorting. 
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Log
+NEXT
+Create IDML File from AI file
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+"Contact Us Form" Block on Landing Pages
+Blog Block on CMS Pages
+User Login Block
+Testimonials Block
+Subscribers Block
+Price Calculator Block
+Home Page CMS Block
+Product Category Block
+Product List Block
+Docs powered by
+ 
+Archbee

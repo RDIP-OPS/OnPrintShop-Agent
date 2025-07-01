@@ -1,0 +1,71 @@
+General - User Manual
+⌘
+K
+Template & Studio
+...
+Studio Settings
+Common Studio Settings
+General
+6 min
+Overview & Purpose
+This section will help you personalize the general designer studio settings, which will affect the overall look and feel of the studio. You can review each setting and enable/disable it for your studio according to your needs. 
+Settings
+Some of the important settings are –
+Restrict product size drop-down for changing product size in the studio
+ 
+This setting will enable/disable the option for customers to change their product size on the designer studio. If enabled there will be a dropdown given with all the product sizes, thus giving the customer the convenience to change the size of the product while creating the design.
+﻿
+Options for design preview (JPEG/PDF)
+Once the customer creates a design from the studio they get the option to preview their design. Using this setting you can allow your customers to get a JPEG or PDF preview of their designs.
+﻿
+Designer Studio Theme (Default: default)
+We have a set of themes available for the designer studio. You can check and enable the theme most suitable for your studio according to your design theme.
+Enable Custom Art Maker
+This feature allows customers to choose from pre-defined layouts. From here Customers can directly add color and text, then the system will automatically feed the details to Custom Art Maker. For more refer to the 
+Designer Studio
+ Module of version 7.1 release notes.
+Lock objects position
+This setting will lock the elements of all the templates throughout the system. Later while customizing the template the customers shall decide whether they want to unlock the object or delete it.
+﻿
+Unlock/Lock
+ – Easy lock/unlock of the template element.
+Delete
+ – Click to delete the element.
+Note:
+ The objects that were manually locked by the Admin in the Admin Panel while designing the template shall remain as it is i.e. customers won’t be able to unlock or delete them.
+Enable used colors & fonts from design
+This will help to maintain the consistency of the template, the customers faced difficulty in finding the exact color in the color palette.
+﻿
+We have added a separate color list in the color picker. This list contains all the colors used in the design.
+Whenever, for the first time the customers add a new text in the canvas, the font that is used maximum times in the template shall be displayed i.e. the newly added font shall be the font that is used maximum times in the selected template.
+If the customers change the font type, then the next time customers add the ‘new text’ it shall have the font that was previously used i.e. the last font used.
+Enable Lazy Load Fucntionality
+If the setting is enabled, lazy loading shall be in effect else regular pagination as existing shall be effective. Lazy load is a feature that enables on-demand loading and is an optimization technique for online content.
+Low resolution/empty image placeholder warning message
+This will populate warning message at various instances.
+Only Image Resolution
+ – Populate warning message only when there is low image resolution.
+Only Empty Image Placeholder
+ - Populate warning message only when there is an empty image placeholder.
+Both
+ – Populate warning messages for any of the above-mentioned instances.
+None
+ – Not to populate warning messages in any instances.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Common Studio Settings
+NEXT
+Top Panel
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Settings
+Docs powered by
+ 
+Archbee
+Common Studio Settings - User Manual

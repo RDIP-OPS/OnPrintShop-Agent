@@ -1,0 +1,81 @@
+Ready To Buy Products - User Manual
+⌘
+K
+Products
+Knowing Products
+Ready To Buy Products
+6 min
+Introduction
+Manage products that do not require much personalization. Most of these products are ready to sell. Such products include business card holders, banner stands, bag packs, pen stands, etc.
+On the Admin Panel, at a glance, you can view the list of all predefined or Ready To Buy products, including their size variants, stock availability, and customer type (i.e., the intended recipient of the product.
+﻿
+Creating Products
+ 
+To add a new product, click on the ‘
+Add
+’ button (top right corner). Fill in the details as explained in the Product Configuration section and click on the 
+Save & Continue
+ button.
+Kit Product
+While creating a product, the Admin will get three options, namely:
+Yes
+ – This will create a Kit Product.
+Buy With Kit Only
+ – The ready-to-buy products created can be bought when in the kit. (They will not be displayed on the product listing page.)
+No
+ – Create a ready-to-buy product as the regular process (can later be added to the kit if required)
+Buy Now
+For the Ready-to-Buy products, the admin can offer instant purchases with the Buy Now feature. Once enabled, a Buy Now button will be available on the Product Info Page for customers to place an order for the selected product. 
+Other Configurations
+The rest of the configuration of the ready-to-buy products works the same as adding a normal product. Please refer to the 
+Product Actions
+﻿
+ section for more guidance.
+How to create a Kit?
+A Kit is a set of articles used for a specific purpose. It can be a school kit, college kit, office kit, etc. This will help customers order bulk products instead of separate products. Kits have been major attractions for businesses and schools, as they contain a product pack. Kits are more informative and versatile. Thus, add Kits to your web store and explore 
+how they are important
+.
+Instead of a separate entity, the Kit Product will now be considered a ready-to-buy Product. This will help the Admins manage the sort order of the product without any hassle. Along with this other database, handling benefits comes in handy.
+Learn to configure 
+Kit Products
+﻿
+ from here.
+Related Products
+In this section, add related products for a particular product. Adding related products will increase the chance of upselling and cross-selling on your storefront.
+Related products might catch the customers' interest and may give you more sales. Thus, overall, it will increase your profit margins.
+Related products work the same as shown in the Products section. Refer to the 
+Related Products
+﻿
+ section for more details.
+Import Products
+Instead of uploading a single product at a time, the OnPrintShop system allows you to mass upload products using an Excel sheet. This will reduce the labor required to upload one product at a time.
+The steps followed in importing the ready-to-buy products are exactly as same as shown in the Products section:
+﻿
+With the new Kit Product Development, we have added a new column in the CSV file, namely - 
+kit_type_id
+Manage Stocks
+This section helps you check the overall stock of all the ready-to-buy products of the system. Click to view the stock, stock history, and download the stock history, etc.
+Refer to the 
+Stock Management
+﻿
+ section for a more detailed description.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Introduction
+NEXT
+Product Categories
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Introduction
+Creating Products
+How to create a Kit?
+Related Products
+Import Products
+Manage Stocks
+Docs powered by
+ 
+Archbee

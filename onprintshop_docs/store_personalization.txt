@@ -1,0 +1,103 @@
+Product Page Layout - User Manual
+⌘
+K
+Store Setup
+Store Personalization
+Product Page Layout
+4 min
+﻿
+Overview
+
+Using our customization features, you can create layouts for specific products or product groups. The system includes pre-built layouts for product pages, which you can preview using the preview icon. While these pre-built layouts cannot be edited, they can be assigned to your products.
+Purpose
+
+The purpose of this feature is to provide flexibility in presenting your products by allowing layout customization. Web and Mobile layouts for each Product Type are available under the Product Type tab, each with unique naming conventions to help you easily identify and assign the appropriate design.
+Note:
+ Any changes made in this section will directly be reflected on the Product Pages of your website. 
+﻿
+Configuration
+This guide will help you create, assign, and manage custom and pre-built product page layouts for Web and Mobile views in OnPrintShop. 
+Adding a Layout
+
+You can customize the product page layout based on different product types such as Predefined, Photobook, Book Products, and Calendar Products. These layout options allow you to tailor the user experience for each product type, provided they are enabled in your Admin Panel.
+To add a new layout, navigate to: 
+Admin >> Store Personalization >> Product Page Layout >> ‘+Add’ Button
+ (top right link).
+﻿
+﻿
+General Information
+This section allows you to define the foundational settings for your product page layout, including its name, applicable product type, layout type, sidebar preferences, and content blocks. These configurations determine how the layout will appear and function on the storefront for selected products. 
+Field
+Description
+Use Case/Example 
+Name
+Enter the layout name.
+Naming a layout as "Standard Mobile View" for better identification.
+Product Type 
+Select the product type for which you want to create a layout. Options shown depend on your configuration. 
+Choosing "Calendar Product" to create a layout specifically for calendar-type products. 
+Layout Type 
+Choose whether you want the layout for Web or Mobile. 
+Selecting "Mobile" to create a mobile-friendly product page layout. 
+Name
+Sidebar Display 
+﻿
+Choose to show or hide the sidebar. Tick "Default" to display or "No Sidebar" to hide it. 
+Hiding the sidebar on mobile for a cleaner user experience. 
+Select Product 
+Select the specific product(s) for which this layout will be applied. Product list is based on the selected product type. 
+Applying a custom layout to only "2025 Wall Calendar" product. 
+Select Block 
+Choose page sections (blocks) from a dropdown and add them to your layout.
+Adding blocks like “Product Description” or “Customer Reviews” to the product page. 
+Arrange Blocks 
+Drag and drop blocks to rearrange their position. Resize them by dragging the block’s right corner. 
+Placing “Price Details” above “Product Options” and resizing the image gallery block. 
+Action Buttons 
+Configure the layout, style, and behavior of action buttons (alignment, icon vs. button, popup or inline). 
+Setting action buttons as horizontal icon buttons that appear directly on the page. 
+﻿
+﻿
+Note:
+ If you have created a layout for the web it will not be automatically applied you will have to create a specific layout for mobile device also.
+﻿
+﻿
+﻿
+Action Menu of Page Layout:
+From the main screen, admins can manage page layouts using the Action Menu, which provides options to 
+Edit, Duplicate
+, or 
+Delete
+ custom layouts as needed. 
+Field
+Description 
+Use Case/Example
+Edit 
+Pre-defined layouts cannot be edited. Only custom-created layouts can be modified. For pre-defined layouts, only Sidebar Display and Product Assignment can be changed. 
+Editing the block arrangement in a custom layout for a Photobook product. 
+Duplicate Layout 
+Allows duplication of pre-built layouts to create a new, editable layout. You can then adjust the blocks in the duplicated version.
+Duplicating a standard Calendar layout and customizing it for a specific product variation. 
+Delete 
+A 2-step confirmation process is required to delete a layout. Pre-built and default layouts cannot be deleted and won’t show the delete option.
+Deleting an unused custom layout created for an old Book Product. 
+﻿
+Note:
+ Duplicate action will not reflect any changes in the default layouts.  
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Store Personalization
+NEXT
+Language Text References
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Adding a Layout
+Docs powered by
+ 
+Archbee
+Store Personalization - User Manual

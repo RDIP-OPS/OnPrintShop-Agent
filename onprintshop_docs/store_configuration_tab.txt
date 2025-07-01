@@ -1,0 +1,132 @@
+Store Configuration Tab - User Manual
+⌘
+K
+Store Setup
+...
+Settings
+Site Settings
+Store Configuration Tab
+7 min
+Purpose
+It provides many crucial settings that help in configuring your storefront. 
+Settings
+Enable/Disable Modules
+﻿
+Enable/Disable various modules - 
+According your business needs, you can easily enable/disable various modules such as printer, sales agent, quote reward, coupon management, discount management, branch management, and QR code module.
+Enable Features/Functionalities
+Enable Currency Auto Detect? - Front: 
+When enabled, the currency will be displayed automatically based on the language selected. 
+Enable Auto Archive of Orders?:
+ Archive orders are the orders that have been completed or fulfilled and closed by you. It is considered one of the best practices to archive the orders as it gives an accurate number of the remaining orders to be fulfilled. This setting will auto-archive the order once it is completed.
+Enable Comment Field for Customer? - Front:
+ If "Yes" is selected then, Add Comment will be displayed in the 
+My Account >> My Orders >> Order History tab
+ where the customers can add their comments for the respective orders.
+﻿
+Enable printer/vendor price? – Admin: 
+This setting will enable a vendor price section in the product price section. This vendor price section helps in bifurcating the Vendor Price and avoids re-calculation after the order is placed.
+Enable Quick Registration: 
+Enables the user to sign up in the storefront quickly. The setting can be enabled for different user types like Only Default Stores, Only Store and Both.
+Enable Payment Status Mapping with Payment Method?: 
+This will map the payment status defined on the Payment Method configuration settings and display it when a payment is done via the same method.
+Enable First Name and Last Name for Newsletter:
+ If you have selected “Yes”, then on the front store, first name and last name along with E-mail ID will appear and will become mandatory for newsletter subscription. If you select “No”, then the first name and last name option will not appear only the E-mail ID has to be entered.
+﻿
+Enable zero price on additional option?:
+ 
+If 'Yes' then additional option price will be displayed like $0.00, otherwise additional option price will be displayed as blank.
+Enable Cookie Warning Popup Message?: 
+If your website uses cookies, you may need to be providing cookies notification messages. These simple pop-up boxes are important for legal compliance. Not only do they let you give users adequate notice that you use cookies, but you can use them to get consent from users to place these cookies on their devices.
+Enable website caching: 
+This will cache product listing, template category data, etc. for better website performance.
+Enable Payment Processing Fee Configuration?: 
+A per-transaction fee is an expense a business must pay each time it processes an electronic payment for a customer transaction. Select to enable/disable this payment processing fees.
+Enable Hot Folder Copy?: 
+Enable hot folder to be able to copy files in a separate local or remote folder whenever order is placed.
+Enable Audit Log Report?: 
+This will enable the Audit loag displayed in the report section.
+Order Related
+Auto Approve Order Feedbacks: 
+Once the order gets completed customer gets the option to give feedback about their orders. If this setting is kept enabled, then the feedback added by the customer automatically populates on the product-info page.
+Store invoice due days’ list: 
+You can add a list of due days as comma-separated-values which can be used to set payment due date for the invoice.
+Checkout Method:  
+Here you get the option to fast-track the checkout process. A typical checkout process consists of the Shipping cart page, payment details page, and order page. The express checkout method combines all three pages in one single step.
+Select Default Production Days for All Products: 
+Here you can set the default production days for all your products. Production days set in the individual/Specific Product will supersede this production day set here as a default. If the production days for individual/Specific product is not set, then the system will consider these default production days and Estimated Delivery Date will be calculated based on this.
+Select Default Delivery Days for the Site: 
+The number of days entered here is considered when delivery days is not set for each shipping type (just like the production days and will be used in the calculation of estimated delivery days).
+Holiday List - 
+Specify your holiday dates with a comma (,) separated and keep date format like MM-DD-YYYY. These dates will be considered while calculating the estimated delivery days.
+Display Estimated Delivery Date at Front Store: 
+This setting will display the calculated estimated delivery days on the order details page at the front end. Thus, keeping transparency about the order delivery days with the customer.
+Set Order Cut Off Time:
+ This option is used to set and calculate the delivery days/date. You can set the working time of your setup. E.g. 9 a.m. if you have set at 9 a.m. and if you receive the order at 8 a.m. then the order will be considered as today’s order and the delivery date will be calculated on that basis. If you receive the order at 10 a.m. then the order will be considered as next day’s and the delivery date will be calculated accordingly
+Week Days On Which You Have Holiday:
+ You can set the days on which you do not work. E.g. Sat, Sun
+Define how to assign orders to printer: 
+Define how the order should be assigned to the printer – order-wise or product-wise.
+Pricing Related
+Option to calculate Weight-based price - 
+If Selected option is "Price for Total Weight", given price shall be considered as total weight (lbs) price.
+Tax Calculation based on – 
+Select the method in which the tax calculation would happen. It can be Flat or country-based or country and state-based or country and zip code based.
+Shipping Price Setup Based On – 
+Select how your customers should be charged for the Shipping Price. The three options are – Country, Country and States and Country and Zipcodes.
+Tax/VAT amount included in Product Price: 
+This setting helps you decide whether or not to add Tax amount into the product price for various customer types. The system will consider the TAX/VAT amount as already added to the shopping cart total.
+Others
+Hide Customer's Detail for Printer/Vendor Admin Panel:
+ Hide customer Details to Printer in View/Update Order section.
+None: If this option is selected then all the details of the customer will be going to the printer.
+Personal/Billing: If this option is selected then Personal and Billing Details will not be sent to the Printer/Vendor. Shipping Details will be displayed on the Admin Panel of the Printer.
+Personal/Billing/Shipping (All): On selecting this option, no details of the customer will be displayed on the Admin Panel of the Printer/Vendor.
+Name of Website Owner and Enter Site Name: 
+These two settings help you define the website name and the owner's name. This indicates a sense of authority towards your website.
+Website Status:
+ Allows you to change the website status to Maintenance, if you don't want the storefront to be active for a certain time duration. During this time, a maintenance page will be displayed. A maintenance page is a temporary place where all your customers will be redirected until you complete the behind the scenes update work.
+'From' Email Address:
+ If you haven’t configured email address in the Email Templates in Content Management, then the email configured here will be considered for any automated emails that are sent from the Admin.
+'Product Category' page style: 
+Allows you to set a product category page style.
+Selecting 
+'Default'
+ means product category information page will be displayed as in old default layout.
+Selecting 
+'Media box with Group'
+ means it will display multiple filter layout if product category with group enabled.
+Selecting 
+'Mediabox with Category'
+ means it will display mediabox layout page with all product categories as simple filters.
+Selecting 
+'Mediabox with All Products'
+ means it will display mediabox layout page with all products and only search box
+Website Date Format - Front – 
+Choose the date format for your website.
+Import/Export Utility Format –
+This is the format of imported data, as imported from the various modules of Admin Panel.
+Starting Month for Year – 
+Specify the start month of your website. This will be used in the Reports section for This Year and Last Year Filter.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Images Tab
+NEXT
+After Login Redirection Tab
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Purpose
+Settings
+Enable/Disable Modules
+Enable Features/Functionalities
+Order Related
+Pricing Related
+Others
+Docs powered by
+ 
+Archbee

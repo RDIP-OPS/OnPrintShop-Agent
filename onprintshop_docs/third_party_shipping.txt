@@ -1,0 +1,82 @@
+Third-Party Shipping - User Manual
+⌘
+K
+Store Setup
+...
+Shipping Method
+Shipping Methods
+Third-Party Shipping
+7 min
+Overview & Purpose
+The experience of third-party shipping providers can help supply chains run more efficiently while also saving time and money. In addition, it can significantly improve the way your store runs and free you up to concentrate on raising your overall customer value.
+With OnPrintShop, you can avail UPS and FedEx third party shipping methods after integration. 
+Configuration
+Configure Shipping Types and Shipping Setting
+Go to Admin >> Store Configuration >> Shipping Method >> FedEx or UPS >> Action Menu >> ‘Edit’ Option
+﻿
+Using the help links you can create UPS accounts and set up the manual calculator.
+Later provide the shipping name, customers and user groups it is to be made available for.
+Select the Shipping types which will be reflected at the front end under the shipping details.
+﻿
+With the Third-Party billing shipping option, Admin can bill the receiver’s account when processing a shipment. This feature is controlled by a site variable settings (contact the technical team for the same). It is beneficial for receivers who have contractual billing enabled on their Shipping Accounts (FedEx, USP or USPS).
+If enabled 'Yes' you will find Third Party Billing Shipping in the configuration setting of Stores or Customers or both depending upon the site variable setting.
+In the next section set up the shipping method settings such as account details, package details, and configuration details (For UPS and FedEx).
+Admin can also allocate sort order to the Shipping Types and manage their structure at the front end. Follow the steps shown in below picture-
+﻿
+For Account Details refer 
+UPS Account Details
+ and 
+FedEx Account Details
+. 
+Add Markup and delivery Days
+Go to the 
+Admin >> Store Configuration >> Shipping Method >> FedEx or UPS >> Action Menu >> Markup/Delivery Days.
+﻿
+Add a Markup Rule on different Shipping Amounts. Here, Admin can define different percentages, which will help them efficiently manage the shipping cost of varying order rates.
+Admin can set 
+Maximum Markup 
+for each Shipping type of the Shipping method. This will help the system effectively calculate the Shipping Prices at the front end.
+Also, you can define the Approx. Delivery Days for each Shipping Type, this will facilitate the calculation of Estimated Delivery Days. 
+Shipping Package Configuration
+Configure product-wise shipping packages, you can enter details such as weight class, max weight, length class, package length, weight, height, etc.
+Go to the 
+Admin >> Store Configuration >> Shipping Method >> Third-Party Shipping >> Action Menu >> Shipping Package Configuration
+You can also add Box Weight, this can be used in the calculation of 
+Package Shipment Weight
+.
+﻿
+With this option, you can create Master Packages that can be used in creating packages for all products. You can use these Master Packages in 
+Shipping Package Configuration
+.
+Schedule Pickup
+You can schedule a pickup of an order or multiple orders for third-party shipping service providers using this interface. 
+Go to the 
+Admin Panel >> Store Configurations >> Shipping Methods >> Select UPS or FedEx >> Action >> Schedule Pickup:
+﻿
+Search any order using the order id, enter the number of packages, Total Weight and Shipping Type, Pickup date, Close Time, Ready time, Residential Indicator, etc. in the interface. You can enter the pickup location in the Pickup Address section on the screen, also you can manage different pickup locations from 
+Manage Pickup Address
+ section.
+Transfer: This will transfer all the data filled in this section to the third-party shipping service provider i.e. they will be informed about the pickup scheduled.
+View Pickup Log: View the pickup log, you can also 
+cancel
+ the scheduled pickup later using this section, in case there are more changes to be made in the order.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Shipping Cost By Order Subtotal
+NEXT
+Manage Forms
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Add Markup and delivery Days
+Shipping Package Configuration
+Schedule Pickup
+Docs powered by
+ 
+Archbee

@@ -1,4 +1,125 @@
-Not found
-CONTENT NOT FOUND
-It either does not exist, has never been published, or it's private.
-Back to main page
+FAQs - User Manual
+⌘
+K
+Store Setup
+Content Management
+FAQs
+9 min
+Overview
+Your customers are bound to have a few questions about your product offerings, services, company, printing methodology, etc. While you may try to answer these through blog posts, web content, or other resources, it can be difficult for customers to find the exact answers they need. If it takes too long to find information, they may leave your website and look elsewhere. 
+Purpose
+Creating an FAQ page helps visitors quickly find answers in one central location, improving their experience and keeping them engaged with your site. 
+Configuration
+This interface allows you to 
+create, categorize, and manage FAQs
+ (Frequently Asked Questions) across your website. You can add FAQs based on products or categories, organize them by topic, and control where they appear on your storefront (like product pages or headers/footers). 
+This helps improve customer support, reduces repetitive queries, and enhances user experience.
+Add an FAQ
+For adding a new FAQ, navigate to the 
+Admin Panel --> Content Management --> FAQs --> Add 
+button (Top Right Link).
+ 
+Add an FAQ
+﻿
+Note: 
+FAQ added using 'Add' will fall under the primary level.
+To add an FAQ, you need to select the type, categories, add a question and answer and 
+Save 
+the changes.
+Field
+Description
+Use Case/Example
+FAQ Type
+﻿
+Choose how the FAQ should be assigned
+.
+Select "Product Specific" to address questions about a particular product, like a custom mug.
+- General
+Use this type for common questions that apply across your entire website or business operations. 
+“What is your return policy?” applies to all products. 
+- Product Specific
+Assign an FAQ to one or more individual products. 
+Useful for answering product-specific queries. 
+- Category Specific
+Assign an FAQ to a group of products under a category. 
+Ideal for shared questions across similar products (e.g., “Shipping time for apparel”). 
+FAQ Category
+Select the category that best describes the FAQ topic. Helps users browse questions by theme. 
+﻿
+Assign a delivery-related FAQ to the “Shipping” category. 
+﻿
+Question
+Enter the customer-oriented question clearly and concisely. 
+Frame questions from a visitor’s point of view like, “How long does delivery take?” 
+Answer
+Provide an informative, helpful answer. Keep it simple and precise. 
+Include links to relevant pages when helpful (e.g., Return Policy page). 
+﻿
+Product Page Setup
+Once FAQs are added, you can personalize FAQ blocks on product info pages by adding the FAQ block to the layout from the 
+Admin Panel --> Store Personalization --> Product Page Layout --> Select Layout --> Edit
+: 
+FAQ Block Setup
+﻿
+Show only relevant questions on a specific product’s detail page to improve clarity and user trust. 
+Note:
+ All these questions and answers will aim to cover all the doubts of your visitors/customers. Thus, make these questions customer-friendly. Also, try to compose each of the questions from the customer’s perspective rather than from the website owner’s perspective.
+Managing FAQs
+Edit:
+ Update FAQs to reflect any changes on your website or services, keeping customers informed.
+Delete:
+ Remove selected FAQs quickly after a two-step confirmation process.
+Add FAQ Categories
+FAQ categories are used to 
+organize frequently asked questions into logical groups
+ based on the subject or area they relate to. This improves customer experience by making it easy for users to browse through topics, quickly find relevant answers, and navigate without needing to search manually.
+﻿
+Well-organized categories also reduce customer service workload by proactively addressing common concerns in an intuitive format.
+﻿
+The predefined categories - 
+Preliminaries, Products, Pricing, Printing, and Payment-
+cover the full customer journey and reduce support efforts by addressing common concerns in a clear, structured way. 
+Add an FAQ Category
+To add an FAQ category, simply enter a suitable name for the category and give a sort order. The title of the category should be such that it includes a wide variety of questions.
+Managing Categories
+Edit:
+ Quickly modify the FAQ Category name.
+Delete:
+ Delete the category after confirmation; available only if no FAQs are assigned.
+View Questions:
+ Quickly view all FAQs under the selected category.
+Note:
+ If you wish to delete categories that don't show an option of 'Delete', then delete the FAQs in that particular Category or transfer them to a different category.
+Manage FAQ Links
+You can add your FAQ page’s link in either the header, footer, top header, or sidebar. To edit the location of the FAQ page, go to the 
+Admin Panel --> Store Personalization --> Links Header/Footer --> FAQ --> Action Menu --> Edit Option:
+Manage FAQs Display Link
+﻿
+Make the desired changes regarding the positioning and display options of the FAQ page.
+Front End View
+On the storefront, FAQs are displayed grouped under their assigned categories. Each FAQ can be expanded or collapsed for readability. This clean layout helps customers find answers quickly, reducing support requests.
+FAQs Front Store Display
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Contents
+NEXT
+Testimonials
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Purpose
+Configuration
+Add an FAQ
+Product Page Setup
+Add FAQ Categories
+Manage FAQ Links
+Front End View
+Docs powered by
+ 
+Archbee

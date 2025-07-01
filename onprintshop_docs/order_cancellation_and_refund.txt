@@ -1,0 +1,129 @@
+Order Cancellation and Refund - User Manual
+⌘
+K
+Supporting Docs
+Order Cancellation and Refund
+16 min
+Overview
+Depending on your return and cancellation policy, you might need to create returns or order cancellations for customers to return purchased items and refund a customer's payment. Refunding promptly and professionally shows your commitment to your customers and encourages them to order again in the future.
+From OnPrintShop you (Admin) can enable/disable cancellation requests (to be placed by the customer), restock canceled items, and create partial and full refunds.
+Cancellation Request
+In our system, you (Admin) can decide when to allow/disallow the customer to place an Order/Order Product Cancellation Request.
+The Order/Order Product Cancellation can be managed status specific. Go to 
+Admin >> Orders >> Order Status.
+Enable Order Status Wise Cancellation Request
+Under the Order Status tab, you’ll find a column Allow Cancellation for several Order Statuses.
+﻿
+If the ‘
+Allow Cancellation
+’ toggle is enabled for status then at the front end when the order is in the respective states, the customer will get a button to place a cancellation request.
+﻿
+Whenever order status is changed/updated system checks whether the 
+‘Allow cancellation’
+ toggle/setting is enabled for the current status, if yes then the 
+‘Request for cancellation’
+ button will be displayed, if no then the button will not be displayed.
+Enable Order Product Status Wise Cancellation Request
+Under the Order Product Status tab also, you’ll find a column – Allow Cancellation for several Order Product Statuses.
+﻿
+If the 
+‘Allow Cancellation’
+ toggle is enabled for product status then at the front end when the product is in the respective states, the customer will get a button to place a cancellation request.
+Here, you can see Product Bookmark One Side is in status 
+‘File Review’
+ hence request for cancellation button is not available. But, for Cap, the order product status is Proof Approved thus the ‘Request for cancellation’ button is available. (All these parameters are taken from the image above)
+﻿
+Order Cancellation Flow
+To cancel an entire order/product customer will have to perform the following steps –
+Navigate to 
+My Account >> My Orders >> View Details (for the orders to cancel) 
+and click on 
+Request for Cancellation
+ button.
+﻿
+Enter the reason why they are cancelling the order. They must select a reason and enter comments if they want to cancel the entire order.
+Click on Submit button.
+Customers will receive an 
+Order Cancellation Email
+, stating Admin has received their cancellation request.
+You (Admin) can check/edit the email content from 
+Admin >> Order >> Order Status >> Order Status tab and Order Product Status tab >> Cancellation Request email.
+Admin Panel
+At the Admin Panel, you can see that the order status has changed to – Cancellation Request.
+﻿
+To view order cancellation details, go to, 
+Action >> View/Update Order >> Order History tab
+.
+﻿
+On the List Orders page, click on pencil-like icon to view order details.
+In the pop-up, you can choose to reject the order cancellation request.
+﻿
+If not rejecting then you can choose to refund the order by entering refund amount details, and restore stock.
+Select Refund Method and Type
+Refund Method
+Order Cancel Only - 
+This will only cancel the order and the refund should be managed separately. This option will be helpful when the payment is yet to be received and you (Admin) received an order cancellation request.
+Manual Refund - 
+The admin will manually refund the order according to their feasibility.
+Refund via coupon - 
+This will allow the Admin to give customers a coupon that they can redeem via future orders. Customers will be able to check their coupons on the Order Details Page.
+﻿
+Note
+ – If any order payment is completed via a payment gateway then you’ll get that payment gateway as the fourth option. The payment gateway will only come when the 
+refund option is enabled
+ (for the payment gateway) manually from the database by the technical team. Also, the technical team will only be able to enable the refund option for the payment gateway if that Payment Gateway offers REFUND API. For this, you can connect with our technical team or write us at support@onprintshop.com
+Refund Type
+You can issue two types of refunds – full and partial.
+Full Refund - 
+The order will be fully refunded and you can set the order status as desired.
+Partial Refund - 
+This will be helpful when your customer reports a problem with what they bought, but it’s not serious enough to immediately warrant a return. Partial refunds are for cases that can be saved by meeting the buyer halfway. You can use this according to your business model.
+How many entities will be reverted in refund?
+While issuing a refund you can select the entities to refund and enter the amount to refund. Some common entities are –
+Shipping Charges
+Taxes
+Payment processing fees
+﻿
+Note:
+ These entities may vary according to your store (shipping and payment) configurations.
+How to Restore Product Stock?
+While accepting the order cancellation request you’ll get the option to tick the 
+‘Do you want to restore the stock?’
+ check box.
+With this, all the product stock will be restored (if the manage stock option is enabled for a product)
+Reset Rewards Points and Coupons
+While accepting the order cancellation request you’ll also get the option to tick the 
+‘Do you want to reset coupon and reward point?’
+ check box.
+This checkbox will reset all the coupons used and the reward points back to the customer’s account if there will be any coupons used in the order.
+Order Cancelled and Refund Issued Email
+Once Admin accepts the cancellation request and issues refund then customer receives the following email –
+Order Cancelled
+Refund Initiated
+You can check the email content from
+Admin >> Order >> Order Status >> Order Status tab and Order Product Status tab >> Cancelled and Refund emails
+Did this page help you?
+Yes
+No
+PREVIOUS
+Migration from UA to GA4
+NEXT
+Price Calculator Block Setup
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Cancellation Request
+Enable Order Status Wise Cancellation Request
+Enable Order Product Status Wise Cancellation Request
+Order Cancellation Flow
+Admin Panel
+Select Refund Method and Type
+How many entities will be reverted in refund?
+How to Restore Product Stock?
+Reset Rewards Points and Coupons
+Order Cancelled and Refund Issued Email
+Docs powered by
+ 
+Archbee

@@ -1,0 +1,98 @@
+Add New Product - User Manual
+⌘
+K
+Products
+Creating Products
+Add New Product
+6 min
+Overview & Purpose
+With the OPS store purchase, you get some products configured by default. You may want to expand your product offerings. You can do so by adding more products to your store. 
+Configuration
+To add a new product to your store, click on the 
+Add 
+button in the top-right corner of the Products list screen and follow the further instructions:
+Product Details
+This section contains some basic information about the product:
+Product Details
+﻿
+Product Name: 
+This is the name of the product, as you want your customer to see it.
+Product Internal Title:
+ An internal title of the product, which is displayed on the product-listing page only on the Admin Side. This helps Admin differentiate similar products.
+For example, A business card can be a product for a default store, it can also be a product for a specific store. Here, an internal title can help Admin differentiate the two instances of the same product.
+URL: 
+A unique URL to identify your product on the web. It is recommended to keep the URL SEO friendly, as it keeps your website and product higher in browser search results. At the product listing screen, you can search for a product using the URL defined.
+Search Keywords:
+ Add search keywords (only text) using which you will be able to run an easy product search in the search bar.
+Default Category: 
+This is a category of the product that the Admin can use to manage Products. A product can have only one Default Category. On the front-end side, a category helps a customer navigate the store more efficiently and find the desired product easily. It will help you organize your product well and allow users to find the product easily.
+You can use any pre-defined categories or 
+create a new category
+.
+Associated Category:
+ Add one or more associated categories for the product. (optional).
+For example, an ‘X’ product can have a Default Category as ‘Stationery’ and during Sale days the ‘X’ product can have associated categories as ‘Daily Deals’ or ‘Offers & Discounts’, etc.
+Price Defining Method: 
+Define the pricing method, i.e., the price you are charging for the product. Learn about the different 
+Pricing Methods
+.
+The Product Define Pricing method cannot be edited once saved for Size-based Price (Dynamic Size).
+Sheet Calculation: 
+Enable this option if the price of your product is to be calculated based on a sheet used for printing. Learn more about sheets from 
+here
+. This will calculate the printing cost per printed page.
+Product SKU (Stock Keeping Unit):
+ This is a unique code that identifies the product within your business. This code helps Admin for effective order tracking and sales reporting, thus, it is mandatory to keep each SKU unique. Admin can create its own SKU format for each additional option of the product.
+Linear Calculation
+ – This will be available only for the pricing method - Range Based on Multiplication. This will allow you to charge customers the same price for each unit. It will help maintain the marginal profit for each unit regardless of the units sold in order. The product price for each quantity within a range varies; the price for each quantity will increase in arithmetic progression.
+Example: Suppose a customer orders 1200 quantity of Business cards - 
+Price calculation will be done by the given formula to maintain the price based on the entered quantity.
+This will be applied to all types of products with Price Defining Method - Range based on Multiplication. 
+Price calculation would apply to the product and its additional option base price and vendor price.
+Product Configuration
+This section contains other product details:
+﻿
+Stores
+You can just select the store for which you want to enable the product. It can be either a Default Store (a regular customer) or an All Public/Private Store.
+If you have added stores then the system has a provision to select a specific store for the particular product. You can also assign the standard products department-wise. The ‘Select Department’ button will open a pop-up with all the stores and departments listed along with a checkbox:
+﻿
+You can select any department of the listed store, search for any store, and even assign the product to the whole store.
+Customization Option
+Choose the design type of a particular type. The customization options offered by the system are -
+Browse Design
+ – The customer can select ready templates uploaded by the Admin and later customize the template in the Designer Studio.
+Upload Centre 
+– This enables the customers to upload their designs.
+Custom Design
+ – This allows customers to create their designs in the Designer Studio.
+Quote Product
+ – This option allows the customer to first get the quote of the product and quantity and later place the order.
+Hire Designer
+ – If the customers do not have their design, nor do they want to browse designs from existing templates, or create a new design, then they can hire a designer with this option. Keep this option open if you have a dedicated designer to help your customers design their products.
+Enable Stock Management
+Get instant access to the quantity and stock of your product with the Stock Management Option. Manage stock based on size or with product combination-wise, i.e., size with each additional option. Some products where you can manage stock are Mugs, Caps, T-shirts, CDs, etc.
+Product SKU
+For product identification, you can enter an alphanumeric code that can be used for internal purposes and, when entered, will also be displayed in the front store Price Calculator. 
+Production Days
+Define the production days for your product. These days are added while calculating the Estimated Delivery Date of an order.
+If this is kept empty, then “Common Production Days” are considered from Storage Configuration Settings.
+Cutoff time
+You can define a cut-off time for the product. If the product’s order is placed after the cut-off time, then it will be considered as the next day’s order. If set as default, then the cut-off time set in site settings will be referred to.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Product Categories
+NEXT
+Product Actions
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Product Details
+Product Configuration
+Docs powered by
+ 
+Archbee

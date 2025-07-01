@@ -1,0 +1,92 @@
+Price Calculator Block Setup - User Manual
+⌘
+K
+Supporting Docs
+Price Calculator Block Setup
+7 min
+Overview
+You may already know that Admin can add various blocks in the content of Dynamic Pages. Here, we will walk you through the steps to add a Price Calculator block on the CMS page for quick orders. 
+This will help their customers analyze the prices of all the website products on a single page and place the order without navigating through the whole website to find their desired product.
+Custom Price Calculator Block
+The price calculator block looks something like shown in the below image:
+﻿
+The ‘
+Get Started
+’ button will request the customer to upload, browse or create a product design as defined in the Product Section.
+Following the type of block added, the system will provide a product dropdown and display all the mentioned products in the block as defined in the CMS.
+Configure Price Calculator Block
+Below is the reference that how an Admin can include the Price Calculator Block for different products as per their business needs
+All Products:
+{% block_product_calculator|all %}
+Mention the 
+‘all’ 
+keyword after the product_calculator block.
+Products of a Specific Category:
+{% block_product_calculator|cat_1_2_3 %}
+The 
+‘cat’ 
+keyword 
+is 
+referred to 
+category ids 
+for which product categories you want to make the listing.
+You can check the Category ID from the Address Bar as shown below –
+﻿
+Specific Products :
+{% block_product_calculator|prd_1_98_100_106_108 %}
+Need to mention the 
+‘prd’ 
+keyword followed by specific product ids.
+You can find the product ID from the Address Bar as shown in the below image –
+﻿
+Admin can also 
+disable the ‘Estimated Shipping Cost’ 
+and 
+‘Send Estimated Cost’ sections
+ (if these blocks are enabled for the main site) from the Custom Price Calculator. 
+Note:
+ The ‘Estimated Shipping Cost’ and ‘Send Estimated Cost’ sections will be displayed based on the Configuration Setting of the website.
+If the sections are enabled and Admin wishes to disable them for the Custom Price Calculator for CMS page then, it can be achieved by adding 
+_es0
+ (Estimated Shipment) and 
+_ec0
+ (Estimated Cost) after the product_calculator block.
+Below is the reference to 
+disable
+ Shipping as well Estimated Cost section :
+Disable Estimate Shipping Price Section:
+{% block_product_calculator|all_es0 %}
+Disable Estimated Cost & Send Mail Section:
+{% block_product_calculator|all_ec0 %}
+Admin can add 
+Product Description as well as Product Image
+ in the Custom Product Price Calculator. To include these details Admin can include the below block in the CMS.
+{% block_product_description %}
+For Canvas Product, Predefined, Book, Mailing List, Mailing only, and Products without Price, an action is linked which will redirect the customer to the Product Info Screen.
+Also, for the rest of all the products, the system will display the 
+Action 
+Button the same as displayed on the product info screen.
+Sample Page Content for the Price Calculator Block –
+﻿
+Note:
+ You might need to edit the source code to set the various blocks. For any assistance, you can contact the technical team.
+Front View –
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Order Cancellation and Refund
+NEXT
+Quick Product Design
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Custom Price Calculator Block
+Configure Price Calculator Block
+Docs powered by
+ 
+Archbee

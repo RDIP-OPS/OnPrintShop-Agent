@@ -1,0 +1,175 @@
+Setup Store's Payon Account - User Manual
+⌘
+K
+Supporting Docs
+Setup Store's Payon Account
+20 min
+Introduction & Overview
+Pay on account
+ refers to selling to customer/store clients on 
+credit
+ and the client complete the payment after a certain duration of time i.e. customer makes the payment ‘on account’. They are common in print industries where credit is used for purchasing goods, and payments are made in drips or varying amounts over time.
+When a store client/customer submits payment on an account, you make an entry in the system and the transaction is considered.
+This simply means the customer has made a payment – which goes in the accounts receivable ledger – on the full amount owed.
+For example, you served a Store Client for their 20 orders in February, and the total price is $5,000. But, instead of paying for each order your client chooses to make the payments 
+‘on account’ (using the credit limit given via Pay on Account from your OnPrintShop system).
+ At the end of February month once you generate and send the invoice to your store client, then they send you the full payment of $5000 and you’ll note that the account is 
+‘PAID’
+.
+Benefits of the Pay on account
+Pay on account is termed as a more favorable payment method which will help you survive in this competitive market.
+It will help you with increasing your sales.
+Your customer/store clients will enjoy making payments for their orders on credit terms rather than paying individually.
+Pay on account also indicates better customer loyalty.
+The customer will surely reward this gesture and continue buying from you.
+In our system, we allow the Admin to set Payon Account 
+customer-wise 
+and 
+store wise
+. Read along to understand the working of both and how you can configure them into your system.
+Payon Account Customer-wise
+Enable store Pay on Account
+For any store set the Pay on Account settings as 
+‘Customer-wise’
+ and enter a limit. This is the credit limit that you will be offering to each of the store customers.
+﻿
+Note:
+ this limit may vary for your business model and every corporation will have a different limit.
+Store customers place orders
+Whenever a customer places an order and pays via their Payon Account, the order amount is debited from the credit limit given to them and is termed as the 
+due amount
+.
+Note:
+ The order amount only gets debited after the store order gets approved.
+Also, at the admin side, every order placed via the Pay on the account is recorded under the 
+Manage Pay on Account section
+.
+Generate an invoice for store
+After a certain duration of time, the supplier (printing company) will have to send an invoice to the company (stores account) that had received the goods and/or services on 
+credit
+.
+This duration can be a month or week (depending on your business model).
+This invoice will contain a 
+list of all the orders paid via Payon Account.
+Here, the store account is held payable.
+When payment is recorded against the invoice generated, the account payable (store customer’s account) will be credited.
+To process an invoice, go to 
+Admin >> Store >> Select the store to generate Invoice >> ‘Action’ menu >> ‘invoice’ option >> ‘Add’ button
+Select the orders and click on 
+Add 
+to generate the invoice.
+﻿
+In the Invoice pop-up, generate an invoice number, enter remarks set a due date for invoice and select an address for the invoice.
+This will generate an invoice for the store and will be recorded in the Raised invoice of the Admin Panel. You can also 
+configure invoice settings
+ and let the system auto-generate the invoice.
+Send the invoice to Store Admin
+Store Admin can view the invoice and raised by Site Admin and download the same i.e. invoice is routed to 
+accounts payable
+ (store’s account) for processing.
+At store admin panel, go to
+ 
+Admin >> Store Management >> Store >> ‘Action’ menu >> Invoice
+However, the store admin will 
+not
+ get any option to complete the payment from the Admin Panel itself.
+Gather payment offline
+It now becomes the responsibility of Site Admin to gather the payment. All the payments should be processed as agreed upon between a Site Admin (printing company) and a purchasing company (the store account).
+Mark the invoice paid
+Now Admin needs to mark the offline payments as paid into the system. Marking the invoice as paid will record the payment.
+Under the ‘Raised Invoice’ section click on the pen-like icon. 
+Enter payment remarks and mark the invoice as paid. 
+﻿
+The invoice number will be transferred to the 
+Paid Invoice 
+tab.
+Pay on account of customers gets auto-credited
+As soon as you mark the invoice as paid, the system will automatically credit the Payon accounts of customers.
+Payon Account Department-wise
+Enable Store Pay on Account
+For any store set the Pay on Account settings as ‘Store-wise’ and enter a limit. This is the total credit limit that you will be offering to each of the store departments/non-departments.
+﻿
+Note: 
+This limit may vary for your business model and every corporation will have a different limit.
+Assign Payon limit to the store department
+Setting the Payon limit store-wise will give you a textbox of Pay On Limit for each department. Now, you can divide the credit limit i.e. 12000 (as shown in the example) to departments.
+﻿
+As in the example, we have 4 different departments and each one of them is given a credit limit of $2500. The unassigned credit limit can be used by the customers not belonging to any department.
+﻿
+Store Customers place orders
+Whenever a customer places an order and pays via their department’s Pay on Account, the order amount is debited from the credit limit given to each department and is termed as the due amount.
+For the customers not belonging to any department, the amount will be deducted from the non-assigned credit. If there is no non-assigned credit, then the customers will get an error while placing an order via the Payon account.
+Note:
+ The order amount only gets debited after the store order gets approved.
+Admin Panel
+Also, at the admin side, every order placed via the Payon account is recorded under the Manage Pay on Account section.
+From this section, Admin gets the option to mark any amount as outstanding or paid and even credit any sort of limit to the 
+Store’s Pay On Account
+.
+Generate an invoice for store
+It’s time for the supplier (printing company) to send an invoice to the company (stores account) that had received the goods and/or services on credit.
+To process an invoice, go to – 
+Admin >> Store >> Select the store to generate Invoice >> ‘Action’ menu >> ‘Invoice’ option >> ‘Add’ button 
+Select the orders and click on 
+Add
+ to generate the invoice.
+﻿
+In the Invoice pop-up, generate an invoice number, enter remarks set a due date for invoice and select an address for the invoice.
+This will generate an invoice for the store and will be recorded in the Raised invoice of the Admin Panel. You can also 
+configure invoice settings
+ and let the system auto-generate the invoice.
+Send the invoice to Store Admin
+Store Admin can view the invoice and raised by Site Admin and download the same i.e. invoice is routed to 
+accounts payable
+ (store’s account) for processing.
+Store Admin Panel
+﻿
+However, they will 
+not
+ get any option to complete the payment from the Admin Panel itself.
+Gather payment offline
+It now becomes the responsibility of Site Admin to gather the payment. All the payments should be processed before or at their due date on a bill, as agreed upon between a Site Admin (printing company) and a purchasing company (the store account).
+Mark the invoice paid
+Now you need to mark the offline payments as paid into the system. Marking the invoice as paid will record the payment.
+Under the ‘Raised Invoice’ section click on the pen-like icon.
+Enter payment remarks and mark the invoice as paid.
+﻿
+The invoice number will be transferred to the 
+Paid Invoice
+ tab.
+﻿
+Pay on account of departments gets auto-credited
+As soon as you mark the invoice as paid, the system will automatically credit the Payon accounts of customers.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Setup Store CMS Pages
+NEXT
+Solve Email Not Delivered Error
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Introduction & Overview
+Benefits of the Pay on account
+Payon Account Customer-wise
+Enable store Pay on Account
+Store customers place orders
+Generate an invoice for store
+Send the invoice to Store Admin
+Gather payment offline
+Mark the invoice paid
+Pay on account of customers gets auto-credited
+Payon Account Department-wise
+Enable Store Pay on Account
+Assign Payon limit to the store department
+Store Customers place orders
+Generate an invoice for store
+Send the invoice to Store Admin
+Gather payment offline
+Mark the invoice paid
+Pay on account of departments gets auto-credited
+Docs powered by
+ 
+Archbee

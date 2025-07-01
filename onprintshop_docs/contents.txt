@@ -1,0 +1,225 @@
+Contents - User Manual
+⌘
+K
+Store Setup
+Content Management
+Contents
+13 min
+Overview
+Content pages provide general information about your business or products. At OnPrintShop, these content pages are categorized into two types:
+Dynamic Pages
+ – Displayed at the storefront with links and contain HTML content. Any content page added by the Admin is considered dynamic. The default dynamic pages cannot be deleted. You can toggle their status as Green (Active) or Red (Inactive) and preview them using the provided link.
+Static Pages
+ – Used in blocks within the inner pages of the storefront. These pages cannot be deleted, but you can toggle their status as Active or Inactive.
+Additionally, you can create 
+Page Categories
+ to organize your content pages effectively.
+Purpose
+The purpose of content pages is to share important business or product information with your customers. These pages help structure and display relevant content throughout your storefront — in the Content section, sidebars, or footer — enhancing user experience and site navigation. 
+Configuration
+This guide will help you create and manage content pages for your website in OnPrintShop. 
+Creating a Content Page 
+According to your website design, you are free to create as many content pages as required. Some of the frequently created Content Pages are – 
+Product Galleries, Review Pages, Past Pages
+, etc.
+The content page form is divided into three main sections:
+General Information
+SEO Settings
+Content
+To create a Content Page, navigate to the 
+Admin Panel --> Content Management --> Contents --> Add
+ 
+button
+.
+General Information
+﻿
+This section allows you to define the foundational settings for your content page, such as its category, URL, page heading, layout, and display options. These settings determine how and where the page will appear on your website
+.
+﻿
+Field
+Description
+Use Case/Example
+﻿
+Page Category
+﻿
+Organizes content pages under relevant categories. 
+Helps manage similar pages like "Help Articles" or "Marketing Pages." 
+Key
+A unique identifier used to generate the URL 
+slug
+. 
+If you enter "
+about-us
+", the page URL might be 
+yourdomain.com/about-us
+URL
+Auto-generated or manually editable. Must be SEO-friendly. 
+Clean URLs like 
+/contact
+ improve search engine visibility and are easy to remember. 
+Page Heading
+Appears in the browser tab and is important for SEO. 
+﻿
+“Order Tracking – PrintShop” tells both users and search engines what the page is about. 
+﻿
+Full Layout
+﻿
+Controls whether the page includes the site header/footer.
+﻿
+Enabled
+: Standard page view with full website layout.
+Disabled
+: Minimal layout with no header/footer/sidebar. 
+Use "Disabled" for clean standalone landing pages (e.g., a 
+focused marketing page
+). 
+Sidebar Display
+﻿
+Show/hide the sidebar content on the page.
+ 
+Enable for blog pages or articles with a "Recent Posts" section in the sidebar; disable for distraction-free landing pages. 
+Blog Page
+Marks the page as a blog page. 
+Allows blog-specific formatting or grouping in your storefront's blog/news section. 
+﻿
+SEO
+The SEO Settings section is designed to enhance the page’s discoverability on search engines. By configuring titles, meta descriptions, and keywords, you ensure the content is optimized for better ranking and visibility in search results. 
+﻿
+Field
+Description
+Use Case/Example
+SEO Title
+The title is shown in search engine results.
+“Affordable Custom T-Shirts"
+Meta Descriptions
+A brief summary that appears below the title in search engines.
+Helps increase click-through rates from Google. Example: “Order custom printed t-shirts with fast delivery and high-quality prints.” 
+﻿
+Meta Keywords
+﻿
+(Optional) Keywords relevant to your content.
+“custom printing, personalized t-shirts, bulk orders.” 
+﻿
+Contents
+In this section, you can add and manage the main content of the page, including text, images, and optional dynamic blocks. It allows for rich formatting and customization, helping you present engaging and functional content to your site visitors. 
+﻿
+Field
+Description
+Use Case/Example
+Page Contents
+The main body content of the page.
+Add formatted text, images, links, videos, tables, etc., to explain products, share updates, or showcase services.
+Short Description
+A brief summary of the page content, usually displayed as a teaser or preview on listing pages.
+For a blog list or news archive, it shows a snippet like “Learn how to design your own t-shirts in just a few steps” to attract readers. 
+Upload File
+Upload images (banners, icons, etc.) for the page.
+Add a hero image or graphic at the top of a product showcase page. 
+Upload File Alt Text
+Describes the uploaded image. 
+Helps with accessibility and image SEO (e.g., “Custom printed business cards preview”). 
+You can contact the technical team to help you insert various blocks into the page content. Blocks such as Price Calculator, Newsletter Subscription, Login, and Recent Products can be added. The support team will also guide you on the correct format for adding these blocks. 
+Save and Next Steps
+After filling out all fields, click 
+Save and Continue
+. You will be taken to the 
+Edit Menu Link
+ page (Link Header & Footer section), where you can:
+Set link placement
+Assign an icon
+Configure other menu settings
+Marketing Landing Pages
+There are a few landing pages created to serve the sole purpose of marketing and advertising campaigns. These pages come in a scenario when visitors click on the link in an email campaign, ads from Search Engines and Social Media Sites, or similar places on the web.
+Go to the 
+Admin --> Content Management --> Contents --> Dynamic 
+tab 
+and search 'Marketing'.
+﻿
+Marketing Landing Pages
+﻿
+Landing pages are designed to drive user action through a clear and focused 
+Call to Action (CTA)
+. They encourage engagement and help increase conversion rates while reducing the cost of acquiring leads or sales. To support your marketing efforts, we’ve created ready-to-use landing pages that can easily be integrated into your marketing funnel.
+Each landing page includes the following built-in components:
+A 
+Dynamic Inquiry Form
+ to capture user information.
+Contact Us acknowledgment emails
+ are sent to both the Admin and the customer.
+A dedicated 
+landing page for the inquiry form
+.
+Customizable source code
+ that allows the Admin to set redirection links if needed.
+An optional 
+Dynamic Price Calculator Block
+ for real-time pricing display.
+These pages are 
+disabled by default
+. Contact the technical team to enable them and customize the inquiry form fields. 
+Success Landing Pages
+To create a success page:
+Use the same name as the main landing page + 
+_success
+Example: 
+marketing_landing_style_one_success
+Add your custom success message or redirect instructions.
+﻿
+Admin has to write the page contents of the Contact Us Success landing pages or they can contact the technical team for the same
+.
+Creating a Content Page Category 
+In addition to creating content pages, you can also organize them by creating 
+Page Categories
+. This helps in grouping similar pages for better management and navigation.
+To create a category, go to the 
+Admin Panel --> Content Management --> Contents --> Page Category
+ tab
+.
+The process is similar to creating a content page. You can also:
+Upload an image to represent the category
+Add a caption or alt text for the image
+This enhances both the visual presentation and accessibility of your categories.
+Managing Fixed and Dynamic Pages
+Type
+Editable?
+Deletable?
+Use Case
+Fixed Pages
+✅ Yes (content only)
+❌ No
+Used in the inner storefront pages (e.g., Terms & Conditions). 
+Dynamic Pages
+✅ Yes
+✅ Yes (if created by Admin)
+Pages created via Admin with custom HTML and linked to the menu (e.g., Blog, Announcements). 
+﻿
+Action Menu of Dynamic Pages
+﻿
+Edit:
+ Modify page content, heading, URL, and SEO settings.
+Set Link:
+ Quickly assign the page to a menu.
+Delete:
+ Remove the page (Admin-created only).
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Content Management
+NEXT
+FAQs
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Purpose
+Configuration
+Creating a Content Page 
+Marketing Landing Pages
+Creating a Content Page Category 
+Managing Fixed and Dynamic Pages
+Docs powered by
+ 
+Archbee

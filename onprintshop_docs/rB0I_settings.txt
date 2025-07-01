@@ -1,0 +1,25 @@
+Site Settings - User Manual
+⌘
+K
+Store Setup
+...
+Store Configurations
+Settings
+Site Settings
+0 min
+All the website settings can be found under these tabs. The settings are organized into different categories including customer, product, template, theme, store personalization and configuration, SEO, miscellaneous, and more. You will find a comprehensive list of all the settings in these categories. Feel free to explore and customize the settings to suit your needs.
+You can modify any setting and click on the Save button to check the changes reflected in your store. Click on any section to understand the major settings of the module.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Settings
+NEXT
+Images Tab
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee
+Settings - User Manual

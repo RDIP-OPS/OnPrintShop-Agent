@@ -1,0 +1,104 @@
+Sales Agent - User Manual
+⌘
+K
+Business Partners
+Sales Agent
+14 min
+Overview & Purpose
+A sales agent is self-employed and works as an independent contractor, they charge a percentage of the total sales made from the customers referred by them. 
+Based on your business needs, you can add sales agents and configure their details. Along with configuring the Sales Agents, you can define the percentage commission for a different range of order amounts.
+If a customer belongs to any sales agent, then you can define the same from Customers Edit page.
+Configuration
+Enable/Disable Sales Agent Module
+The sales agent module is by default set to on, you can any time enable or disable the module according to your business model from the 
+Admin >> Store Configuration >> Site Settings >> Search ‘sales’ >> Enable Sales Agent Module (Select Yes or No)
+﻿
+When the Sales Agent is enabled, you can review the details of previously added agents, add new agents and manage their commissions from 
+Admin >> Business Partners >> Sales Agent:
+﻿
+Create Commission Master
+The admin can create commission master for its sales agents using the Commission Master button from the top-right corner.
+﻿
+The commission type can be of two types:
+Fixed:
+ This will help you set a fixed commission in percentage for the sales agent. This percentage will be same irrespective of the order amount.
+Dynamic:
+ Using this option you can set the commission based on the order amount range in percentage. Add different commissions for prices depending on the requirements.
+You need to just enter the title for the commission, select the type and enter the commission percentage. 
+Add Sales Agent
+To add a sales agent into your system, go to the 
+Admin >> Business Partners >> Sales Agent >> ‘+Add’ Button
+Sales Agent Details
+Fill in the basic details of the sales agent such as name and email. Along with entering the login credentials for the sales agent i.e. username and password. Using these credentials, a sales agent will be able to login to their Admin Panel. However, the sales agent has the rights to change these login credentials whenever required.
+﻿
+Setup Commission
+From the ‘Setup Commission’ section you can configure the percentage commission. This commission will be paid to the sales agent for the orders placed by customers under them. The commission type can be of two types: Order Wise and Order Products Wise.
+Commission Type:
+ The admin can select if they want to give the commission based on order-wise or order products-wise.
+Commission:
+The admin can either select the Master Commissions from the drop-down or define a custom commission. 
+﻿
+When any master commision is selected then there will be one 
+"i"
+ icon to display the commission details as shown below:
+﻿
+Flat Commission:
+ When the admin will select the Custom option in the above field, then the admin can define the flat custom commission.
+﻿
+Action Menu
+You can perform various actions on the sales such as view, edit their details, pay them commission, and even login into their Admin Panel.
+﻿
+View
+This shows the agent’s details, such as their orders, active orders, customers assigned to them, their commission type along with a quick link to login into their admin panel.
+﻿
+Along with the total orders and active orders you will find quick links for the order’s details page and customers’ details page.
+Edit
+Quick link to edit the basic details of the Sales Agent.
+Manage Commission
+This displays details regarding the commission percentage amount to be paid to the selected sales agent on different orders along with their status based on the configuration.
+﻿
+The default status of each order is shown as ‘Unpaid’, Admin can change the status to ‘Paid’ or ‘Cancelled’ by selecting a particular order(s) using the available checkboxes and change their status from the Action Menu.
+The admin can view the commission details by clicking on the 
+"i"
+ icon. 
+View Customers
+A quick link to view the customers assigned to the sales agent. You can carry out various actions from here such as view orders, templates and more. This option redirects to the website customers listing page.
+Products Commission
+On the Products Commission page, you can see the list of products assigned to that sales agent along with the option to choose the commission for each of the products:
+﻿
+The admin can select any master commission or configure a custom one by specifying a fixed percentage. For the master commissions, there will be a preview (i) icon clicking on which the admin can view the commissions’ detail:
+﻿
+View Orders
+Quick link to view all orders placed by customers under selected sales agents. This redirects to the List Orders Page.
+Login as Sales Agent
+Quick link to enter into the selected sales agent's admin panel and perform actions on their behalf (access orders placed by customers under them and view Sales Agent Commission report)
+﻿
+The sales agent dashboard looks very much similar to the Admin Panel. Any agent can log in into their dashboard using their credentials.
+With the quick action buttons agent can easily navigate through their orders, active orders and their customers. The Sales Agent’s Admin Panel has a dynamic navigation menu on the left.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Printers
+NEXT
+Print Store Branch
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Enable/Disable Sales Agent Module
+Create Commission Master
+Add Sales Agent
+Action Menu
+View
+Edit
+Manage Commission
+View Customers
+Products Commission
+View Orders
+Login as Sales Agent
+Docs powered by
+ 
+Archbee

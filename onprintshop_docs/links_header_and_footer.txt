@@ -1,0 +1,107 @@
+Links - Header & Footer - User Manual
+⌘
+K
+Store Setup
+Store Personalization
+Links - Header & Footer
+6 min
+Overview
+This section helps you add various links to your website. In the OPS system, you can include links in different menu positions such as Header, Footer, Top Header, and Sidebar. Each of these menu positions holds unique significance based on your website’s design and functionality. You can easily review and evaluate all link titles and their defined positions on the storefront.
+Purpose
+The purpose of this section is to give you control over how links appear and function across your website. The status toggle allows you to enable or disable links as needed. Additionally, the 
+Filter by Store
+ dropdown at the top left lets you view and manage links on a store-specific basis. By default, the system displays all Master Links, which you can filter to find and manage specific ones.
+Configuration
+This guide will help you create, manage, and organize website menu links across different positions and stores in your OnPrintShop storefront. 
+﻿
+﻿
+Add a New Link:
+
+You can create a new menu link using the 
++Add 
+button and filling in the required details. This allows you to personalize your website’s Header, Footer, Top Header, or Sidebar for a more organized and trustworthy appearance. 
+﻿
+﻿
+Field
+Description
+Use Case/Example
+Position
+Refers to the website’s menu areas where the link will appear (e.g., Header, Footer, Top Header, Sidebar). Choose the appropriate position based on your website design.
+Placing a "Contact Us" link in the Footer for easy accessibility across all pages.
+Link
+This is the URL or link name that appears in the browser’s address bar. It is recommended to use an SEO-friendly name instead of a random system-generated one.
+Using "custom-business-cards" as a link instead of "page12345" for better search visibility.
+Link Icon
+An icon that appears on the browser’s title bar next to the link name. It enhances trust and recognition. You can select from 400+ pre-configured icons or upload a custom one.
+Adding a shopping cart icon to the "My Orders" page for better visual identification.
+All Links
+A dropdown list of various website pages to choose from. Based on your selection, a second dropdown will show relevant pages under that section. Fields will vary based on initial selection.
+Selecting “Product Pages” to display only those related product links in the navigation menu.
+﻿
+Some of the important fields are –
+Field
+Description
+Use Case / Example
+List of all Products (as sub-menu)
+Adds a link displaying all products on your website, which can be shown as a Sub Menu or Megamenu based on your website layout.
+Displaying a Megamenu of all available print products for quick access.
+Login form as popup
+Creates a login form that appears as a popup, useful when customers must log in before proceeding with site activities.
+Enabling a login popup for users before accessing a personalized product design area.
+My Account (as submenu)
+Adds a submenu link to group all account-related actions and information for the customer.
+Displaying links like "Order History," "Saved Designs," and "Profile Info" under a "My Account" menu.
+HTML Content
+Displays a custom HTML popup with default text when the new link is clicked. Text can be modified through the Content Management module.
+Creating a popup that explains shipping policies or promotional information.
+External Link
+Redirects users to an external webpage or URL when the link is clicked.
+Linking to your company blog or an external portfolio website.
+Category
+Displays a dropdown of all products under a specific category when the link is selected.
+Showing all "Category" products when users hover over the “Category” menu link.
+﻿
+Submenu Link Style
+You can style the Header Links containing submenu such as – Product Category List, All Product List, etc. Various sub-menu styles available are -
+Field
+Description
+Use Case/Example
+On Click
+The sub-menu opens when the user clicks on the header link.
+Used for navigation where clicking reveals product categories.
+Hover
+The sub-menu expands automatically when the user hovers over the header link.
+Ideal  where users can quickly browse categories without clicking.
+Hover & Redirection
+The sub-menu expands on hover, and clicking the link redirects to a designated landing page.
+Used when the header link should both preview options and lead to a main category page.
+﻿
+Note:
+ The submenu link style will work differently for mobile devices as well as websites. Read the help provided for better guidance.
+Field
+Description
+Use Case/Example
+Display
+Allows you to set whether a link should appear before or after the customer logs in, based on business requirements.
+Showing "My Account" after login and "Offers & Discounts" before login.
+Open Link In
+Lets you decide whether the link should open in the same browser window or in a new one.
+Opening an external blog in a new window while keeping the main website accessible.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Language Text References
+NEXT
+Sidebar Management
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Purpose
+Configuration
+Docs powered by
+ 
+Archbee

@@ -1,0 +1,110 @@
+Reorder - Admin & Front - User Manual
+⌘
+K
+Supporting Docs
+Reorder - Admin & Front
+9 min
+What is Reorder?
+Reordering is when your customer requests the same products with the same configuration as fulfilled (supplied) earlier.
+This module is important and can provide big benefits to your business. A seamless reorder process can support more positive customer relationships, and help existing customers do frictionless business with your brand. A reorder button will give a stronger focus on your existing customers and make your relationship stronger.
+At OnPrintShop we offer various reorder features both at the front and Admin.
+Reorder from Admin
+For all the orders Admin can reorder from the orders listing page. The Reorder is available in the following instances:
+List Orders
+Archive Orders (completed orders)
+﻿
+Clicking on 
+Reorder 
+will open a pop-up with all the ordered products. This section will allow Admin to select the products for reorder.
+Admin can select as many product(s) from the order and proceed with placing the order.
+﻿
+Admin will be redirected to the 3rd Step of placing an offline order.
+Here, select the payment method.
+Select the shipping method.
+Set the order amount and perform the following steps (if required) -
+Apply coupon
+Apply shipping amount
+Check taxes
+Raise a payment request
+﻿
+Here, Admin can go back to Step – 2 and add more products (if required).
+Reorder from Front
+Normal Order
+It includes the orders placed from the front end. Such orders can be reordered anytime there is no restriction in reorder days (from the order date).
+To check the order (at the front end) go to 
+My Account >> My Orders
+﻿
+For all the orders placed from the front, there will be a 
+Reorder 
+button.
+Here, customers can reorder the whole order using the 
+Reorder 
+button.
+Or Reorder Design (only for a single product at a time) using the 
+Reorder Design.
+﻿
+Reorder Button
+This will reorder the whole order, i.e. all the products in the order will be added to the cart.
+Here, one can delete the products if not looking to reorder.
+Edit Order – click to edit the product details (increase/decrease quantity, change additional options, etc.)
+Apply coupon 
+(if any)
+Add more products 
+(if any)
+﻿
+Reorder Design Button
+This will reorder only the selected design i.e. the selected design will be added to the cart.
+At a time only one product can be added using the Reorder Design button.
+Edit Order – click to edit the product details (increase/decrease quantity, change additional options, etc.)
+Apply coupon 
+(if any)
+Add more products 
+(if any)
+﻿
+Quote and Offline order
+For quote and offline orders too your customers will get the Reorder Button, and Reorder Design button.
+But, if the number of days until which the ‘Offline Orders and Quote Orders’ can be reordered is exceeded then they’ll see a request Reorder Button.
+You can connect with the technical team to set up these days.
+The Request Reorder button will look something like as shown below –
+﻿
+Clicking on the 
+Request Reorder 
+button will send a request to Admin and show the customer the below message:
+﻿
+Admin will receive an email 
+ADMIN_CONTACT_US
+ which will state that the customer has requested a reorder of the previous order. Admin can now act accordingly and help customer to reorder their previous order/order product.
+Conditions when 
+Reorder Button
+ will not be displayed. In the below cases, the 
+Request for Reorder button
+ will also not be displayed.
+When an order is in the below statuses
+APA – Awaiting proof of approval
+AP – Awaiting proof
+AA - Awaiting artwork
+PR - Proof Rejected
+Product Service Type
+Mailing List Product
+Only mailing product
+Print ready file of the product is deleted.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Real Preview
+NEXT
+Setup Store CMS Pages
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+What is Reorder?
+Reorder from Admin
+Reorder from Front
+Normal Order
+Quote and Offline order
+Docs powered by
+ 
+Archbee

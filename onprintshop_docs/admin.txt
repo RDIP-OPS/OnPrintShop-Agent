@@ -1,0 +1,75 @@
+Admin - User Manual
+⌘
+K
+Admin & Reports
+Manage Admins
+Admin
+7 min
+Overview & Purpose
+When you have several people accessing your OnPrintShop Admin Panel, then it is a good idea to set up different Admin Roles for each person. You can set Admin Group Role without giving them access to sensitive store content/information.
+The Store Admin can add new admin users, edit existing admin details and even delete existing admin users from the admin user management panel.
+Screen At a Glance
+This section enlists Admin users added by you. It contains the 
+User name, Group name and Email Address
+ of the Admins. It also contains quick links to common Admin Management actions such as edit/delete and login as admin.
+By default, the system has two pre-defined Admin Group Roles created for you – 
+Store Manager and Content Manager. 
+You can also 
+create new Group/Role
+﻿
+, according to your business model.
+Note:
+ Only the Admin Users with active group status will be able to log into the Admin Panel.
+Easy Navigation Between Store & Super Admin Login, we have linked multiple Store Admin account with the Super Admin Account to streamline account management and easily switch between accounts.
+﻿
+The Super Admin will find a dropdown with all the Active Stores and they can switch into any of the admins. When the super admin switches to any other Store Admin, then they’ll find a Login Dropdown to get back to the Super Admin account.
+Note:
+ This account switch dropdown only appears in the Super Admin’s account and not on a Store Admin account.
+You can give Admins two level of permission
+Full Permission
+Allows access to all sections of the OnPrintShop store Admin Panel, including the sensitive account or financial information.
+Limited Permissions
+These permissions will restrict Admins from a section of your store (as defined by you), depending upon the 
+Group and their Role
+ they cannot view a part of your store. There can be various reasons for limiting permissions for Admins. These reasons can vary for each store. Some of the cases are –
+You don’t want a specific admin to view your sales report.
+You don’t want specific Admins to view your third-party integrations as it might contain some sensitive information.
+You don’t want specific Admins to change the store settings, hence restricting them from the Store Configuration section.
+You want an Admin to manage all the Content shown on the website, thus giving them the role of Content Manager.
+Note:
+ Store Admin can give other Admin permissions to log in to OnPrintShop admin, and they can also edit their log in details.
+﻿
+https://help.onprintshop.com/File:Admin2.png
+﻿
+Create an Admin
+To add a new Admin for your store, go to the 
+OnPrintShop Admin Panel >> Admin >> ‘+Add’ Button (top-right corner)
+﻿
+In the screen above, we are 
+creating an Site Manager into the Default Store
+. In the help section, check all the sections that the Admin created will be able to access.
+Select the Store and then the Group for which you want to create an Admin Role. These roles are created from the Admin Group/Role section of the Admin Panel.
+Fill in the remaining details, such as Username, Password, etc. of the Admin. If you enable the Super Admin toggle, then the Admin created can access all parts of the store (only applicable to Default Store), without any restrictions.
+Action Menu
+You can easily restrict any Admin from accessing their Admin Panel by disabling their status toggle. Also, you can edit their basic details and change their roles using the Action Menu.
+﻿
+As a Super Admin, you get the access to log in as their profile and view their Admin Panel.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Reward Points
+NEXT
+Workflow Admin
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Screen At a Glance
+You can give Admins two level of permission
+Create an Admin
+Action Menu
+Docs powered by
+ 
+Archbee

@@ -1,0 +1,30 @@
+Settings - User Manual
+⌘
+K
+Template & Studio
+...
+Designer Studio
+Managing Studio
+Settings
+0 min
+This section will walk you through the settings required to operate the designer studio including studio settings, language text references, color settings, custom CSS, predefined text, 
+Real Preview
+﻿
+, 
+Package Preview
+﻿
+, and Preview Image Settings.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Managing Studio
+NEXT
+Studio Settings
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee
+Managing Studio - User Manual

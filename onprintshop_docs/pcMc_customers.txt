@@ -1,0 +1,22 @@
+Customers - User Manual
+⌘
+K
+Orders, Quotes & Customers
+Customers
+1 min
+Interacting with customers is the most important part of any business. OnPrintShop Admin Panel allows you to review your customers, view their details, manage customer information, add customers offline, manage their Pay On account, and create user groups for sales, discounts, and tax purposes.
+The system also saves an Address Book of all customers for quicker checkouts.
+If your customer creates an account on your web store, they can fill up their address such that it auto-fills at the time of order checkout. Admin can create a new customer record offline from the Admin Panel as well as through bulk import from the Admin Panel.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Product Schema Settings
+NEXT
+Website Customers
+Docs powered by
+ 
+Archbee
+Docs powered by
+ 
+Archbee

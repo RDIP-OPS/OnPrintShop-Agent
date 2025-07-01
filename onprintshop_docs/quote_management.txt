@@ -1,0 +1,48 @@
+Quotes - User Manual
+⌘
+K
+Orders, Quotes & Customers
+Quote Management
+Quotes
+3 min
+Overview & Purpose
+Quote (quotation) is a fixed price offer, made by the Merchant (in our case it is a Print Service Provider) that can’t be changed once accepted by the customer. This holds true even if you have to carry out much more work than you expected.
+After receiving the quote request, you can easily perform actions on the quote and even assign it to the printers, etc., all from the Admin Panel. You can also set an expiry date for the quote, this means the quote will no longer be valid after a defined time.
+Quote Request Flow
+How customer places a quote request?
+The customers can place a quote request navigating from the 
+My Account >> My Quotes
+ section or click on the "Request a Quote" from the top header menu. 
+Customers need to enter the product and other details and click on the 
+Save and Continue
+. If they want to add other products in the same quote, they can click on the 
+Save and Add Another Product
+. 
+Next, your custmers can review and edit the Product details as per the need and then click on the 
+Send Quote
+.
+Your customers can check all their requested quotes and even request a new quote from their ‘My Account’ section.
+﻿
+This section lists all the quotes requested by them, wherein they can view details of the quote and even requote the previous quote.
+Flow of the Quote in the System
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Quote Management
+NEXT
+Quote Settings
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Quote Request Flow
+How customer places a quote request?
+Flow of the Quote in the System
+Docs powered by
+ 
+Archbee
+Quote Management - User Manual

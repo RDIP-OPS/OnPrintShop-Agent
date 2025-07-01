@@ -1,0 +1,66 @@
+Language Text References - User Manual
+⌘
+K
+Store Setup
+Store Personalization
+Language Text References
+6 min
+Overview
+This interface allows you to manage the text for labels, buttons, and fixed sections across your storefront. The 
+Search Textline
+ feature includes a dropdown list of all available modules, enabling you to select the module for which you want to update the text. You can also use the 
+Keyword Search
+ to quickly find specific text entries.
+Purpose
+The purpose of this tool is to provide flexibility in customizing language and text references for different stores. By selecting a store from the dropdown, you can modify and save store-specific text, ensuring a tailored experience for each storefront.
+Configuration
+This guide will help you manage and customize text for labels, buttons, and fixed sections across different modules and stores in your OnPrintShop storefront. 
+Edit Language Text References:
+From the interface, you can edit or delete the language text reference changes made by you. Deleting a change will revert the text back to its default version on the storefront. Store customers can also perform these actions from their own admin panel.
+Text lines are pre-configured in English. For multiple enabled languages, you must manually enter the translated text for each language.
+Bulk Import Language Text Reference
+To quickly upload language text references for multiple website languages, navigate to 
+Admin Panel --> Store Personalization --> Language Text Reference --> 'Import Language Text Reference'
+ button (top left corner).
+
+
+Using the 3-step import feature, you can easily fill and upload the Excel file. A sample file can also be downloaded using the 
+Group Pages
+ and 
+Language 
+filters. 
+﻿
+﻿
+﻿
+Field
+Description
+Use Case / Example
+Group Pages 
+Displays all possible page groups on your website, helping you categorize data section-wise. 
+Selecting "Product Pages" to update text references related only to product layouts. 
+Select Language 
+Lists all the enabled languages on your website for language-specific data entry in the Excel sheet. 
+Choosing "French" to import translated text references for the French storefront. 
+﻿
+﻿
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Product Page Layout
+NEXT
+Links - Header & Footer
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Purpose
+Configuration
+Edit Language Text References:
+Bulk Import Language Text Reference
+Docs powered by
+ 
+Archbee

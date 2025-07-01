@@ -1,0 +1,75 @@
+Flow of Quote - User Manual
+⌘
+K
+Orders, Quotes & Customers
+...
+Quote Management
+Printer Quotes
+Flow of Quote
+5 min
+A typical quote assigned to the printer, goes in the following manner –
+Printer Side
+As soon as the Admin assigns a Quote to the printer, the printer receives a notification about the assigned quotes and the status of Quote changes to 
+‘Assigned to Printer’
+.
+After login to the Printer account, the Printer can see the Pending Quotation on the Dashboard.
+﻿
+To view the qoutes, printer can click on the quote number above the quote status or by navigating to the 
+Admin >> Quote Management >> Printer Quotes. 
+﻿
+The printer can provide a quotation for the product or decline the quotation using the 
+Action 
+buttons provided.
+Quotation
+If the printer wishes to provide the requested quotation, then click on the 
+Quotation 
+button. 
+﻿
+They can easily fill up a form by entering the Price of the quoted product, Production Days, etc. and click on the 
+Save
+.
+As soon as the Printer sends the quote, the status of quote changes to – 
+‘Quotation’
+.
+Quotation Declined
+Printer can anytime decline the quote i.e. refuse to give quotation for a particular product. 
+﻿
+For that, they just need to enter the comments and click on the 
+Save
+.
+Admin Side
+As soon as the Printer provides the quotation, it will appear in the Quotation tab of the Printer Quotes (Admin Account) 
+Using the 
+update 
+icon, Admin can change the status of the quote provided by the customer. They can either accept the quote, decline it, or disapprove the quote.
+When the admin has approved the Quotation, they can take further actions from the 
+Admin >> Quote Management >> View Quotes >> Select the quote >> Action dropdown >> ‘Edit’.
+Under the 
+‘Quote Action’
+, the admin can enter the quote price, shipping price and other details and and click on the 
+Save
+.
+Once the admin saves the details, the quotation will be sent to the customer at the front end. 
+Customer Side
+When the admin sends the quotation with details to the customers, they can view and take action from the 
+My Account >> My Quotes
+﻿
+The customers can approve or reject the quote. Once they have approved the quote, they can even place the order for the same.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Printer Quotes
+NEXT
+Printer Quotes Dashboard
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Printer Side
+Admin Side
+Customer Side
+Docs powered by
+ 
+Archbee
+Printer Quotes - User Manual

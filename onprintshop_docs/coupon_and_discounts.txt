@@ -1,0 +1,149 @@
+Coupon & Discounts - User Manual
+⌘
+K
+Marketing
+Coupon & Discounts
+16 min
+Overview & Purpose
+Giving discounts to your best customers is one of the most used Marketing and Sales strategies. Thus, it is very important to create marketing plans and strategies to keep up with business profits. You'll probably use several methods and tactics to attract more sales. These tactics will come out of marketing strategy, marketing plans, and a lot more. With every strategy, you will have a plan, a process, and an outcome.
+To help you define better strategies we have given a Coupons and Discounts section wherein you can create coupons and discounts according to various occasions and seasons. Coupons and Discounts will help you retain your existing customers, get new customers, achieve target sales, even clear the excess old stocks, and much more.
+Enable/Disable Module
+The Coupon or Disable module is by default set to on, you can any time enable or disable the module according to your business model from the 
+Admin >> Store Configuration >> Site Settings >> Search ‘management module’ >> Select Yes or No
+﻿
+The Dashboard
+The dashboard lists all the coupons and discounts created for your website. You can easily run a search using the search bar. You can filter out the discounts based on the type, products, validity date of the coupon, and more.
+﻿
+You can also check the basic coupon and discount details such as the coupon or discount title, products on which the coupon was applied, coupon code, max price cut a customer will get, validity, and status.
+Status - The status of the coupon is changed automatically by the system depending upon the coupon/discount's validity duration.
+The 
+Active
+ status indicates that the coupon or discount offer is active and running currently on the web-store.
+An 
+Expired
+ status indicates that the validity of the coupon is been over and the offer is no longer available at the web store.
+Any coupon or discount added for a future date will have a 
+Coming Soon
+ status.
+How to Add a Coupon or Discount?
+We have a very easy and understandable user interface for adding a Coupon, Discount or a Combo Discount.
+Discount Types
+Coupon
+Customer can use a Coupon Code to redeem the offer. The code will slash down the prices of the product, shipping or both.
+﻿
+In the Coupon Type, the admin can choose to create the coupon codes for a fixed duration, for a duration/holiday occurring every year, or for the events happening every month. 
+Discount
+This slashes down a certain specified amount from the order subtotal. The discount can be applied on either the Product Base Price or the Product Subtotal (including the Additional Options Price).
+﻿
+Negative Discount
+This is helpful when you want to add a markup price and it would be wonderfully simple if we could just put a negative number in the discount field.
+﻿
+The negative value in the discount text box can be used as the 
+product/shipping markup. 
+The system will automatically 
+add
+ the negative amount instead of subtracting from the product subtotal.
+There will be 
+no strikethrough text or signature
+, thus keeping customer blind of the negative discount.
+The various sections that will be affected by the negative discount are – 
+Price Calculator, Additional Option Page, Shopping Cart, Order Modification page, and Offline order page.
+Note:
+ For coupons and combo discounts this feature is not available. Only the discount value can be a negative number.
+Combo Discount
+You can create a combination of a few products and create a combo discount. This discount can also be applied to either the Product Base Price or the Product Subtotal (including the Additional Options Price). A customer at the web store can have multiple products in the cart, if any combination is found in the cart system then a discount will be offered on the group of products.
+﻿
+The '
+Combo Products Discount
+' link s available at the Shopping Cart Page. Clicking on the link lists down all the products that a customer can add to avail the discount.
+﻿
+Clicking on the '
+View
+' link will redirect customers to the Product Page wherein they can add the product into their cart and proceed forward to avail the discount.
+Depending on the Discount Type you get to choose attributes for various fields - 
+Max discount
+Enter the maximum amount for the discount to be offered on every order.
+Validity
+Select the date range for the coupon or discount to be offered at the front store. This will assign an expiry date to the offer. You can create coupon/discounts for future dates too.
+Product  Specific Discount
+Select the product(s) on which you want to apply the discount.
+Discount on
+We have an option wherein you can apply the coupon offer on product price, shipping price or both. The discount offer can only be applied either on Product Price or Shipping Price.
+Discount Usage
+Select how the coupon will be used by the customers by selecting any one of the following options:
+Per Customer (Single Usage) -
+ Coupons created with this option will allow each customer to avail the discount only once for the defined period.
+Per Customer (Multiple Usage) -
+ Depending on a marketing campaign and offers some time you want to offer more discount for more orders. Configure coupon which will allow unlimited usage for a defined period.
+Single Use Coupon (Valid for one time usage) -
+ Coupons created for Single Use will expire after one-time usage and other customers will not be able to use them.
+Based on User Group - 
+Coupon will be applied based on the selected group which contains specific retail users.
+Coupon Max Usage
+For a coupon, you can decide the number of usages allowed. E.g. - Enter 5 to provide a discount to only first 5 users. Enter 0 or blank for no limit.
+Customer Specific discount
+Select the customer group for which you want to create the coupon.
+Conditional Discount
+ 
+Select the condition to which you want to apply the coupon.
+Apply Discount On
+Choose to apply the discount either on the product base price or on the product subtotal (including the additional options price).
+Order Count
+Set the count of the order on which the coupon can be used. For example, set 0 to apply coupon for the first order, set 1 for the second order, and so on. 
+Frontstore Visibility
+This setting will allow you to show or hide active coupons on the storefront. If enabled, customers will see available coupons at checkout. 
+Terms and Conditions
+When users click 
+View all coupons 
+on the checkout page, the 
+terms and conditions
+ for each available coupon will be displayed. 
+Action Menu
+Edit
+Quick link to edit details of the Coupon or Discount created.
+Delete
+There will be a situation when you no longer need that coupon or the stock assigned to that offer has exhausted. In such cases, you can easily delete the coupon or discount created. Click on the delete option and with 2-step confirmation, you can permanently delete the coupon or discount.
+Duplicate Coupons/Discounts
+After a season sale if you wish to create a new season sale of the coming season then instead of performing the whole coupon and discount process again, simply duplicate the old season offer. You can easily make the required changes and click on the '
+Save
+'.
+View Order
+This option will be displayed only if any customer has placed an order in the particular offer. This will help you keep a track of the order received with the discount or offer and help you analyze the efficiency of the offer. 
+Click on the option and you will be redirected to Sales Order Details page in the Report module where you will find more information about it.
+Combo Product Discount Rules
+You can create combo product discount rules for the 'Combo Discounts' creates. 
+﻿
+The discount percentage or amount you specify here will overwrite the actual combo discount percentage or amount while calculating the discount on the individual products configured in its setup. Apart from this, you can even set conditions like the minimum and maximum quantity of particular products that the customer needs to purchase for the combo product discount rule to apply.
+Import Coupon
+During sales season, it might become very hectic to create coupons one by one and go through the same kind of pain repeatedly. To overcome this redundancy, we have created an import coupon option, using this option, you can easily import bulk coupons.
+﻿
+Using the three-step procedure you can easily upload a bulk offers file.
+Note:
+ The Sample Excel file comes with a few sample coupon data. This will help you easily fill up the sheet accordingly.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Web Optimization
+NEXT
+Reward Points
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Enable/Disable Module
+The Dashboard
+How to Add a Coupon or Discount?
+Discount Types
+Action Menu
+Edit
+Delete
+Duplicate Coupons/Discounts
+View Order
+Combo Product Discount Rules
+Import Coupon
+Docs powered by
+ 
+Archbee

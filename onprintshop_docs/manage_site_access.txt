@@ -1,0 +1,52 @@
+Manage Site Access - User Manual
+⌘
+K
+Store Setup
+Store Configurations
+Manage Site Access
+4 min
+Overview & Purpose
+There can be some instances when as an admin you need to manage the people who can have access to your website and who cannot. This can be managed by the Manage Site Access feature. 
+Using this interface, you can add the list of IPs that you want to block from accessing your storefront as well as you can add the list of IPs that you want to allow access to even when your site is under maintenance.
+You may already know that IP blocking is the practice of blocking requests coming from hosts with particular IP addresses. It restricts threats, safeguards consumer data, and lightens the burden on your server.
+
+By blocking fraudulent IP addresses, you may produce reliable statistics on the traffic to your website (the number of visitors, bounce rate, average time on site, etc.).
+Configuration
+To manage the site access, navigate to 
+Admin >> Store Configuration >> Site Settings >> Manage Site Access tab
+.
+Country-based IP management
+From here, the admin can select multiple countries to allow or block access to their website:
+﻿
+In the Add section, you can add individual IPs per line or even enter an IP range to block or allow website access:
+﻿
+Block IP(s)
+This allows you to block the IP addresses from which you may be receiving spam emails or unnecessary requests.
+Just add the IP addresses in the single lines, add your comments and save.
+Once saved, it will display all the added IPs in the Block IP(s) tab. You can get the option to edit or delete the same.
+Allow IP(s)
+This allows you to make your website accessible to some IP addresses (for feedback or testing purposes) when your website is under maintenance.
+To allow IPs access to your store, select 
+Allow IP(s) 
+in the 
+Select Action
+ field, add the IP addresses in the single lines, add your comments and save.
+Once saved, it will display all the added IPs in the Allow IP(s) tab. You can get the option to edit or delete the same.
+Did this page help you?
+Yes
+No
+PREVIOUS
+Custom Forms
+NEXT
+Content Management
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Block IP(s)
+Allow IP(s)
+Docs powered by
+ 
+Archbee

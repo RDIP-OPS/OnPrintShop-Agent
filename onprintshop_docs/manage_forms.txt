@@ -1,0 +1,104 @@
+Manage Form Fields - User Manual
+⌘
+K
+Store Setup
+...
+Store Configurations
+Manage Forms
+Manage Form Fields
+7 min
+Overview & Purpose
+Fields are the base of forms; they allow you to collect data from the customers who complete your form. You can add different field types to your form in order to collect the required information in the right format.
+With Manage Form Fields, the admin can create different fields for different forms available in the system such as – Quote Form, Hire a Designer Form, or Template Specific form. These forms serve a specific purpose and are displayed in several different instances.
+Configuration
+For creating a new form field or managing an existing one, navigate to 
+Admin > Store Configuration > Manage Forms > Manage Form Fields. 
+The form field dashboard lists all the fields created for these three instances. You can run a search query using the filters provided such as field type.
+﻿
+Add a Form Field
+Click on the 
+Add 
+button from the top-right corner. On the Add Form Field screen, start by entering an appropriate name for the Form Field as it is the customer-facing label that appears to the left of that field on the storefront.
+Simply fill in the details and add a field. While creating the field, you can add a new description (a brief explanation) in the form of text, image, or video from the editor window in the description option. Using the sort option, you can sequence the fields in the form.
+Below is the description of some important fields:
+Form Field Type
+This is where you define where the form field should appear. You can choose to display the fields in the Quotes, Templates, Hire Designer, or Custom form at the front end:
+﻿
+Based on the selection of this field, the ‘Product Specific Attribute’ will change.
+Display description in popup
+When you have enabled this setting, then the details specified in the Description field will appear as a pop-up under a question mark icon:
+﻿
+Type
+This defines the input type of the Form Field. There are various input type options available, using this you can create input fields according to your requirements. 
+﻿
+The type of form fields available are explained below –
+Text box
+ – created for getting a single line of data.
+Radio Button
+ — creates a multiple-choice option presenting all the values (user can select only one option).
+Drop Down
+ – created a multiple-choice option that presents value in a drop-down. This option can be used in a more condensed list featuring several values, giving a more clean and sleek design.
+Text Area
+ – this is a multiline text field created for inputting multiple lines of data, such as ‘Special Instructions’.
+Check Box
+ — create multiple fields where users can select multiple inputs.
+Switch Button - 
+this type can be used for fields in which admin wants the data in form or enable/disable, yes/no etc. With this, the customers only need to toggle the button for the value.
+Upload File
+ – This input option can be used for the image fields.
+Upload Cloud File -
+ This input option is for offering customers to upload files from their cloud storage.
+Upload Multiple Files - 
+this input is to allow customers to upload multiple files.
+Date picker
+ – This input field can be useful for any date field, such as Date of Joining for Store Customers.
+Product Specific Attribute
+The admin can choose to assign the products to the form fields. So, at the front end, this form field will appear only for the selected products. The form can be assigned to all products by default. 
+Validation
+This will help you validate the input type for correctness. You can keep any field null or apply different types of validations.
+You can also provide 
+custom validation
+ into Textbox type form field created.
+This will help you in defining advanced validation to the dynamic form fields and the extra fields like allowing an only specific count of characters – only 10 digits for a contact number, allowing only numeric values or alphanumeric values, lowercase letters, uppercase letters to name a few.
+Use the validation option named – 
+‘Other’ for the Textbox Fields
+. Here, Admin is free to enter any 
+Regular Expression and create their custom validation
+. Using the help provided, create any regular expression and the system will 
+validate the input
+ (provided from the front end) as per the expression added.
+If the value does not match with the regular expression then an error will be displayed. This error message is defined by the Admin from the 
+‘Validation Message’
+ textbox.
+Setup Attributes Option
+For Radio Button, Drop-Down, and Check-box types, the system will display this section to enter various options from which a user will select the desired option. A default attribute can be set from the defined options and the setting status can also be enabled/disabled as required. 
+Form Fields Rules
+Sometimes, it so happens that certain dependent fields are to be shown/hidden based on custhe tomer’s selection. This scenario can be efficiently handled with this feature. 
+With this feature, you can apply rules to fields and handle your dependent fields effectively on the Front-Store. Click on the '
+Form Field Rules
+' to create rules.
+This will open a screen listing for all the Form Field Rules created. Click on 
++Add
+ to add a new rule.
+﻿
+Here, you can select the fields to be made hidden on the selection of certain fields.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Manage Forms
+NEXT
+Custom Forms
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Configuration
+Add a Form Field
+Form Fields Rules
+Docs powered by
+ 
+Archbee
+Manage Forms - User Manual

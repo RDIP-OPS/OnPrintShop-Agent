@@ -1,0 +1,71 @@
+Workflow Admin - User Manual
+⌘
+K
+Admin & Reports
+Manage Admins
+Workflow Admin
+7 min
+Overview & Purpose
+Every printing press has some kind of organizational structure, and every team within has a standardized set of responsibilities and is responsible for the day to processes. Workflow management helps standardize a working methodology, clarifies roles, optimizes productivity, maximizes output ratio, and minimizes error.
+Guided by organizational theories we have also created a Workflow Management solution that helps you manage your existing workflow processes and caters to your organizational needs.
+A workflow admin will be helpful when you have a large flow of orders daily and you face difficulty in managing different order statuses. For such a situation, different workflow roles and workflow admin can manage different order statuses simultaneously.
+The dashboard lists all workflow admins added to the system with their workflow roles. A Workflow Manager will have a special icon beside their names.
+﻿
+Create Workflow Roles
+First, you need to create Workflow Roles for a different set of Order status and Order Product Status. To add a workflow role, go to 
+Admin Panel >> Admin >> Workflow Admin >> Workflow Roles (Top Right Corner).
+To create a workflow role, click on the 
+Add 
+button at the top right corner.
+﻿
+Select the Order Status and Order Product status that you assign in the role.
+For example –
+For the Graphic Department the accessible order and order product status will be - 
+Graphics Printing, Finishing, Proof Approved, Proof Rejected, Awaiting Proof with Changes, File Review
+ and more as per the organization structure.
+For Packaging/Shipping Department the accessible Order Status will be 
+Order Processing, Printing, Finishing Shipped, and Order Completed
+. The Order Product Status could be 
+Ready for Shipment, Ready for Pickup, and Packaging
+, etc. as per the organization's structure
+Add Workflow Admin
+To create a new workflow admin, click on the 
+Add 
+button from the Workflow Admin main screen. 
+﻿
+Enter the Workflow Admin details and assign them the manager role (if required), select the workflow role and select the order scan method.
+Share the Username and password with the Admin such that they can log in into their workflow admin panel and manage their orders.
+How the orders are assigned to the Workflow Admins?
+Workflow facility allows admin to create workflows based on the order status, order product status and general order access. A workflow admin will be able to login to their panels and check the order status, update the order status, check the order product status and update the same.
+The system automatically assigns all the orders to the workflow admins based on their current order status and order product status. As soon an order is placed the system finds a workflow role if multiple roles exist then the system then considers the one with the lowest sort order.
+Once the workflow is found then the system searches for the Workflow Admin. If there is only one admin taking care of the workflow then the order gets directly assigned him. If the system finds multiple Admins with the same workflow then the system assigns the job to the Admin who is having the lowest number of jobs.
+﻿
+Admin can check the Workflow Admin assigned from the List Orders.
+Workflow Admin Dashboard
+The workflow admins in the system can log into their respective accounts to check the order and access other modules.
+﻿
+The workflow admin will be able to view the order related icons like new order, repeat customers, CSV files uploaded, reorders, and the file uploaded on the cloud.
+In the status section, they’ll be able to view the order status, update order using the pin-like icon, and get the order product history using the clock icon.
+Workflow Admins can also quickly update order product status using the order product id and adding a predefined comment.
+Note:
+ If you have assigned more than one workflow role to workflow admin then the system will disable the task allocation flag by default.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Admin
+NEXT
+Admin Group/Role
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Create Workflow Roles
+Add Workflow Admin
+How the orders are assigned to the Workflow Admins?
+Workflow Admin Dashboard
+Docs powered by
+ 
+Archbee

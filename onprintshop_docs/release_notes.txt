@@ -1,0 +1,1609 @@
+Web-to-Print Release Updates – OnPrintShop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now Live: OnPrintShop v12.1 – Smarter Workflows, Faster Checkout, More Sales - 
+Learn More
+ Customer Support 
+ Live Demo 
+OnPrintShop Version 12.1
+4th May, 2025
+Say hello to Die-Cut Stickers, BOGO Deals, Reward Points, Document Prints, Smarter Quotes & Orders, WhatsApp Shopping, lightning-fast Checkout with Apple Pay & Google Pay, turbocharged performance—and even sharper Design Tools.
+Get Details
+
+
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+v12.1 
+4th May, 2025
+This update introduces flexible die-cut sticker customization, BOGO and reward point promotions, a streamlined document print module, and smarter quote and offline order management. Plus, with Apple Pay, Google Pay support, performance upgrades, and PHP v8.4 compatibility, your operations are set to run faster and deliver a smoother experience.
+View Details
+
+
+Admin Section
+Visual Price Calculator for Admin
+Report for Unsold Products
+Extra Fields for Google Shopping Fields
+Order Product Update Status Notification for Workflow Admin
+SMS Integration for Custom Form Submissions
+New Image Format Support
+Sales Agent Assignment and Commission Management
+Third-party Integrations
+Order and Notification via WhatsApp 
+NEW
+Apple Pay and Google Pay for Ready-to-Buy Products 
+NEW
+Front-End Login with Single Sign-On (SSO)
+CSV Mailing List Upload Integration for 4over Mailing Products
+Quote Section
+Tailor-Made Quote with Ease 
+NEW
+Improved Request Quote Experience
+Faster Quote Reuse with Duplication
+Front Store
+Reward Points Utilization at Checkout
+BOGO or BXGY Deals 
+NEW
+Team Collaboration of portfolio and orders for B2C Accounts 
+NEW
+Quick Access to "My Account" Links
+Displaying Lowest Shipping Methods at Checkout
+Pagination in Blog Pages
+Personalized Coupon Display in CMS pages
+Product Section
+Introducing Document Print 
+NEW
+Introducing Die-Cut Stickers Personalization 
+NEW
+Dynamic Pricing with Multiplier Masters for Product Options
+Enhanced Weight Settings with Formula Support
+New Make-Ready Wastage Master for Accurate Pricing 
+NEW
+Stock Display for Textbox Option-Based Products
+Order Section
+Online Payment Methods Support in Offline Orders 
+NEW
+Revamped Offline Order User Interface
+Offline Orders for Inactive Products
+Reorder for Another Customer with Saved Design
+Edit Customer details directly for Orders
+Easy management of Design Files
+Designer Studio
+QR Code Styling Support 
+NEW
+Auto Language Translation of Template 
+NEW
+Get Clean, Scalable Vectors from Your Raster Images 
+NEW
+Resize the Personalized Template within Studio
+Enhance Designs with Small Caps Fonts in PDF Blocks Templates
+v12.0 
+29 December, 2024
+Introducing the newest update to OnPrintShop, bringing a host of dynamic features to transform your Web-to-Print experience! From Pattern Products and Advanced Finishes to the Custom Form Builder, Website Language Auto Translation, Quick Studio Personalization, Buy Now Option, Product Recommendations, Media Gallery Management, AI Image Generation, and Design Proofing, this update is here to accelerate your productivity and take your print business to the next level!
+View Details
+
+
+Admin Section
+Ensure Design Perfection within the System 
+NEW
+Media Gallery Management in Studio and CMS Pages 
+NEW
+Showcase Recommended Products to Boost Sales 
+NEW
+Tailored Custom Forms for All Your Needs 
+NEW
+Upgraded to Latest Editor Version for Enhanced Performance
+Phone Number Format Based on Country Standards
+Achieve 2x to 3x Faster Upload Speed with 
+NEW
+ File Uploader
+B2B/Store Module
+Store Specific Product Size, Quantity, and Options Override
+Strengthened Security with 2 Factor Authentication for B2B Customer
+Designer Studio
+Personalize Templates with Auto Translation 
+NEW
+Generate AI-Powered Images in Designer Studio
+Elevate Product Designs with Advance Finishes 
+NEW
+Art & Logo Maker Relocated to Left Panel
+Real Preview Assignment Redefined
+Third-Party Integrations
+Google Gemini Integration 
+NEW
+Cloudflare Captcha Integration 
+NEW
+Front Store
+Auto Translate Website Language Effortlessly
+Seamless Product Personalization with Quick Design 
+NEW
+Instant Purchase with Buy Now 
+NEW
+Coupon-Discount Enhancements
+Display the Accessibility Statement on the Front Store
+My Account Page- Revamped
+Shipping Package Summary Display During Checkout
+Group Shipment for Same Size Products
+Order Section
+Enhanced Order Action Page for a Better Experience
+Track Order Progress and Optimize Team Efficiency 
+NEW
+Product Option Specific Package Configuration 
+NEW
+Setting Minimum Shipping Price for Online Shipping Methods
+Product Section
+Custom Design and Print Your Own Patterns 
+NEW
+Enhanced Product Gallery Image Generation using AI
+Custom Formula Range Lookup for Product Options Pricing 
+NEW
+Material Thickness for Master Options
+Easy Product Assignment to Stores
+Promotional Product Configuration Simplified
+v11.2 
+1 September, 2024
+In this exciting update of OnPrintShop, we’ve transformed the Order Listing experience, integrated advanced Generative AI, and packed in powerful new features and enhancements. So get ready to boost your productivity and see a rise in your print business with Web-to-Print experience like never before.
+View Details
+
+
+Admin Section Features
+Content & Image Generation with Generative AI 
+NEW
+PO Number Display
+Search Functionality Enhancement
+Designer Studio
+3D Preview in Designer Studio
+Product Design Review 
+NEW
+Remove Background and Image Enhancement
+Text Element Space Distribution 
+NEW
+New Version Creation for Layouts
+Front Store
+Scheduled Delivery for Customers 
+NEW
+Countdown Timer for Same Day Dispatch 
+NEW
+Display of Product Title 
+NEW
+Template Preview of Help Templates
+Coupon Code Display during Checkout
+Order Section
+New UI of Order Listing Page 
+NEW
+Order Reprint Management 
+NEW
+Order Pickup Information 
+NEW
+Job Board Enhancement
+Product Module
+Stock Management for Product Options 
+NEW
+Product Options Pricing Enhancement
+Refinements in Canvas Product
+Quote Module
+Modify Product Quotes
+Tax Display in Quote Details Form
+Third-party Integrations
+Enhancements in 4over Integration
+Enhanced Events in Klaviyo and Digital Marketing Service
+Optimized QuickBooks Integration
+v11.1 
+19 May, 2024
+In this update of OnPrintShop, we have revamped the look of our Designer Studio, launched Draft Mode in an all-new Content Editor, and brought other new features and enhancements. Additionally, experience the seamless performance of our Web-to-Print software for an enhanced user experience.
+View Details
+
+
+Admin Section Features
+Strong Password Setup 
+NEW
+All New Editor 
+NEW
+Draft Mode with Version History 
+NEW
+Shortlink Generation for Sharing Products 
+NEW
+B2B/Store
+Store Specific Order Status & Quote Status Email Overwrite
+Store-wise Image Alt Text
+Assign Store-wise Default User Group
+Designer Studio
+Launched New UI of Designer Studio 
+NEW
+Content Position for PDF Blocks
+Flip Tool for PDF Block Templates
+Front Store
+Customization of Home Page Display 
+NEW
+Save Product for Later Purchase 
+NEW
+Display Popular Products in the Search Bar
+Display Tax/VAT in Price Calculator 
+NEW
+Order Section
+Reminder Email for Pending Proof Approval 
+NEW
+Enhancements in Export/API Orders
+Partial Payment Method for Offline Orders
+Product Module
+Visual Price Calculator Enhancements
+Multiple Image Upload in Product Gallery
+Background Color and Image for Calendar Events 
+NEW
+Quote Module
+Multiple files Upload in Quote Form
+Unit Price Display in Quotes
+Assign Printers Directly to Quote Products
+Third-party Integrations
+Enhancements in EPMS Integration
+v11.0 
+23 December, 2023
+The latest version comes packed with advanced features, intelligent enhancements, and optimizations to streamline your print operations, improving both customer experience and overall productivity for print businesses.
+View Details
+
+
+Admin Section Features
+Log in using Google Authentication 
+NEW
+Security Against Login Password Guessing Attack 
+NEW
+Order Notifications for all types of Admin accounts
+Multiple Shipping Types for “Shipping Cost by Order Subtotal” Shipping Method
+Image and Rating Support in Testimonials
+Designer Studio
+Support to Import InDesign (IDML) File for Template Creation 
+NEW
+PDF Block Template Properties Management 
+NEW
+QR Code Generation in Block PDF 
+NEW
+Duplicate Page Layouts in Bulk
+Help Message for Individual PDF Blocks
+Artwork Job Name Change
+Order Section
+Payment option for Payon Account Unpaid Orders 
+NEW
+Pay On Account Order Due Date
+Multipage or Individual Page PDF upload for Proofing
+Proofing Tool Changes
+Recurring or Holiday Coupons 
+NEW
+Blind Shipping Address for Received Orders
+B2B/Store
+Store Specific Product Content Overwrite
+Multi-Currency Support in Admin Panel 
+NEW
+Store-wise Time Zone Display 
+NEW
+Tax/VAT Settings for Partnership Solution 
+NEW
+Store-wise Product Pricing Display
+Front Store
+Ship to Multiple Address UI Changes
+Support for .tiff and .tif file extensions
+Enhanced Shipping Calculator UI
+New Look for Product Price List Table
+Allow customers to "Continue Shopping"
+Hide Fields from Mass Personalization
+Search Feature in Price Calculator
+Product Module
+Setup cost for Custom Size Products
+Skip Option-wise setup cost for Reorder
+Quote Module
+PDF Preview for Quote and Offline Order Product
+Download Quote in HTML Format
+Display Quantity with Unit Price in Quote
+Production Days and Product Weight Autofill
+Third-party Integrations
+New External Service for all SSO Integrations 
+NEW
+Enhancements in 4over Integration
+ZOHO CRM Integration Enhancements
+Restrict Store-wise order Sync in ShipStation
+Solution Core
+Upgraded to PHPv8.2
+Order Listing Page Optimization
+Import/Export Functionality Optimization
+v10.1 
+04 July, 2023 
+In this update of OnPrintShop, we have refined the New Product Section Features and Exciting Front Store UI Enhancements. Along with that, discover the smooth Web-to-Print software performance for an even better user experience.
+View Details
+
+
+Admin Section Features
+Email Notification Enhancement
+Preview Image Setting
+Country Restriction
+Job Board for Workflow Admin
+Template Category – Metatag Enhancement
+Dynamic Help Template Generator
+Designer Studio Section Features
+Page-wise size Configuration 
+New
+Text color enhancement
+Front–Store Features
+Search Enhancement
+Front Page UI Enhancement
+Product Section Features
+Mass Personalization Enhancement for Label Products
+Duplicate Product Settings 
+New
+Proofing Tool Enhancement
+Product Option and Option Rules Enhancement
+Order Section Features
+Production Due date for admin
+Default Order Product Status 
+New
+Packing Slip 
+New
+Third-Party Features
+Picsart API Integration 
+New
+4over Integration
+QuickBooks Enhancement
+Solution Core Changes
+Page Optimization
+PHP serialize to JSON
+Optimized mailing date picker
+Email/SMS Notification Code Optimization
+Lazy load optimization
+Restrict Direct Access of Pdf, Xls, and Csv using URL
+Optimized Ajax Call
+Database storage optimization
+v10.0 
+26 December, 2022
+The new version includes – advanced features, intelligent enhancements, and optimizations aimed at streamlining print operations and improving your customer experience and productivity for print businesses.
+View Details
+
+
+Front Store Features
+Ship to Multiple Address 
+New
+URL Pattern Enhancement
+Content Management Enhancement 
+New
+Dynamic Help Template Generator 
+New
+Product Section Feature
+Restrict Product Quantity to Order
+Product Master Option Title Overwrite and Duplicate
+Canvas Product Enhancement
+Common Product Price Update in Percentage 
+New
+Product Gallery Enhancement
+Solution Core changes
+Upgrade Third Party JS
+Optimized query and Database
+Optimized checkout procedure
+Report Optimization
+Removed HTTP/HTTPS path in Studio Data
+Production Days calculation
+Cron script run with security parameters
+Log enhancement
+Designer Studio Features
+Designer Studio UI Enhancement 
+New
+Product Template Real Preview 
+New
+Store Management Features
+Store Specific Product Content Overwrite 
+New
+Admin Section Features
+Partial Payment 
+New
+Job Board Enhancement 
+New
+Offline Order Enhancement
+Report Enhancement
+Shipping Section Features
+Shipping package configuration
+Tracking Order Status for Guest Users
+v9.1 
+25 july, 2022
+The upgraded version is packed with features that enhances the print efficiency of printers with smart storefront update, and optimizations. This update is designed to elevate print operations and supercharge productivity for print businesses.
+View Details
+
+
+Admin Section Features
+Admin Search Functionality 
+New
+Template Creation for Package Product 
+New
+New Product Page Layout Blocks 
+New
+Separate Availability of Payment/Shipping Method for Private/Public Store
+Manage FAQs for Product Specific and Category Specific
+Block IP Address Enhancement
+Web Optimization Enhancements
+Partnership Management Features
+Franchisee-wise workflow Admin 
+New
+Front-Store Features
+Shopping Cart Enhancements
+Package Product Enhancement
+Quote Section Features
+“Skip to Upload Print-Ready File” option for Quote-to-Order 
+New
+Estimated Price Display in Quote
+Shipping Section Features
+Assign Shipping Method Based on The user-group 
+New
+Shipment Tracking Enhancement
+Solution Core Changes
+Website Performance Optimization New 
+New
+Upgraded to PHPv8.1
+Removed PHP sort tag
+Upgraded all CSS and JavaScript
+Product Section Features
+Add associated products to Cart 
+New
+Product Section Enhancement
+Product-specific Shipping Method
+Product Master Option Enhancement
+Easily assign products to your stores
+Default Order Product Status for Pre-Defined Products
+Store/B2B Section Features
+Store-specific preview URL
+Maintained parent-child hierarchy
+Quantity Based Master Markup
+Orders Section Features
+Product-specific Sales Agent Commission 
+New
+Due-Date Re-calculate based on payment request
+Order detail page enhancement
+Designer Studio Features
+Enhanced Artwork auto-resize feature on upload center 
+New
+Master image management in the admin panel 
+New
+Crop Image Functionality Enhancement 
+New
+Template Tab Enhancement in designer tool 
+New
+Layer Panel Enhancement 
+New
+Mask Panel Enhancement
+Remove Unsupported Characters 
+New
+v9.0 
+19 Oct, 2021
+View Details
+
+
+Product Section Features
+Formula Master in Product Options 
+New
+Product(Master) Option Enhancement
+Create multiple Designer Rules
+Custom Size Enhancement 
+New
+Duplicate ‘Product Page Layout’ with product 
+New
+Order Section Features
+Modify ‘User Design’ template directly from the ‘Modify Design’ pop-up
+Coupon Import – Bulk Update/Delete
+New
+Track your Order New
+New
+Modify Order’s Product size & Job Name
+New
+Bulk Update – Order & Order Product
+Update ‘Order Processing Fee’
+Order Due Date based on ‘Proof Approval’
+‘Local-pickup address’ selection in Order Update
+Admin Section Features
+Admin Dashboard Enhancement
+Company Name – Easy to Update & Filter
+Reminder Emails (Awaiting Artwork & Unpaid Order)
+New
+Imposition Module Enhancement
+Printer Order Summary & Additional Option based Report
+Assign default User-Group to customers 
+New
+Customer & Shipping details in Quote estimation email
+Front-Store Features
+2D Canvas Preview 
+New
+Image Gallery Enhancement
+Products & Template Listing Sort Options 
+New
+Checkout Page enhancement
+Single option displays as label in Price Calculator
+New
+Yopto rating beside product heading
+Google captcha on Guest customer form 
+New
+User Images – Photobook Enhancement
+Product and CMS page-specific ‘Metatag setting’
+Upload files in SVG format
+Display multiple promotional messages
+Visual Price calculator: Side-by-side layout
+Share Personalized Designs over social media 
+New
+Product-level Image optimization
+Share ‘User Portfolio’ over social media 
+New
+Shipping Section Features
+New Shipping Method – ‘‘Shipping Cost by Order Value’ 
+New
+Private Store (B2B) Features
+Corporate specific Designer Studio fonts 
+New
+Product & Shipping Discount 
+New
+Approval pending order list of all department 
+New
+Designer Studio Features
+Interactive 3D Design Preview (Add-On Plugin) 
+New
+3D Packaging Solution (Add-On Plugin) 
+New
+Photo Calendar Solution Enhancement 
+New
+Canvas Solution: Center Align Image 
+New
+Photo Transfer from Smartphones to Desktops 
+New
+Enhancement of Upload Center Designer Studio Proof
+Clipart: Support color gradient
+New
+Text Property Enhancement (Justify, Capitalization etc…)
+Canvas artwork fill enahancement
+Optimized Designer Studio & Calendar UI
+New
+Third-Party
+ZOHO Books (Accounting)
+New
+Active Campaign (Marketing)
+New
+Trustpilot (Customer Review)
+New
+Solution Core Changes
+Fixed decimal price mismatch issue
+Flexible Integration: Any Digital Marketing
+New API Enhancement
+AWS File Storage Enhancement
+Update the third party libraries
+100+ enhancements and multiple bug fixes
+v8.0 
+19 Jan, 2021
+View Details
+
+
+Product Module Features
+Product Price by Linear Interpolation Formula 
+New
+Product Options – Master 
+New
+Additional Options before Product Size (Especially for Label product) 
+New
+Custom Size Product: Quantity-based Additional Options Price 
+New
+Additional Options Rule Enhancement
+New blocks in Product Page Layout 
+New
+Size based setup cost 
+New
+Order Module Features
+Modify Order Enhancement
+Re-order at Admin side 
+New
+Payment request enhancement
+Job Tickets bulk download 
+New
+Enhancements in – Payment request, Update Order pop-up UI, Coupon/Discount, Feedback & Review, etc.
+Shipping Module Features
+Dynamic Height calculation for Shipment package 
+New
+Shipment package calculator 
+New
+Corporate/B2B Section Features
+Download Artwork without Placing Order 
+New
+Auto-update Order payment status 
+New
+Re-direction to Corporate Login Page
+Designer Studio Features
+Custom Art/Logo Maker Module Enhancement
+New
+Upload Google Fonts directly from Google Font Library 
+New
+Usability Features – Object grouping, format painter, swap images, template objects default lock, templates default & bound colors, etc. 
+New
+Photobook Enhancements – Flipbook (Softcover), side-specific page layout etc.
+Image sharpening effect 
+New
+Mask/Frame Image file in SVG format
+Admin Section Features
+Rule-based product assignment to Vendor (Printer) 
+New
+Extra Field Enhancement
+Email Notification Template Enhancement
+Reports Enhancements – Stock Summary Report, Report Fields Settings etc.
+Shipping Label file format (PDF/PNG/GIF/ZPL)
+Send Order SMS to Printer/Vendor
+Order Export XML enhancement
+Front-Store Features
+Upload multiple artwork files (Product Upload Center & Upload field) 
+New
+Phone number validation 
+New
+Request Quote Form Enhancement
+Template-list on Product Info screen
+Minor Features
+40+ enhancements and multiple bug fixes
+v7.3 
+14 July, 2020
+View Details
+
+
+Corporate/B2B Enhancements
+Department-wise product assignment
+Admin Section Enhancements
+Upgraded Admin Panel to Bootstrap 4 
+New
+Convert Quote-to-Order in Admin Panel 
+New
+Minimize package wastage by assigning multiple packages 
+New
+Manage customer notification 
+New
+Multiple quantity lookup enhancement(Mainly T-shirt Product)
+Reports Enhancement
+Payment Request Enhancement
+Product Section Enhancements
+Canvas Product – Split & Multiple photo canvas prints (Add on) 
+New
+PhotoPrint Module (Add-on) 
+New
+Minor Features
+Multiple bug fixes and enhancements
+Front-Store Enhancements
+Advanced Zipcode to cover most possible combination 
+New
+Product Image Gallery enhancement
+Secondary email ID for Customer notification
+Email Templates – Redesign & Branding 
+New
+Organized customer details
+Preview multi-page Uploaded pdf 
+New
+Product keywords for search product 
+New
+Apply Rules on ‘Extra fields’ & ‘Form fields’ 
+New
+Designer Studio Enhancements
+Apply background to all pages 
+New
+Soft deletion of image 
+New
+Advanced Editing Options for Mobile
+Third-Party Integration
+WhatsApp Business API 
+New
+Stamped.io (Customer Review) 
+New
+v7.2 
+28 Jan, 2020
+View Details
+
+
+Product Module
+Introducing Canvas Product (Add-on) 
+New
+Kit Product Enhancements
+‘Add to Cart’ Product (at category landing page) 
+New
+Additional Option’s Attributes In a Single Row
+Export Specific Product Sample File
+Starting-Price (of product) Feature 
+New
+Show Only Selected Pages in Designer Studio
+Shipping Module
+User Group-Wise Shipping Method
+Flatship Shipping Method Integration 
+New
+Third-Party (Shipment) Billing 
+New
+Package Master, Package Weight and Bulk Package Import 
+New
+Third-Party Integrations
+Adobe Stock
+PressWise
+Designer Studio
+Regional Language Font Support
+Mobile-friendly Theme For Mobile Users 
+New
+Reuse Saved Events and Occasions in Calendar
+Curved Text Along a Path 
+New
+Cutmark and Crop Mark Logic Improvision
+Preview Without Cut Margin 
+New
+Front Store
+Add Items in Shopping Cart without Login
+Marketing Landing Page with Dynamic Inquiry Form 
+New
+Style Header Links Containing Sub-Menu
+Admin Section
+Easy Navigation Between Corporate & Super Admin Login 
+New
+Import Language Text Reference for Studio and Admin constants
+Report Enhancements
+View All Logs in Admin Panel 
+New
+Advanced Validation for Dynamic Form Fields & Extra Fields
+Deactivate Customer Account 
+New
+Order Module
+Provision to Add Negative Discount 
+New
+Order Transfer over Google Drive, S3 Server and Dropbox 
+New
+Offline Order Enhancements
+Minor Features
+Multiple bug fixes and enhancements
+v7.1 
+11 september, 2019
+View Details
+
+
+Corporate/B2B
+Level-Wise Corporate Order Approval 
+New
+Corporate Wise Configuration Setting
+Multiple Corporate with Same Email ID 
+New
+Navigation & Help Enhancement
+Corporate Address Sync with Template Personalization
+Order Module
+Easily Import New Orders (Add on)
+New
+Unique Identification of Invoice
+Reorder Offline & Quote Order
+New
+Custom Page Name for the Additional Print File
+Enhancement in ‘Bulk Order Update’ Process
+Shipping Module
+Enhanced Shipping Method Presentation
+Order Shipment Section Enhancement 
+New
+In-store/Local pickup setup geography-based
+Provision to know the Shipping Cost Before Approving the Quote
+Provision to add Rule on Shipping Cost
+Blind Shipment Feature 
+New
+Designer Studio
+Designer Studio Enhancement
+The Quick Side Navigation Bar 
+New
+Preview of Design with Cut Margin Area
+Photobook – Spine Feature (Add-on) 
+New
+Change Template/Theme from Designer Studio
+Custom Position of Month Layout (Calendar)
+Custom Art Maker (Add-on) 
+New
+Facility to ‘Repeat Background’ 
+New
+Upload Center Proof Tool Enhancement
+Provision to convert SVG to Clipart at Front side
+New
+Navigation enhancement in Admin Templates section:
+Calendar Layout Enhancement
+Front-Store
+Coupon/Discount Module enhancement
+Auto-suggestion in Address field 
+New
+Website Speed Optimization
+Quote Module
+Upload Cloud File for Quote 
+New
+Partial Quote Approval
+Admin Section
+Branch Management Enhancement 
+New
+Bulk Import for ‘Language Text Reference’
+Feature to Customize the Layout of ‘Predefined Products’
+Template and Product Level – Additional Fields for Production
+Provide Reward Points based on Customer 
+New
+Product Section
+Price Calculator UI Enhancement
+Provision to Select Measurement Unit for Custom Size Product
+Manage Stock of Products with Multiple Size 
+New
+Product SKU, Product Weight and Production Days – Enhancement
+Third-Party Integrations
+Klaviyo Integration 
+New
+Facebook Pixel Integration 
+New
+Minor Features
+50+ minor enhancement and other bug fixes from last release
+v7.0 
+25 March, 2019
+View Details
+
+
+Store Management and Admin Features
+Custom Size price calculation based on Sheet
+Product weight configuration enhancement – Combination based & no. of pages option
+Production Days configuration enhancement – Combination based
+New Filter added separately for Production Days & Shipment Days
+Product Help Template section enhanced
+Standardized the naming for Print Ready Files
+Export Order feature enhanced
+Added Custom Report Hook & Save Reports with specific filter selection
+Combine Price Option with “Number of Pages”
+Flat Shipping Price for custom Quote products option
+Coupon set-up for multiple products with different discount percentage
+Designer Studio Features
+SVG Templates converted into Designer Studio Templates
+Master templates for Custom Size Products & Resize options
+Uploaded File Proofing Tool
+Store Front Features
+Product Header menu options (Mega Menu)
+Grid view for order listing page
+Price Calculator page optimization (Performance & Presentation)
+Multiple Quantity option – Product setting based
+Side bar removed from pages that appear after ‘Product Info’ Page
+Option – Image Alt Text added
+Add On Plugin & Technology Upgrades
+EPMS MIS Enhancements
+Ship Station Integration (Two Integration)
+PHP 7.2 Upgrades
+Bootstrap & Third Party Libraries
+30+ Minor Enhancements
+v6.3 
+11 Sep, 2018
+View Details
+
+
+Store Management and Admin Features
+Quote management Enhancements
+Quote management Enhancements
+Procurement Module 
+New
+B2B Module Enhancement
+Corporate Admin modify Order section enhancement
+Notification Management Controls for Corporate
+Order Management Module Enhancement
+Refund Module with Payment Option 
+New
+Order Notes 
+New
+Order Payment Status (Paid/Unpaid) Management 
+New
+Admin side large file upload (offline order & modify order)
+Offline Payment methods for specific customer 
+New
+Job Board Enhancement & Add Order in Watch List
+Bulk stock update/import using csv or excel & Stock management report 
+New
+Special pricing based on quantity in custom size products
+Logo Upload Interface 
+New
+Store Front Features
+Order Count Wise Coupon discount
+Skip Additional Info Page while ordering
+Save User Design from studio
+Redesign Breadcrumb with link
+Additional Template filter
+Two Step Authentication via email
+Address Validation in shipping method
+Studio Features
+Custom Size Change from Studio Page
+Switching Design Templates with Personalized content
+Product type wise Studio Settings
+Product wise predefined messages
+Product Type Wise Language Text Reference
+Page Background enhancement
+Symbols, Text outline, border, Ruler Guide
+Product Unit wise Position and size controls
+3rd Paty Integrations
+Mail Chimp Automation Integration 
+New
+EPMS MIS 
+New
+Tax Jar 
+New
+API 
+New
+Get Product
+Get Stock
+Set Stock
+Add on Plugins
+Photo Album
+Calendar Module Enhancements
+Designer Market Place
+Minor Features
+50+ Minor enhancements and other bug fixes from last release
+v6.2 
+21 Mar, 2018
+View Details
+
+
+Store Management & Admin Features
+Corporate Enhancements (specific theme, tax/vat exempt, Auto Invoice & Pay
+Workflow Admin Enhancements
+Internal Product and Product Category
+Store Front Features
+Pay-on Account Recharge for Retail Customer & Offer settings 
+New
+Payment Processing Fee 
+New
+Templates display in Product Info Page
+Minor Features
+50+ Minor enhancements and other bug fixes from last release
+Studio Features
+Mask & Border on Image New
+Studio Image Filters New
+Template Wise Layouts for Designer Studio 
+New
+3rd Paty Integrations
+4Over Integration for Order Status and Tracking 
+New
+Pixabay Integration 
+New
+Add on Plugins
+Booklet Module
+Designer Market Place
+Mailing Module
+Photo Album
+v6.1 
+05 Sep, 2017
+View Details
+
+
+Store Management and Admin Features
+Multiple Products in Single Quote Request 
+New
+Reward Points Enhancement
+CMS, Product Layout & Banner Enhancements
+Upload File Enhancement – Upload Center, Quotes, Artwork Later, Modify Order
+Shipping Package Enhancement for Custom Size Products
+Modify Design Pop-up
+Store Front Features
+Visual / Graphic Based Pricing Calculator 
+New
+Unsaved Design Pop-up on Browse Design and Studio 
+New
+User Specific Templates 
+New
+Order Level Extra Fields 
+New
+Template Wise Additional Form Fields 
+New
+Product Info Page Layout Enhancement
+Corporate Enhancement
+3rd Party Integrations
+Google Tag Manager Integration 
+New
+Tax API Integration 
+New
+Add on Plugins
+Visual Proofing Tool 
+New
+Photo Calendar 
+New
+Zapier Integration 
+New
+Zendesk Integration 
+New
+Minor Features
+45+ Minor enhancements and other bug fixes from last release
+Studio Features
+PDF Block Studio Merged with HTML5 Studio 
+New
+Image Effect for Image Blocks 
+New
+Image and Text Dependent Alignment 
+New
+Ruler for Canvas in Designer Studio 
+New
+Only Position Lock on Canvas 
+New
+Properties Edit Option Enabled for Multiple Text Selection 
+New
+Drag & Drop Elements on Canvas 
+New
+ClipArt SVG Upload and Color Change Option 
+New
+Snap to Grid Feature 
+New
+Import Image for Dropbox and Google Drive 
+New
+Error Message for Validation in Block Studio 
+New
+v6.0 
+28 Apr, 2017
+View Details
+
+
+HTML5 Designer Studio
+Offer Product Specific Look n feel & Designer Studio Theme Options 
+New
+Studio Configuration Settings (Configurable Look and Feel) 
+New
+Product Wise Studio Settings (Dynamic Personalization from Product Page) 
+New
+Separate Language Text Reference 
+New
+Promotional Product Configuration 
+New
+Page Wise Layout Creation in Templates 
+New
+Personalize Color Palettes 
+New
+Personalized Font Upload 
+New
+Studio / Template Features
+PDFLIB Block Features 
+New
+Printable / Non Printable Block 
+New
+Block Specific Validation 
+New
+Virtual Block Enhancement During Bulk PDF Generation
+Enhancement of Centralized Fields and Dependency Rules
+Optimization of Preview Speed 
+New
+Minor Features
+Bug fixes from last release
+v5.4 
+01 Feb, 2017
+View Details
+
+
+Store Management and Admin Features
+Add / Remove Product in existing Order 
+New
+Product Wise Package & Tracking No. in Orders 
+New
+Create New Version (Duplicate) for PDF Block Templates 
+New
+Bulk Order Status Update & Tracking Number Through Import 
+New
+Shipping Handling Charges 
+New
+SMTP & API based Mail Connection Master 
+New
+Mass Personalization PDF Generation Enhancement 
+New
+Additional Option Validation (Mandatory) 
+New
+Minor Features
+24 minor enhancements including bug fixes
+Store Front Features
+Hire a Designer 
+New
+Quick Signup 
+New
+Order Cancellation Request Provision to Customer 
+New
+Billing Address on Partial / Direct Payment Page
+B2B Management Features
+Corporate Wise Default Language and Currency Setting 
+New
+Corporate Branding on Signup and Reset Password Page 
+New
+Personalization Profile 
+New
+Corporate Wise Extra Field
+Order Approval via E-mail Directly Without Login
+v5.3 
+14 Sep, 2016
+View Details
+
+
+Store Management and Admin Features
+Corporate Invoice Management. 
+New
+Third Party Integration with Salesforce, LeadDyno and Push Notification. 
+New
+Corporate Store Profile 
+New
+Predefined Products Kit 
+New
+Order Status Enhancement
+Commission Management
+Product SKU Enhancement
+Customer Group Wise Discount/Coupon
+Request Quote from Admin Panel
+Minor Features
+25 plus minor enhancements including bug fixes.
+Store Front Features
+Signup Form Additional Fields 
+New
+Upload Center Proofing 
+New
+Multiple upload provision in single Job 
+New
+Print Production Management
+Print Production Workflow Management 
+New
+Create Production Profile and Access Roles 
+New
+Real Time Status Updates 
+New
+Flexibility to define production flow as per product profile 
+New
+Imposition Module (Beta) 
+New
+Designer Studio / Templates Features
+Autofill Templates from Profile 
+New
+Designer Studio for Custom Size Products 
+New
+Simplified PDFLIB Block Template Creation 
+New
+Rich text editor in advance designer studio 
+New
+Corporate wise Font management
+Default Image for Templates from Master Image Gallery
+Object Outside Design Area Warning
+Provide Artwork Later and Studio Template Proof Cycle Enhancements
+Background lock form admin side in studio
+v5.2 
+18 May, 2016
+View Details
+
+
+Admin Features
+Print Store Branch Management
+Multiple Corporate Admin with Specific Access Rights
+Custom Size Product Enhancement
+Stock management for printing products
+Automatic Reminder Emails
+Designer Studio / Templates Features
+Stock Photos (Deposit Photos) API Integration
+Instagram API integration
+Image block mapping in Bulk PDF Generation
+Template Sales Summary Report
+SEO
+Canonical URL control for all store front pages
+Set URL redirection while deleting records
+Front Store
+Sync Quote, Upload Center & Offline Order flow based on approval cycle
+Quotation Enhancement
+Minor Feature enhancements
+20 plus minor features
+OnPrintShop v5.1 bug fixing has been added to achieve existing customer’s ongoing needs.
+v5.1 
+16 Feb, 2016
+View Details
+
+
+Designer studio
+HTML Designer studio
+Advance CMYK & RGB
+Additional Option based Designer Studio
+Third Party Integration
+Quick Book Integration
+Xero Integration
+Front Store
+Combo product Discount offers
+Promotional messages Display
+Assign single product/template to multiple categories
+Admin Features
+Setup pricing with additional option group price
+Notification feature for admin, corporate admin & business partners
+Minor Feature enhancements
+30 plus minor features including fixing of bugs
+Major code changes to achieve Performance, Database Engine, Optimization
+v5.0 
+7 Sep, 2015
+View Details
+
+
+Redesigned Admin Panel – Enhanced Productivity
+Online Designer Studio – Improved Experience
+B2B Module – Multiple Approval Rules
+Sales Agent Module
+No of Pages option with Additional Option
+SMS Facility
+Default Estimated Delivery Date
+Multiple Quantity for Quote section
+Advance Search (Product, Templates & Contents)
+Other Enhancements and Bug Fixes
+v4.5 
+26 May, 2015
+View Details
+
+
+Inventory Management and personalize home page for Corporate Customers
+Fix Address, Payment and shipping option for Corporate Customers
+Product Badge for promotion and Product Discount Enhancement
+Order Process without Personalization and without Artwork
+Template Specific Properties
+Enhancement for Custom Size options
+Favorite order and order feedback website customers
+Theme CSS editor for small changes
+Checkbox in product additional option type
+Show Price after Login only
+Email log with resend for admin
+Other Enhancements and Bug Fixes
+v4.4,v4.4.12 
+7 Jan, 2015
+View Details
+
+
+New “Paragraph” control for add text
+Parallel Loading
+Fix Property Panel
+Major/Minor Bug fixing
+Vendor Price Management
+Order’s Partial Payment Option
+Store Order Files on Cloud to Manage Disk Space
+Capture Customers’ Inquiry source
+Enhanced Block Template Personalization tool (HTML)
+Shipment Tracking Enhancements
+Excel based Product and Pricing set up
+Other Enhancements and Bug Fixes
+v4.3 
+16 Sep, 2014
+View Details
+
+
+Corporate Module Enhancement
+Enhanced HTML Studio with Text Personalization
+Customers Reward Points Module
+Template Resize
+Dynamic Product Info page layout
+Other Enhancements
+v4.2 
+4 Aug, 2014
+View Details
+
+
+Simplified Quote Management
+Split Orders Product-Wise to Multiple Venders
+Upload Large Files with Amazon S3
+Multiple & Flexible Shipping Methods
+Show case related products & ‘Discount-Price’ Display
+v4.1 
+2 jun, 2014
+View Details
+
+
+Custom Size (Dynamic Size)
+Three Tier Product Categories
+Image Quality Check in Designer Studio
+Enhanced Mobile Responsive Form based Designer Studio
+Review & Social Sharing API Integration
+Other Enhancements
+v4.0 
+1 Mar, 2014
+View Details
+
+
+Responsive Layouts
+Easy Website Theme Management
+Advanced Storefront Management Features
+Engaging Product & Template Display
+Shopping Cart Enhancements
+HTML Designer Studio Enhancements New Features
+New Features
+07 Dec, 2013 
+View Details
+
+
+Stock Management
+Integrate Online Price Calculator
+Enhanced Shipping Cost Calculation
+Support for Excel Format Files
+Restrict Product Quantity during Order
+Other Enhancements
+24 Oct, 2013 
+View Details
+
+
+Corporate Management
+Pay-on Account for Retail Customers
+Advance Search Feature
+Custom Redirection after Login in Front Store
+Studio Compatible with Handheld Devices
+Other Enhancements
+27 Sept, 2013 
+View Details
+
+
+Export Orders
+Job Ticket
+SEO Module Enhancements
+Improved Password Security
+10 Aug, 2013 
+View Details
+
+
+Orders Module
+Multiple Template Delete
+Centralized Store Settings
+Product Based Navigation Menu
+Centralized Product Information
+Corporate Credit/Debit History
+Breadcrumb Selection Facility
+Shipping Management
+25 Jun, 2013 
+View Details
+
+
+Products Tax Setting
+Customer Details Report
+Customer Sorting
+Specific Time Zone Setting
+Search Feature
+14 May, 2013 
+View Details
+
+
+New Admin Dashboard
+Reports Enhancement
+Product Weight Management
+Coupon Management Enhancement
+Product Price Management
+Enhanced Price Calculator
+24 Jan, 2013 
+View Details
+
+
+Duplicate Additional Options
+Duplicate Product
+Additional Option Rules with AND Condition
+Archive Orders
+Duplicate Templates
+Admin Group Access
+Mask Image
+Invoice & Label Templates
+Category Landing Page
+Master Templates
+08 Jan, 2013 
+Vendor Module
+PDF Block Template
+Mass Personalization using CSV
+Benefits
+#1 AI-Powered Web to Print Software
+ that opens up avenues to drive more print sales, automate processes, and streamline print business operations. 
+Live Demo
+Get in Touch
+biz@onprintshop.com
+ India 
++91-79-35200685
+ USA 
++1-718-715-1551
+Web to Print Solutions
+B2B Storefront
+B2C Storefront
+Custom Web to Print
+Trade Printer Solutions
+W2P for Print Franchise
+Large Format Printing
+Web to Print with 4Over
+Reporting & Analytics
+Print Workflow Automation
+Commercial Printing Solutions
+Web to Pack Solutions
+Print Estimating Software
+Personalized Print Solutions
+Photo Printing Software
+Canvas Printing Software
+Marketing Automation
+Photo Calendar Software
+Photobook Design Software
+W2P Designer Marketplace
+Direct Mail Marketing
+Design Proofing Software
+Labels & Sticker Printing
+Booklet Printing Software
+Explore
+Web to Print Storefront
+W2P Storefront Themes
+W2P Printing Products
+W2P Printing Sizes
+Print Fulfillment Software
+W2P SaaS Solutions
+Brochure Design Software
+Signage Design Software
+Wide Format Printing Software
+Print Ecommerce
+Web to Print Online Designer
+Order Management Software
+Variable Data Printing Software
+Custom Logo Design Software
+HTML5 Online Designer Studio
+Company
+About
+Contact Us
+Client Testimonials
+Success Stories
+Events
+Webinar
+ Awards 
+Powered by
+ Copyright © 2025 OnPrintShop. All rights reserved. 
+Compliance
+ | 
+Legal
+ | 
+Privacy Policy
+ | 
+Website Terms of Use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+    This website uses cookies  
+
+
+
+
+
+      This website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy.    
+
+
+
+        Read more      
+
+
+
+
+
+
+
+        Save & Close      
+
+
+
+        Accept all      
+
+
+
+        Decline all      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Show details      
+
+
+
+        Hide details

@@ -1,0 +1,58 @@
+Store Dashboard - User Manual
+⌘
+K
+B2B/Private Store - Pro Plan
+Knowing Store
+Store Dashboard
+6 min
+There are various elements on the Store Dashboard. Store Admin, as well as Site Admin, can use these links to reach different sections of the Store Account.
+Read along to know more -
+Quick Links and Search Bar
+Admin can reach different sections of the Store account using the dynamic navigation menu with quick links. Links to the Store sections and live storefront appears at the top, along with a universal search bar for stores registered into the system.
+﻿
+Pay On Account Details
+If Admin has enabled Pay on Account for the Store, then both Store and Site Admin can check the Pay On Limit given. The dashboard also gives a quick report of 
+Remaining Paid Limit
+ and the 
+Remaining Invoice Amount
+.
+﻿
+Store Order Statistics
+If Admin has enabled the Order Approval process, then this section will display the Store's all-time totals for 
+Pending and Approved orders
+.
+﻿
+Store Details
+At a glance, this section displays basic store details, with a quick link for Admin to log into the Store's Admin Panel. Admin can also check the Configuration Setting, Content Setting, and Store Setting chosen while creating the Store.
+﻿
+Order Details
+Store Admin, as well as Site Admin, can check the orders placed by 
+Store Customers
+. This section shows the Store store’s most recent orders. In addition, you can click on the 
+View All
+ link to see the list of all orders in the Orders Section.
+﻿
+Customers Details
+This section displays the Store Customer's link who logged into the Store website, along with their basic details such as name, email, login time, and date. Click on View All to see the list of all Store Customers.
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Introduction
+NEXT
+Creating Store
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Quick Links and Search Bar
+Pay On Account Details
+Store Order Statistics
+Store Details
+Order Details
+Customers Details
+Docs powered by
+ 
+Archbee

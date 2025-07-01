@@ -1,0 +1,96 @@
+Generate Content and Images using openAI - User Manual
+⌘
+K
+Supporting Docs
+Generate Content and Images using openAI
+11 min
+Overview
+OpenAI can assist printers in managing their website content by automating and enhancing various aspects of content creation, optimization, and management. 
+With the openAI feature in your OnPrintShop store, you can craft high-quality and relevant content for product descriptions, meta descriptions, and website content pages maintaining a consistent and engaging user experience while significantly reducing the time and effort required for manual content creation. 
+Additionally, the admin can also generate images for product descriptions and galleries.
+Configuration
+Before using the openAI in your store for generating content, you need to integrate the openAI platform with OnPrintStore. You can integrate this service with your store by following the 
+configuration steps
+﻿
+.
+﻿
+Generate Content
+Once you have integrated openAI with your OnPrintShop store and you have performed the other configurations, you are all set to utilize this for content generation. 
+Product Description
+On the Product Description page, the top of the admin interface displays a highlighted help feature. Here, the admin will find a "Generate Content" button, which, when clicked, uses the default prompt to generate the product description:
+﻿
+Once the Admin clicks on the 
+Generate Content, 
+a popup message will appear to confirm that all the descriptions will change based on the default prompt and if they want to proceed:
+﻿
+If the admin clicks on “Cancel” then the content will remain the same as it is and if the admin clicks on “OK” then it will change the content based on the default prompt.
+If the Admin wants to edit the prompt on an individual basis, then we have provided a 
+Generate Content
+ button on each description:
+﻿
+To create content for any specific description, click on the 
+Generate Content
+ icon from the editor:
+﻿
+In the popup window, you can select the prompt templates and see the prompt description. If you want to modify anything in the description, you can do so as per your need or else you can proceed by clicking on the 
+Generate Content
+ button. Based on the selection, a response will be generated:
+﻿
+Once the Response is generated, you can use the content for the selected description type by clicking on the Apply button and the description will be displayed in the editor window or you can even copy this particular response for future use.
+This process will remain the same for the Short Description, Long Description, Long Description 2, Upload Center Description, and Browse Description.
+Meta Descriptions
+For Meta Descriptions, clicking the common "Generate Content" button will automatically generate the content and place it directly into the meta description field.
+Content Management
+In the Content Management section, the Generate Content feature is available in the Page Content section exclusively for the Dynamic pages. 
+Note: 
+This AI functionality does not apply to Fixed pages or Category pages.
+In the Dynamic Pages, for the page contents and Short Description, we have provided the AI feature. 
+For Both of these, we have provided a text area where the admin can write the prompt and we have provided the example in the help icon:
+﻿
+Based on the help and sample content according to the requirement of the admin, they can create a prompt and generate the required output.
+Generate Images
+Once you have integrated openAI with your OnPrintShop store and performed the other configurations, you are all set to use it for image generation. 
+For Image Generation, you need to have the GPT 4 model integrated with your OnPrintShop store. 
+Product Description
+On the Product Description page, the admin will be able to generate images for Short Description and Long Description using the "Generate with AI" icon:
+﻿
+Clicking on the icon will redirect you to a popup as shown below:
+﻿
+In the popup window, you can select the prompt templates and see the prompt description. If you want to modify anything in the description, you can do so as per your need or else you can proceed by clicking on the 
+Generate 
+button. Based on the prompt and selection, an image will be generated:
+﻿
+Image Gallery
+For the Product Image Gallery, the admin can now select the image upload method from Manual Upload or AI Assistant:
+﻿
+Select "
+AI Assistant
+" in the Image Upload Method to generate the images using AI. Next, click on the "Generate with AI" button. This will open a popup where the admin needs to select the prompt from the drop-down. The prompt details will appear, which can be kept as they are or modified as per the requirements. 
+Finally, the admin can click on the 
+Generate 
+button. Based on the prompt and selection, an image will be generated:
+﻿
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Estimated Delivery Days Calculation
+NEXT
+Mass Template Personalization
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview
+Configuration
+Generate Content
+Product Description
+Meta Descriptions
+Content Management
+Generate Images
+Product Description
+Image Gallery
+Docs powered by
+ 
+Archbee

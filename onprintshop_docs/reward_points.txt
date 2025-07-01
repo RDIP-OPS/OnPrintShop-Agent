@@ -1,0 +1,88 @@
+Reward Points - User Manual
+⌘
+K
+Marketing
+Reward Points
+10 min
+Overview & Purpose
+To encourage more sales, or to regain customer loyalty, you can anytime assign your customers with Rewards. These are loyalty points that customers can earn after creating an account or after placing an order, as set by the Admin.
+With Reward Module give your customers some loyalty points. Giving loyalty points will encourage more sales, however, it is not suitable for all businesses. But, clearly, the reward module can give you certain advantages.
+Reward Customers - Give your customers rewards for their loyalty or referrals.
+Encourage Sales - With every order of a certain amount, you can reward your customers with a few points. This will encourage more sales and increase your overall revenue.
+Promotional Sales - You can also give store credits with sales promotion. Like a person ordering online with the website will get a certain amount of credit. Shoppers will see this as a benefit and store owners will see an increase in their online order.
+Compensation - You can compensate for bad customer experience with reward points. Taking this action might save you from a bad review on social media or any other negative effect.
+The Dashboard
+By default, this section is disabled, to enable it simply go to the 
+Admin >> Store Configuration >> Settings >> Search with 'reward' >> Enable Reward Module (Select Yes)
+﻿
+At-a-glance you can check all the customers' rewards, the points earned, the points spent, coupon code (if any), and the last activity performed.
+﻿
+Manage Reward Points
+This is an interface provided for the Admin to control and manage the reward points of the customers. Using this interface, you can add points into customer's account for registration and order. You can also create coupon code for the existing rewards points. You can also record spend of reward points for order and canceled order.
+To manage the Reward points for your customers, navigate to the 
+Admin >> Orders >> Reward Coupon >> Manage Reward Points (Top Right Link)
+﻿
+To add or update the reward points for a user, type first 3 letters of the customer name and select the customer from the drop down. 
+The summary of the reward points for the selected user will be displayed. 
+Select the Transaction Type from the drop down:
+Earn Registration
+: Add reward point for a specific customer for registering in your front store.
+Earn Order
+: Add reward point for a specific customer for placing an order in the front store.
+Create Coupon
+: Create a coupon for a specific customer from his earned reward points. Later you can share this coupon code with the customer.
+Spent Order
+: You can deduct reward points for a specific customer by giving an order reference.
+Spent On Cancelled Order
+: You can deduct reward points for a specific customer for canceling an order by giving order reference.
+On the selection of transaction type, add the reward points and create coupon for the customer.
+Rewards History
+You can get the information about the Rewards history to date from the 
+Admin >> Orders >> Reward Coupon >> View Reward History (Top Right Link)
+﻿
+You can get details about how your customers have earned and spent the rewards along with the remaining reward points.
+You can also check who created or redeemed the rewards i.e. Admin or User.
+Reward Point Setting
+From this interface, the admin can decide how the customer will earn the rewards and how they can spend their rewards. 
+To configure this setting, navigate to the 
+Admin >> Orders >> Reward Coupon >> Reward Point Settings (Top Right Link)
+﻿
+You can award points when a customer registers and when places an order. Enter the conversion of order value to reward points and it will automatically reflect in customers' My Account under Reward Points section.
+You can also set the minimum to maximum redeemable points. Reward coupon will be automatically generated in the customer's My Account as per the range you set for spending reward points.
+You can decide the reward points and coupon expiry days in both sections using the expiry textboxes.
+Action Menu of Reward Point
+Under the Actions column, the admin has 3 actions to take:
+﻿
+Manage Reward Points
+This is the same as the Manage Reward Points explained earlier.
+View Reward History
+This is the quick link to view all the reward points earned and redeemed by the customer. Export Reward History link on the top left allows you to download an Excel file with all the reward coupon history.
+View Coupon
+An overview of all the coupons created their value, reward points used, their status, etc. for a specific customer. You will be able to view all the active (Green) and inactive (Red) in the interface. You will be able to change the status of any coupon from the interface:
+﻿
+Delete: 
+Coupons for which the Status is marked as Red (Inactive) will show an Action menu next to it in which the delete option will be available for you to delete the coupon. If you delete the reward coupon, then the transaction will be reversed and reward points will be reflected in the customer's My Account.
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Coupon & Discounts
+NEXT
+Admin
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+The Dashboard
+Manage Reward Points
+Rewards History
+Reward Point Setting
+Action Menu of Reward Point
+Manage Reward Points
+View Reward History
+View Coupon
+Docs powered by
+ 
+Archbee

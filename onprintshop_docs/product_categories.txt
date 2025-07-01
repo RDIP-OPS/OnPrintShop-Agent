@@ -1,0 +1,159 @@
+Product Categories - User Manual
+⌘
+K
+Products
+Knowing Products
+Product Categories
+15 min
+Overview & Purpose
+For a Printing website, it is important to create the best categorization structure for your entire product range. Product categorization helps the customer to reach their product in just a few clicks and scrolls.
+This means creating a Product Categories Group and Product Category will help your visitors narrow down their efforts to find a product on your web store.
+OnPrintShop Admin Panel allows you to create Product Categories and Product Category Groups for a better display and navigation of your Products on the Front store. Additionally, the system has an option for Mega Menu.
+Mega Menu makes it easy for the customer to find any desired product without any hassle.
+What is Mega Menu?
+
+A mega menu is a multi-level expansion, which simply packs up the entire website navigation in one menu. It is most helpful to websites with multiple category groups and categories.
+Mega Menu makes it easy for the customer to find any desired product without any hassle.
+﻿
+Manage Product Categories
+Enable Product Category
+The product categories are by default disabled in your system. 
+﻿
+To enable these, 
+Navigate to the 
+Admin Panel > Store Configuration > Site Settings. 
+Type and Search “
+category
+”
+Locate the 
+Enable Product Category / Product Category with Group?
+ under the ‘Product’ tab.
+Select the “Yes” option from the drop-down.
+Save the settings.
+Enable 3-tier Product Category
+As soon as you enable the product categories, the two-tier product category is enabled. 
+To get a 3-tier product category i.e. to enable Product Category with Group, navigate to the 
+Admin Panel > Store Configuration > Settings > Search “category” > Under ‘Product’ tab > Enable Product Category / Product Category with Group? (Select “Yes with Group”)
+The 3-tier Category Structure works as – 
+Product Category Group -> Product Category -> Product
+What is the right way to categorize a product?
+When it comes to the categorization of a product, it is very much important to understand the similar characteristics of various products and keep them under one umbrella. Also, with the help of SEO experts, understand what people search over the web, and what they are looking for.
+With this information, it becomes very easy to create product categories and create a group for these categories. Such broad categorization will reduce the number of user clicks and help customers easily navigate to their desired product.
+Product Category Dashboard
+If the 3-tier categorization is ON, then on the product category dashboard, the Admin can view all the product categories and Category groups.
+﻿
+Note:
+ On the Product Category page, 7 product categories are provided by default.
+On the Product Category page, you can add a product category and product category groups. For the added categories and groups, you can toggle the status of the category according to the requirements, edit the details and assign a sort order to display the product category and groups at the storefront.
+Product Category
+Add Product Category
+As mentioned above, by default 7 product categories are provided with a new store. Also, the admin has the facility to create multiple product categories as per their business needs.
+To create a new category, click on the 
+Add Product Category
+ button from the top right corner of the Product Category dashboard. 
+Product Category Details
+Category Title –
+ This is the name of the category, which a customer will see and use to navigate further into your store. Try to keep a category name short. Choose a name that easily summarizes all the products in it.
+Category Internal Title –
+ This title is useful on the Admin side only. As an Admin, you can assign an internal title to the category such that it becomes easy for you to manage all the categories.
+Category URL –
+ This is the unique URL given to your Category page. This makes it easy for your customers to find your category pages over the web. Thus, it is advisable to keep the URL name SEO friendly. 
+If kept blank, the system automatically generates a URL for the category.
+Category Group – 
+You can assign this product category under a category group (if you have created one).
+Category Image –
+ This image is displayed on the home page. 
+(Only if the category is enabled to be displayed on the home page)
+Category Icon 
+(Works only with Mega Menu)
+ –
+ This image is displayed beside the Category Name in the Mega Menu.
+﻿
+Descriptions
+Category Header Menu Content 
+(Works only with Mega Menu)
+ –
+ Category content that is displayed at the category header.
+Short Description –
+ Give a short description of the overall category. This description is displayed on the home page.
+Long Description –
+ This is what explains the motive of the category. This is displayed on the landing page of the category.
+Other Details
+Category Badge Pattern –
+ you may introduce a new category into your store or are offering a discount on the overall category range. In such a situation, you can select a Category Badge Patten and display it on the Category. The badge pattern can be of the type Ribbon, Cross Label, Triangle, Corner, or Burst.
+Enable Promotional Text –
+ Toggle the status ‘
+On
+’ to display the promotional text.
+Enter Promotional Text –
+ This is the promotional text, which will help the customer understand the offer or discount in the category. The promotional text can be of type ‘NEW’, ‘OFFER’, ‘10% OFF’ etc., depending on the requirements.
+Display on Home –
+ Enable the toggle to display the category on the home page. Displaying a category on the home page will make it attractive. You can display your bestselling categories on the homepage and gather more attention from customers.
+Add to Cart 
+- To allow customers directly a product in the Cart, an "
+Add to Cart
+" button will be added to the Product List and Product Category Pages.
+Clicking on the ‘
+Add to Cart
+’ button will perform either of two actions from below –
+If there are no Additional Options for a Predefined Product, the customer can directly enter the quantity and continue to the cart page.
+For standard and other products, customers will find a ‘
+View Details
+’ button redirecting them to the Product Info Page.
+For Predefined Product with additional options, a pop-up will occur to fill in the product additional options details and continue to the cart.
+SEO Content Description
+All the content; the Page Title, keywords, and description helps in search engine ranking of the category pages. A good ranking will help customers easily find your category page and thus help you get potential traffic on the page.
+Page Title –
+ This is the Category Page title displayed in the search results
+Meta Description –
+ A short description of your category page, displayed along with the page title.
+Canonical Reference –
+ Give reference to the similar pages here i.e. pages with similar content as the category page created. This will save your website from the consequences of duplicate pages.
+Edit Category
+The 
+Edit 
+icon under Actions is a quick link to modify and make changes in the product category. You can edit the name of the category, images, content, or the promotional text of the category. If there are multiple languages enabled in your web store then manually add content for each language
+Note:
+ The system will allow deletion of Category which does not have any product associated/assigned. 
+Product Category Group
+Add Category Group
+The steps for adding a new category group are the same as the product category. 
+Note:
+ These category groups are created only for better visualization of the customers. Admin has to only use Products and Product Categories for any settings in Admin Panel.
+Some examples of Category Groups are –
+Example of Accessories
+﻿
+Example of Business Identity
+﻿
+Edit Category Group
+The 
+Edit 
+icon under the Actions is a quick link to edit and modify the Category Group details. The system allows the admin to edit content, images, promotional text, and SEO content of the Category group. If there are multiple languages enabled in your web store then manually add content for each language.
+Note: 
+The system will allow deletion of Category Group which does not have any product associated/assigned. 
+﻿
+Did this page help you?
+Yes
+No
+PREVIOUS
+Ready To Buy Products
+NEXT
+Add New Product
+Docs powered by
+ 
+Archbee
+TABLE OF CONTENTS
+Overview & Purpose
+Manage Product Categories
+Enable Product Category
+Enable 3-tier Product Category
+Product Category Dashboard
+Product Category
+Add Product Category
+Edit Category
+Product Category Group
+Add Category Group
+Edit Category Group
+Docs powered by
+ 
+Archbee
